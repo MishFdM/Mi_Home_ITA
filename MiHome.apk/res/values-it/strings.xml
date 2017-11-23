@@ -108,8 +108,8 @@ Prova selezionandone una differente."</string>
     <string name="air_desc_title">Mi Air Purifier</string>
     <string name="air_pm25_title">"PM2.5 All'aperto/All'interno"</string>
     <string name="air_purifier">Mi Air Purifier</string>
-    <string name="air_quality_100">Buono</string>
-    <string name="air_quality_50">Grandioso</string>
+    <string name="air_quality_100">Buona</string>
+    <string name="air_quality_50">Ottima</string>
     <string name="air_quality_outside">"Aria all'esterno"</string>
     <string name="air_serach_no_device_green_1">Quanto il led verde lampeggia Air purifier è in attesa di connessione</string>
     <string name="air_serach_no_device_green_2">Se il led verde è fisso, la connessione è occupata. Riavvia il dispositivo.</string>
@@ -198,7 +198,7 @@ Prova selezionandone una differente."</string>
     <string name="body_sensor_motion">Il sensore di movimento corporeo ha rilevato qualcuno</string>
     <string name="body_sensor_no_motion">Il sensore di movimento corporeo ha rilevato la partenza di qualcuno</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
-    <string name="bought_device_go">Apprendi di più</string>
+    <string name="bought_device_go">Di più</string>
     <string name="bt_device_not_support_launcher">I collegamenti per i dispositivi Bluetooth non sono supportati</string>
     <string name="buildin_ir_name">Mi Remote</string>
     <string name="button_bind">Connetti</string>
@@ -325,7 +325,7 @@ Prova selezionandone una differente."</string>
     <string name="check_network_retry">Controlla la rete e riprova</string>
     <string name="choose_action_activity_title_bottom">Ad esempio: accendi la luce della camera da letto</string>
     <string name="choose_action_activity_title_top">Fai qualcosa se le condizioni sono soddisfatte</string>
-    <string name="choose_action_activity_title_top_format">Cosa fare se %s?</string>
+    <string name="choose_action_activity_title_top_format">Cosa fare se: %s?</string>
     <string name="choose_body_sensor">Seleziona sensore corporeo</string>
     <string name="choose_camera_header">Ordina per intensità del segnale Bluetooth</string>
     <string name="choose_device_device_count">%1$d dispositivi</string>
@@ -1343,7 +1343,7 @@ Prova selezionandone una differente."</string>
     <string name="monday1">Lunedì</string>
     <string name="month">m</string>
     <string name="more_device">In atteda di %1$s plug-in:</string>
-    <string name="more_message">Apprendi di più</string>
+    <string name="more_message">Di più</string>
     <string name="move_multiple_devices_to_room">%1$s è stato spostato in %2$s</string>
     <string name="move_single_device_to_room">%1$s è stato spostato in %2$s</string>
     <string name="msg_camera_framework_bug">Errore fotocamera, prova a riavviare il dispositivo.</string>
@@ -1813,8 +1813,8 @@ Prova selezionandone una differente."</string>
     <string name="scene_close">Disabilita</string>
     <string name="scene_condition_miband_awake">"Quando l'utente si è svegliato"</string>
     <string name="scene_condition_miband_sleep">"Quando l'utente si addormenta"</string>
-    <string name="scene_condition_phone_call">Quando si riceve una chiamata sui telefoni Mi</string>
-    <string name="scene_condition_sms">Quando si riceve un messaggio sui telefoni Mi</string>
+    <string name="scene_condition_phone_call">Si riceve una chiamata sui telefoni Mi</string>
+    <string name="scene_condition_sms">Si riceve un messaggio sui telefoni Mi</string>
     <string name="scene_confirm_delete">Rimuovere questo scenario?</string>
     <string name="scene_create_new_scene">Crea un nuovo scenario</string>
     <string name="scene_default_keyname_1">Proteggi la tua casa in modo intelligente</string>
@@ -2359,7 +2359,7 @@ Prova selezionandone una differente."</string>
     <string name="splash_mi_home">Mi Home</string>
     <string name="splash_promotion_jump">Salta</string>
     <string name="sport_detail_title">Dettagli attività</string>
-    <string name="start_condition_activity_title_bottom">Ad esempio: quando viene rilevato un movimento</string>
+    <string name="start_condition_activity_title_bottom">Ad esempio: Se viene rilevato un movimento</string>
     <string name="start_condition_activity_title_top">Se la condizione è soddisfatta</string>
     <string name="start_download_text">Scaricamento…</string>
     <string name="start_mi_band_app_failed">Impossibile aprire Mi Fit</string>
@@ -2431,7 +2431,7 @@ Prova selezionandone una differente."</string>
     <string name="tag_remove">Rimuovi</string>
     <string name="tag_remove_confirm">Rimuovere le stanza [%s]</string>
     <string name="tag_roger">Fatto</string>
-    <string name="tag_room_empty">Non ho aggiunto stanze</string>
+    <string name="tag_room_empty">Non hai aggiunto stanze</string>
     <string name="tag_router_title">Tutti i router</string>
     <string name="tag_save_data_desc">Il nome non può contenere caratteri speciali o segni di punteggiatura</string>
     <string name="tag_save_data_description">I nomi non possono contenere caratteri speciali o emoji. Si consiglia di utilizzare un nome pronunciabile. Immetti nuovamente.</string>
@@ -2775,8 +2775,8 @@ Prova selezionandone una differente."</string>
 "</string>
     <string name="user_license_btn_text">Accordo per gli utenti &amp; Privacy Policy</string>
     <string name="user_license_title">Accordo per gli utenti Mi &amp; Privacy Policy</string>
-    <string name="user_name_home_suffix">%s casa</string>
-    <string name="version_name_string">Versiona attuale: %s</string>
+    <string name="user_name_home_suffix">Casa di %s</string>
+    <string name="version_name_string">Versione attuale: %s by Or-Laf miui.it</string>
     <string name="vip_achievement">Obiettivi</string>
     <string name="vip_level">Livello</string>
     <string name="voice_supporter">Fornitore di servizi vocali</string>
