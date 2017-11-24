@@ -135,7 +135,7 @@ Prova selezionandone una differente."</string>
     <string name="area_default_subtitle">Pechino</string>
     <string name="area_info_loading">Ottenimento info…</string>
     <string name="area_location_failed">Impossibile ottenere info posizione</string>
-    <string name="area_not_located">Non localizzato</string>
+    <string name="area_not_located">Non localizzata</string>
     <string name="area_positioning">Ottenimento info localizzazione…</string>
     <string name="area_temperature_high_low">Temperatura</string>
     <string name="area_water_quality_purified">Qualità acqua</string>
@@ -402,7 +402,7 @@ Prova selezionandone una differente."</string>
     <string name="common_google_play_services_install_title">Ottieni servizi Google Play</string>
     <string name="common_google_play_services_invalid_account_text">"L'account specificato non esiste su questo dispositivo. Si prega di scegliere un altro account."</string>
     <string name="common_google_play_services_invalid_account_title">Account non valido</string>
-    <string name="common_google_play_services_network_error_text">é necessaria una connessione dati per connettersi ai servizi di Google Play.</string>
+    <string name="common_google_play_services_network_error_text">É necessaria una connessione dati per connettersi ai servizi di Google Play.</string>
     <string name="common_google_play_services_network_error_title">Errore di rete</string>
     <string name="common_google_play_services_notification_ticker">Errore nei servizi di Google Play</string>
     <string name="common_google_play_services_restricted_profile_text">"L'accesso agli account da un profilo limitato non é supportato."</string>
@@ -417,7 +417,7 @@ Prova selezionandone una differente."</string>
     <string name="common_google_play_services_update_title">Aggiorna i servizi Google Play</string>
     <string name="common_google_play_services_updating_text">%1$s non funzionerà senza i servizi Google Play, che sono attualmente in fase di aggiornamento.</string>
     <string name="common_google_play_services_updating_title">I servizi di Google Play si stanno aggiornando</string>
-    <string name="common_google_play_services_wear_update_text">é necessaria una nuova versione dei servizi di Google Play. Si aggiorneranno a breve.</string>
+    <string name="common_google_play_services_wear_update_text">É necessaria una nuova versione dei servizi di Google Play. Si aggiorneranno a breve.</string>
     <string name="common_hint">Attenzione</string>
     <string name="common_open_on_phone">Apri sul telefono</string>
     <string name="common_signin_button_text">Loggati</string>
@@ -514,7 +514,6 @@ Prova selezionandone una differente."</string>
     <string name="device_desc">Informazioni sul dispositivo</string>
     <string name="device_detail_detail">Visualizza dettagli</string>
     <string name="device_detail_option_rename">Aggiungi commento</string>
-    <string name="device_downloading">Download di altri plug-in in corso, riprova più tardi</string>
     <string name="device_dvd">DVD</string>
     <string name="device_egg_cooker">Bollitore per uova</string>
     <string name="device_elec_heating">Stufa</string>
@@ -592,7 +591,6 @@ Prova selezionandone una differente."</string>
     <string name="device_morsecurity_clear_hint">"Ricorda la tua password. Se l'hai dimenticata, puoi reimpostare il dispositivo e la sua password."</string>
     <string name="device_network_error">Impossibile aggiungere account, saltare?</string>
     <string name="device_network_error_strong">Impossibile aggiungere, verifica la tua connessione di rete</string>
-    <string name="device_no_owner_not_support_automation">"I dispositivi condivisi non supportano l'automazione"</string>
     <string name="device_not_support_now">"Il dispositivo non é supportato sulla versione corrente. Aggiorna l'app alla versione più recente."</string>
     <string name="device_offline">Dispositivo offline, si prega di verificare</string>
     <string name="device_offline_check">"1. Assicurati che il dispositivo sia attivo. 2. Assicurati che il router sia in grado di connettersi ad una rete Internet esterna. 3. Scollega il dispositivo e riavvialo. 4. Se hai cambiato la password del router, prova a #start#reset#end# il dispositivo. Dopo aver verificato tutto, aggiorna l'elenco dei dispositivi."</string>
@@ -994,7 +992,6 @@ Prova selezionandone una differente."</string>
     <string name="knows_already">Fatto</string>
     <string name="kuailian_cancel">Disconnetti</string>
     <string name="kuailian_check_reset">Verifica e riavvia</string>
-    <string name="kuailian_conn_error_router">Il router che hai scelto non é un router Wi-Fi Mi, continuare comunque?</string>
     <string name="kuailian_connectting_cloud">Il router sta tentando di connettersi al cloud</string>
     <string name="kuailian_connectting_router">Il telefono sta cercando di connettersi al router</string>
     <string name="kuailian_contain_unsupport_char">Il nome del router dovrebbe contenere solo caratteri inglesi</string>
@@ -1225,9 +1222,7 @@ Prova selezionandone una differente."</string>
     <string name="mi_camera_no_change">Quando le immagini della fotocamera non variano</string>
     <string name="mi_key">Mi Key</string>
     <string name="mi_key_title">Mi Key</string>
-    <string name="mi_router">Mi Wi-Fi</string>
     <string name="mi_router_connect_device">Il router ha trovato un dispositivo connesso</string>
-    <string name="mi_router_disconnect_device">Mi Wi-Fi ha trovato un dispositivo disconnesso</string>
     <string name="mi_sip_server_environment">Ambiente di servizio Bing Microsoft</string>
     <string name="mi_smart_home_cs">Servizio clienti Mi Home</string>
     <string name="mi_validate_relogin">Accedi nuovamente</string>
@@ -1394,7 +1389,6 @@ Prova selezionandone una differente."</string>
     <string name="normal_kuailian">Connessione comune</string>
     <string name="not_enough_space">Spazio non sufficiente</string>
     <string name="not_found_bracelet_app">"L'app Mi Fit non é installata"</string>
-    <string name="not_found_router_app">Installa app Mi Wi-Fi</string>
     <string name="not_oauth">Richiedi permesso per continuare</string>
     <string name="not_save_auth">Annulla</string>
     <string name="not_select_deleted_msg">Seleziona il messaggio da eliminare</string>
@@ -1538,7 +1532,7 @@ Prova selezionandone una differente."</string>
     <string name="passport_quick_register_notice"><u>Non hai un Mi Account? Creane uno.</u></string>
     <string name="passport_re_get_verify_code">Ottieni nuovamente codice</string>
     <string name="passport_re_register">Registradi nuovamente</string>
-    <string name="passport_recycle_account_prompt">é questo il tuo Mi Account?</string>
+    <string name="passport_recycle_account_prompt">É questo il tuo Mi Account?</string>
     <string name="passport_recycle_login_other_account">Non sono miei, ne userò uno differente.</string>
     <string name="passport_reg_btn_using_other_phone">Utilizza numero di telefono alternativo</string>
     <string name="passport_reg_failed">Impossibile impostare account</string>
@@ -2446,7 +2440,8 @@ Prova selezionandone una differente."</string>
     <string name="tag_transfer_msg_light">Accendi la luce della camera da letto</string>
     <string name="tag_transfer_next">Prova ora</string>
     <string name="tag_transfer_welcome">Scopri di più con le stanze di Mi Home</string>
-    <string name="tds_1000">Non si può bere direttamente</string>
+    <string name="tds_1000">Non si può
+    bere direttamente</string>
     <string name="tds_50">Potabile</string>
     <string name="temp_0_20">Fredda</string>
     <string name="temp_20_23">Ventilata</string>
@@ -2911,4 +2906,50 @@ Prova selezionandone una differente."</string>
     <string name="yunyi_virtual_camera_create_get_location_fail">Impossibile ottenere informazioni sulla posizione</string>
     <string name="yunyi_virtual_camera_create_success">Yi Smart Webcam aggiunta con successo</string>
     <string name="zimi_power_name">ZMI Power Bank</string>
+    <string name="already_auth_program">"Aggiunto all'applet"</string>
+    <string name="area_location_suc">Posizione localizzata con successo</string>
+    <string name="choose_one_tip">Nessun dispositivo controllabile</string>
+    <string name="device_downloading">É in corso il download di altri plug-in, riprova più tardi</string>
+    <string name="device_more_activity_cancel_license_privacy">"Revoca dei Termini di utilizzo e dell'informativa sulla privacy"</string>
+    <string name="device_more_activity_license">"Condizioni d'utilizzo"</string>
+    <string name="device_more_activity_license_privacy">Termini di utilizzo ed Informativa sulla privacy</string>
+    <string name="device_more_activity_privacy">Informativa sulla privacy</string>
+    <string name="device_no_owner_not_support_automation">"L'automazione non è supportata sui dispositivi condivisi"</string>
+    <string name="have_bind_by_other">Il dispositivo è già stato abbinato da altri</string>
+    <string name="home_loc">Posizione familiari</string>
+    <string name="kuailian_conn_error_router">Il router che hai selezionato non é un Mi Router, continuare comunque?</string>
+    <string name="load_failed">Impossibile caricare</string>
+    <string name="mi_router">Mi Router</string>
+    <string name="mi_router_disconnect_device">Mi Router ha rilevato dei dispositivi disconnessi</string>
+    <string name="mini_program_cancel">Annulla</string>
+    <string name="mini_program_confirm">Conferma</string>
+    <string name="mini_program_isee">Ho capito</string>
+    <string name="mini_program_send">Invia</string>
+    <string name="mini_program_tip">"Come posso utilizzare l'applet Mi con WeChat?"</string>
+    <string name="mini_program_tips">"Con l'applet sarà possibile condividere il dispositivo con amici o gruppi su WeChat e gli amici potranno controllarlo mediante tale collegamento.
+Solo i link che condividerai direttamente risulteranno validi mentre quelli che i tuoi amici inoltreranno ad altri non lo saranno. Ogni volta che condividerai un piccolo programma, tale condivisione fornità un periodo di validità di 7 giorni che scadrà automaticamente.
+Dopo aver cliccato su "gestione" nell'angolo in alto a destra in fase di modifica, sarà possibile annullare la condivisione del dispositivo nell'applet, dopodichè verrà effettuato un ritiro di tutti i collegamenti condivisi."</string>
+    <string name="my_mini_program">Il mio applet WeChat</string>
+    <string name="my_mini_program_no_data">"Al momento non ci sono dispositivi che supportano l'applet"</string>
+    <string name="need_unbind_by_other">"Il proprietario dell'attuale dispositivo dovrà disabbinare il dispositivo prima di rieseguire nuovamente l'abbinamento"</string>
+    <string name="not_auth_program">"Non aggiunto all'applet"</string>
+    <string name="not_found_router_app">"Installa l'app Mi Router"</string>
+    <string name="open_location_permission1">Si prega di abilitare la scansione automatica della località per ottenere le informazioni sulla posizione</string>
+    <string name="popup_select_loc_no_network">Nessuna connessione internet attiva</string>
+    <string name="program_share_manage">Gestisci</string>
+    <string name="program_unauth">Non autorizzare</string>
+    <string name="reassure_cancel">Annulla</string>
+    <string name="reassure_dialog_content">"Una volta che l'autorizzazione verrà rimossa, il dispositivo non registrerà l'account al quale si è attualmente connessi e cancellerà i dati memorizzati sul server prima dell'utilizzo del dispositivo. I dati memorizzati nel dispositivo fisico dovranno essere cancellati dopo un ripristino.
+Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e fornire nuovamente l'autorizzazione."</string>
+    <string name="reassure_dialog_title">"Revocare l'autorizzazione?"</string>
+    <string name="reassure_ok">Conferma</string>
+    <string name="scene_create_fail_by_change_hand_auto">Conversione scenario da modalità manuale ad automatica temporaneamente non supportata</string>
+    <string name="scene_rec_detail_select_city">Tocca per selezionare la città</string>
+    <string name="share_failed">Condivisione non riuscita</string>
+    <string name="tip_unauth">"Dopo che l'autorizzazione verrà rimossa i tuoi amici non potranno più continuare ad utilizzare il dispositivo dall'applet, confermare la rimozione?"</string>
+    <string name="unauth_failed">Rimozione non riuscita</string>
+    <string name="unauth_success">Rimozione riuscita</string>
+    <string name="unauthing">Rimozione...</string>
+    <string name="user_license_new">Accordo di licenza utente (in Cinese)</string>
+    <string name="user_privacy_new">Informativa utente sulla privacy (in Cinese)</string>
 </resources>
