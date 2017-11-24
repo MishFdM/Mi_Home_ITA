@@ -325,7 +325,7 @@ Prova selezionandone una differente."</string>
     <string name="check_network_retry">Controlla la rete e riprova</string>
     <string name="choose_action_activity_title_bottom">Ad esempio: accendi la luce della camera da letto</string>
     <string name="choose_action_activity_title_top">Fai qualcosa se le condizioni sono soddisfatte</string>
-    <string name="choose_action_activity_title_top_format">Cosa fare se: %s?</string>
+    <string name="choose_action_activity_title_top_format">Cosa fare: %s?</string>
     <string name="choose_body_sensor">Seleziona sensore corporeo</string>
     <string name="choose_camera_header">Ordina per intensità del segnale Bluetooth</string>
     <string name="choose_device_device_count">%1$d dispositivi</string>
@@ -907,11 +907,11 @@ Prova selezionandone una differente."</string>
     <string name="home_wallpager_title">Sfondi a tema casa</string>
     <string name="hour">"h "</string>
     <string name="how_get_qrcode">Come visualizzare i codici QR?</string>
-    <string name="humidity_100">Molto umido</string>
-    <string name="humidity_20">Molto asciutto</string>
-    <string name="humidity_40">Asciutto</string>
-    <string name="humidity_60">Comfort</string>
-    <string name="humidity_86">Umido</string>
+    <string name="humidity_100">Molto umida</string>
+    <string name="humidity_20">Molto asciutta</string>
+    <string name="humidity_40">Asciutta</string>
+    <string name="humidity_60">Confortevole</string>
+    <string name="humidity_86">Umida</string>
     <string name="humidity_above">"Più alto dell'umidità specificata"</string>
     <string name="humidity_above_format">"L'umidità di %1$s è più alta di %2$d%3$s"</string>
     <string name="humidity_less">Inferiore a umidità specificata</string>
@@ -960,7 +960,7 @@ Prova selezionandone una differente."</string>
     <string name="inter_sub_domain_st">Staging</string>
     <string name="inter_sub_domain_tk">Turchia</string>
     <string name="inter_sub_domain_tw">Taiwan</string>
-    <string name="inter_sub_domain_us">Stati Uniti (Server di Singapore)</string>
+    <string name="inter_sub_domain_us">Stati Uniti (Singapore)</string>
     <string name="inter_sub_domain_us_true">U.S. (Server U.S.)</string>
     <string name="intro_camera_text_1">Sentiti al sicuro ovunque tu sia</string>
     <string name="intro_camera_text_2">Parla con la persona che è lì</string>
@@ -1360,7 +1360,7 @@ Prova selezionandone una differente."</string>
     <string name="my_scene_fragment_title">%d scenari selezionati</string>
     <string name="my_scene_no_data">Tocca + per aggiungere scenari</string>
     <string name="name_repeat">Questo nome della stanza è già preso dal sistema, provane un altro</string>
-    <string name="nearby_device">Dispositivi nelle vicinanze</string>
+    <string name="nearby_device">Nelle vicinanze</string>
     <string name="network_changed">Wi-Fi disconnesso, ha smesso di funzionare</string>
     <string name="network_disable">Impossibile connettersi alla rete</string>
     <string name="network_fake_connected">Impossibile connettersi al server, verifica la connessione di rete o riprova più tardi</string>
@@ -1813,8 +1813,8 @@ Prova selezionandone una differente."</string>
     <string name="scene_close">Disabilita</string>
     <string name="scene_condition_miband_awake">"Quando l'utente si è svegliato"</string>
     <string name="scene_condition_miband_sleep">"Quando l'utente si addormenta"</string>
-    <string name="scene_condition_phone_call">Si riceve una chiamata sui telefoni Mi</string>
-    <string name="scene_condition_sms">Si riceve un messaggio sui telefoni Mi</string>
+    <string name="scene_condition_phone_call">Se si riceve una chiamata sui telefoni Mi</string>
+    <string name="scene_condition_sms">Se si riceve un messaggio sui telefoni Mi</string>
     <string name="scene_confirm_delete">Rimuovere questo scenario?</string>
     <string name="scene_create_new_scene">Crea un nuovo scenario</string>
     <string name="scene_default_keyname_1">Proteggi la tua casa in modo intelligente</string>
