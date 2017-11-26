@@ -1632,7 +1632,7 @@ Prova selezionandone una differente."</string>
     <string name="picker_sec">"s "</string>
     <string name="picker_year">"y "</string>
     <string name="pin_wei">Gusta</string>
-    <string name="please_click_connect">Tocca per connettere</string>
+    <string name="please_click_connect">Tocca per connetterti</string>
     <string name="please_inpt_account">Immetti ID account</string>
     <string name="please_install_plug_first">Installa prima i plug-in per %s</string>
     <string name="please_wait">Solo un secondo…</string>
@@ -2849,13 +2849,13 @@ Prova selezionandone una differente."</string>
     <string name="wifi_reconnect_title">Solo un secondo…</string>
     <string name="wifi_rescan_wifi">Scansiona nuovamente</string>
     <string name="wifi_save_passwd">Ricorda password</string>
-    <string name="wifi_scan_new_device">%1$d %2$s trovati, tocca per connettere</string>
+    <string name="wifi_scan_new_device">%1$d %2$s trovati, tocca per connetterti</string>
     <string name="wifi_scan_new_device_title">Nuovo dispositivo trovato</string>
     <string name="wifi_select_desc">"Seleziona rete Wi-Fi di casa o lavoro per registrare l'ora in cui esci e arrivi"</string>
     <string name="wifi_select_home_title">Seleziona Wi-Fi di casa</string>
     <string name="wifi_select_office_title">Seleziona Wi-Fi di lavoro</string>
     <string name="wifi_select_title">Seleziona Wi-Fi</string>
-    <string name="wifi_setting_choose">Tocca per connettere al Wi-Fi</string>
+    <string name="wifi_setting_choose">Tocca per connetterti al Wi-Fi</string>
     <string name="wifi_setting_connection_failed">Impossibile connettersi al Wi-Fi</string>
     <string name="wifi_setting_wifi_opening">Abilitazione Wi-Fi…</string>
     <string name="wifi_setting_wifi_scanning">Ricerca Wi-Fi…</string>
