@@ -136,7 +136,7 @@ Prova selezionandone una differente."</string>
     <string name="area_info_loading">Ottenimento info…</string>
     <string name="area_location_failed">Impossibile ottenere info posizione</string>
     <string name="area_not_located">Non localizzata</string>
-    <string name="area_positioning">Ottenimento info localizzazione…</string>
+    <string name="area_positioning"> - Ottenimento info localizzazione…</string>
     <string name="area_temperature_high_low">Temperatura</string>
     <string name="area_water_quality_purified">Qualità acqua</string>
     <string name="audio_controller">Controllo vocale</string>
