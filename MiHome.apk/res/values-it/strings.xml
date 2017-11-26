@@ -1437,7 +1437,7 @@ Il software é stato rilasciato per scopi di test. Copyright (C) 2009 Il progett
     <string name="passport_auto_generate_pwd">Genera password sicura</string>
     <string name="passport_back">Indietro</string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
-    <string name="passport_barcode_add_account_prompt">"Per connetterti all'account, scansiona nuovamente il codice QR dopo esserti loggato."</string>
+    <string name="passport_barcode_add_account_prompt">"Per connetterti all'account, scansiona nuovamente il codice QR dopo esserti connesso."</string>
     <string name="passport_change_account"><u>Cambia account</u></string>
     <string name="passport_change_phone_number">Cambia numeri</string>
     <string name="passport_checking_account">Controllo password…</string>
@@ -1912,7 +1912,7 @@ Il software é stato rilasciato per scopi di test. Copyright (C) 2009 Il progett
     <string name="server_usr_guide_bottom_tip">Impossibile trovare dispositivo abbinato?</string>
     <string name="server_usr_guide_bottom_title">Impossibile trovare dispositivo abbinato?</string>
     <string name="server_usr_guide_detail1">1. Assicurati di aver prima abbinato il dispositivo.</string>
-    <string name="server_usr_guide_detail2">Sei attualmente loggato con il server locale degli Stati Uniti. Assicurati che il tuo dispositivo sia connesso a Stati Uniti (Singapore) quando non puoi rilevarlo.</string>
+    <string name="server_usr_guide_detail2">Sei attualmente connesso sul server locale degli Stati Uniti. Assicurati che il tuo dispositivo sia connesso a Stati Uniti (Singapore) quando non puoi rilevarlo.</string>
     <string name="server_usr_guide_detail3">2. Come tornare a rilavare il dispositivo?</string>
     <string name="server_usr_guide_detail4">Esci e tocca il pulsante in basso per passare a Stati Uniti (Singapore). Accedi con il vecchio server per visualizzare i dispositivi associati.</string>
     <string name="server_usr_guide_detail5">3. Qual é la differenza tra il nuovo ed il vecchio server?</string>
@@ -2860,7 +2860,7 @@ Il software é stato rilasciato per scopi di test. Copyright (C) 2009 Il progett
     <string name="wx_errcode_cancel">Annullato</string>
     <string name="wx_errcode_deny">Impossibile loggarsi</string>
     <string name="wx_errcode_failure">Impossibile loggarsi</string>
-    <string name="wx_errcode_success">Loggato</string>
+    <string name="wx_errcode_success">Connesso</string>
     <string name="wx_errcode_unknown">Errore sconosciuto</string>
     <string name="wx_login_cancel">Annullato</string>
     <string name="wx_login_fail">Impossibile accedere</string>
