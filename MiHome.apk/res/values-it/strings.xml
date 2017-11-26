@@ -45,8 +45,7 @@ Il software é stato rilasciato per scopi di test. Copyright (C) 2009 Il progett
     <string name="about_faq_content">"Verifica che il Wi-Fi funzioni normalmente
  1. Verifica che la password del Wi-Fi immessa sia corretta 2. La velocità della rete potrebbe essere lenta 3. I metodi di crittografia WEP ed EAP non sono supportati
  4. Verifica che il router sia connesso ad una rete esterna 5. Impossibile collegare ad una rete Wi-Fi pubblica
- 6. Impossibile connettere ad una rete Wi-FI 5G
-"</string>
+ 6. Impossibile connettere ad una rete Wi-FI 5G"</string>
     <string name="about_lite_click_sound">Suoni tocco delle scorciatorie</string>
     <string name="about_normal">Passa ad una versione stabile</string>
     <string name="about_region">Regione</string>
@@ -136,7 +135,7 @@ Prova selezionandone una differente."</string>
     <string name="area_info_loading">Ottenimento info…</string>
     <string name="area_location_failed">Impossibile ottenere info posizione</string>
     <string name="area_not_located">Non localizzata</string>
-    <string name="area_positioning">Ottenimento info localizzazione…</string>
+    <string name="area_positioning"> - Ottenimento info localizzazione…</string>
     <string name="area_temperature_high_low">Temperatura</string>
     <string name="area_water_quality_purified">Qualità acqua</string>
     <string name="audio_controller">Controllo vocale</string>
@@ -206,7 +205,7 @@ Prova selezionandone una differente."</string>
     <string name="button_bind_failed_has_binded">Questo dispositivo é già stato abbinato da altri</string>
     <string name="button_bind_failed_info">Verifica che il dispositivo ed il telefono siano collegati allo stesso router e riprova.</string>
     <string name="button_bind_failed_old_version">Impossibile aggiungere, assicurati che la Mi TV o la Mi Box siano aggiornate</string>
-    <string name="button_bind_mitv">Loggati</string>
+    <string name="button_bind_mitv">Accedi</string>
     <string name="button_bind_success">Connessione riuscita</string>
     <string name="button_bind_tips">Premi qualsiasi pulsante in %d secondo per connettere</string>
     <string name="camera">videocamera</string>
@@ -420,8 +419,8 @@ Prova selezionandone una differente."</string>
     <string name="common_google_play_services_wear_update_text">É necessaria una nuova versione dei servizi di Google Play. Si aggiorneranno a breve.</string>
     <string name="common_hint">Attenzione</string>
     <string name="common_open_on_phone">Apri sul telefono</string>
-    <string name="common_signin_button_text">Loggati</string>
-    <string name="common_signin_button_text_long">Loggati con Google</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
     <string name="common_use_already_added">Già aggiunto ai dispositivi usati di frequente</string>
     <string name="common_used_device_removed">%1$s rimosso dai dispositivi usati di frequente</string>
     <string name="complete">Eseguito</string>
@@ -1126,7 +1125,7 @@ Prova selezionandone una differente."</string>
     <string name="log_week_outoffice_Random">Il momento in cui sei andato via lavoro questa settimana é incoerente</string>
     <string name="log_week_outoffice_normal">Hai finito di lavorare come al solito questa settimana</string>
     <string name="log_week_outoffice_stdest">Hai finito di lavorare in orario questa settimana</string>
-    <string name="loggin_first">Prima loggati</string>
+    <string name="loggin_first">Prima accedi</string>
     <string name="login_account_hint">Email/Telefono/ID Mi Account</string>
     <string name="login_account_login">Accedi</string>
     <string name="login_account_login_title">Accedi</string>
@@ -1158,7 +1157,7 @@ Prova selezionandone una differente."</string>
     <string name="login_verify_code_fail">Immetti codice di verifica</string>
     <string name="login_verify_code_hint">Codice di verifica</string>
     <string name="login_wx">WeChat</string>
-    <string name="loing_helper_title">Prima loggati</string>
+    <string name="loing_helper_title">Prima accedi</string>
     <string name="long_click">Pressione prolungata</string>
     <string name="low_permission">"Oppure fai clic su 'Gestione telefono'->Gestione permessi->%1$s->'Permetti'"</string>
     <string name="m_s">MB/s</string>
@@ -1457,7 +1456,7 @@ Prova selezionandone una differente."</string>
     <string name="passport_email">Indirizzo Email</string>
     <string name="passport_email_or_id_hint_text">Indirizzo Email o ID Mi Account</string>
     <string name="passport_email_reg_success_summary">%1$s é stato associato al tuo account. Puoi utilizzarlo per accedere o per reimpostare la password.</string>
-    <string name="passport_error_auth_fail">Sessione scaduta, loggati nuovamente più tardi</string>
+    <string name="passport_error_auth_fail">Sessione scaduta, accedi nuovamente più tardi</string>
     <string name="passport_error_device_id">"Impossibile ottenere l'ID del dispositivo"</string>
     <string name="passport_error_dup_email">La email che hai inserito é già associata ad un altro account.</string>
     <string name="passport_error_email">"L'indirizzo email che hai inserito non é valido"</string>
@@ -1472,7 +1471,7 @@ Prova selezionandone una differente."</string>
     <string name="passport_error_invalid_phone_num">Numero di telefono non valido</string>
     <string name="passport_error_login">Impossibile accedere</string>
     <string name="passport_error_network">Impossibile connettersi alla rete</string>
-    <string name="passport_error_no_password_user">Non hai impostato ancora una password. Loggati mediante SMS.</string>
+    <string name="passport_error_no_password_user">Non hai impostato ancora una password. Accedi mediante SMS.</string>
     <string name="passport_error_phone_error">Numero di telefono non valido</string>
     <string name="passport_error_server">Errore server</string>
     <string name="passport_error_sim_not_ready">Impossibile trovare scheda SIM</string>
@@ -1632,7 +1631,7 @@ Prova selezionandone una differente."</string>
     <string name="picker_sec">"s "</string>
     <string name="picker_year">"y "</string>
     <string name="pin_wei">Gusta</string>
-    <string name="please_click_connect">Tocca per connettere</string>
+    <string name="please_click_connect">Tocca per connetterti</string>
     <string name="please_inpt_account">Immetti ID account</string>
     <string name="please_install_plug_first">Installa prima i plug-in per %s</string>
     <string name="please_wait">Solo un secondo…</string>
@@ -1904,7 +1903,7 @@ Prova selezionandone una differente."</string>
     <string name="send_log">Invia log Feedback</string>
     <string name="serach_no_device_blue">Il dispositivo é occupato quando la luce blu é fissa. Ripristina il dispositivo (scopri come).</string>
     <string name="server_change_server_failure">Impossibile cambiare</string>
-    <string name="server_change_server_message">Loggati nuovamente dopo che avrai cambiato regione</string>
+    <string name="server_change_server_message">Accedi nuovamente dopo che avrai cambiato regione</string>
     <string name="server_change_server_title">Cambiato in %s</string>
     <string name="server_env_choose_title">Seleziona un ambiente server</string>
     <string name="server_location_incompatible_cancel">Annulla</string>
@@ -2517,7 +2516,7 @@ Prova selezionandone una differente."</string>
     <string name="ucashier_handle_loading">In elaborazione…</string>
     <string name="ucashier_trade_price">￥%1$s</string>
     <string name="ucashier_trade_title">Pagamento ordine</string>
-    <string name="unauthoried_tip">Errore account, loggati nuovamente</string>
+    <string name="unauthoried_tip">Errore account, accedi nuovamente</string>
     <string name="undownload_camera_play">Tocca il nome del dispositivo per visualizzare i dettagli</string>
     <string name="unknown">Sconosciuto</string>
     <string name="unselect_all">Deseleziona</string>
@@ -2850,13 +2849,13 @@ Prova selezionandone una differente."</string>
     <string name="wifi_reconnect_title">Solo un secondo…</string>
     <string name="wifi_rescan_wifi">Scansiona nuovamente</string>
     <string name="wifi_save_passwd">Ricorda password</string>
-    <string name="wifi_scan_new_device">%1$d %2$s trovati, tocca per connettere</string>
+    <string name="wifi_scan_new_device">%1$d %2$s trovati, tocca per connetterti</string>
     <string name="wifi_scan_new_device_title">Nuovo dispositivo trovato</string>
     <string name="wifi_select_desc">"Seleziona rete Wi-Fi di casa o lavoro per registrare l'ora in cui esci e arrivi"</string>
     <string name="wifi_select_home_title">Seleziona Wi-Fi di casa</string>
     <string name="wifi_select_office_title">Seleziona Wi-Fi di lavoro</string>
     <string name="wifi_select_title">Seleziona Wi-Fi</string>
-    <string name="wifi_setting_choose">Tocca per connettere al Wi-Fi</string>
+    <string name="wifi_setting_choose">Tocca per connetterti al Wi-Fi</string>
     <string name="wifi_setting_connection_failed">Impossibile connettersi al Wi-Fi</string>
     <string name="wifi_setting_wifi_opening">Abilitazione Wi-Fi…</string>
     <string name="wifi_setting_wifi_scanning">Ricerca Wi-Fi…</string>
