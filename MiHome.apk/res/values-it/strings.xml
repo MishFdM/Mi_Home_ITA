@@ -102,8 +102,7 @@ Il software é stato rilasciato per scopi di test. Copyright (C) 2009 Il progett
     <string name="air_300">Altamente inquinata</string>
     <string name="air_50">Eccellente</string>
     <string name="air_desc_detail">"Dati a partire dalle vicinanze di %s"</string>
-    <string name="air_desc_detail_empty">"Troppi pochi dati per questa posizione. 
-Prova selezionandone una differente."</string>
+    <string name="air_desc_detail_empty">"Troppi pochi dati per questa posizione. Prova selezionandone una differente."</string>
     <string name="air_desc_title">Mi Air Purifier</string>
     <string name="air_pm25_title">"PM2.5 All'aperto/All'interno"</string>
     <string name="air_purifier">Mi Air Purifier</string>
@@ -292,8 +291,7 @@ Prova selezionandone una differente."</string>
     <string name="catalyst_perf_monitor">Mostra Monitor Perf</string>
     <string name="catalyst_perf_monitor_off">Nascondi Monitor Perf</string>
     <string name="catalyst_poke_sampling_profiler">Avvia/Interrompi profilo di campionamento</string>
-    <string name="catalyst_reload_button">"Ricarica 
-(R, R)"</string>
+    <string name="catalyst_reload_button">"Ricarica (R, R)"</string>
     <string name="catalyst_reloadjs">Ricarica</string>
     <string name="catalyst_remotedbg_error">Impossibile connettersi con il debugger remoto</string>
     <string name="catalyst_remotedbg_message">Connessione al debugger remoto</string>
