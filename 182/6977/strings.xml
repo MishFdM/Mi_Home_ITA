@@ -41,7 +41,7 @@
     <string name="alarm_switch">Aziona</string>
     <string name="alarm_switch_off">Attiva/Disattiva Sveglia</string>
     <string name="alarm_switch_on">Attiva Sveglia</string>
-    <string name="alert_dialog_cancel">Annulla</string>
+    <string name="alert_dialog_cancel">Indietro</string>
     <string name="alert_dialog_ok">Ok</string>
     <string name="alert_dialog_text_entry">Nome</string>
     <string name="already_last_version">Il software é aggiornato!</string>
@@ -61,12 +61,12 @@
     <string name="color_flow_picture">Foto</string>
     <string name="color_flow_select_color">Colori</string>
     <string name="color_flow_select_photo">Palette colori</string>
-    <string name="color_flow_settings">Impostazioni</string>
+    <string name="color_flow_settings">IMPOSTAZ.</string>
     <string name="common_dialog_input_empty">Non puoi lasciare questo spazio vuoto!</string>
     <string name="common_dialog_input_rename">Nome</string>
     <string name="common_dialog_input_save">Salva</string>
     <string name="common_dialog_input_too_long">Troppo lungo!</string>
-    <string name="common_discard_changes">Annulla modifiche?</string>
+    <string name="common_discard_changes">Annullare modifiche?</string>
     <string name="common_discard_confirm">Annulla</string>
     <string name="common_set_complete">Fatto</string>
     <string name="common_text_complete">Completato</string>
@@ -88,9 +88,9 @@
     <string name="device">DISPOSITIVO</string>
     <string name="device_unbind">Disabbina</string>
     <string name="device_xiaomi">Mi Band</string>
-    <string name="dialog_cancel">Annulla</string>
+    <string name="dialog_cancel">Indietro</string>
     <string name="dialog_ok">Ok</string>
-    <string name="disconnect_bt">Disconnetti Bluetooth</string>
+    <string name="disconnect_bt">Disconnetti da Bluetooth</string>
     <string name="discover_device">Ricerca…</string>
     <string name="error_device_null">Connessione fallita, riprova!</string>
     <string name="faq_title">FAQ</string>
@@ -111,7 +111,7 @@
     <string name="feedback_server_error">Il server é occupato, riprova più tardi</string>
     <string name="find_new_fw_update">"Aggiorna il firmware con l'app Yeelight per provare nuove funzionalità."</string>
     <string name="fw_info">Info firmware</string>
-    <string name="fw_new_version">Versione firmware: %1$s by Or-Laf miui.it</string>
+    <string name="fw_new_version">Versione firmware: %1$s</string>
     <string name="fw_ota_btn_nexttime">Salta</string>
     <string name="fw_ota_btn_start_now">Aggiorna ora</string>
     <string name="fw_ota_btn_tryagain">Riprova</string>
@@ -121,9 +121,9 @@
     <string name="fw_ota_progress">Aggiornamento Firmware</string>
     <string name="fw_release_note">Note di Rilascio</string>
     <string name="fw_update">Versione Firmware</string>
-    <string name="fw_update_cancel">Annulla</string>
+    <string name="fw_update_cancel">Indietro</string>
     <string name="fw_upgrade_release_note">"1.Modalità Notte migliorata 2.Bug risolti 3.Miglioramento delle prestazioni"</string>
-    <string name="global_cancel">Annulla</string>
+    <string name="global_cancel">Indietro</string>
     <string name="global_more">Altro</string>
     <string name="global_network_err">Errore di rete!</string>
     <string name="goto_main_app">Aggiorna ora</string>
@@ -158,7 +158,7 @@
     <string name="mi_band_bind_bindtext">Abbina a Mi Band</string>
     <string name="mi_band_bind_connect_failed_retry">Abbinamento non riuscito! Riprova</string>
     <string name="mi_band_bind_control_set">Impostazioni</string>
-    <string name="mi_band_bind_dialog_cancel">Annulla</string>
+    <string name="mi_band_bind_dialog_cancel">Indietro</string>
     <string name="mi_band_bind_dialog_continue">OK</string>
     <string name="mi_band_bind_dialog_mi2_not_support">La trasmissione di eventi su Mi Band 2 é attualmente disabilitata, supporteremo questa funzionalità non appena la Mi Band 2 la renderà nuovamente disponibile.</string>
     <string name="mi_band_bind_dialog_mi2_not_support_btn">OK</string>
