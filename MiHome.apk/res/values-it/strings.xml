@@ -45,8 +45,7 @@ Il software é stato rilasciato per scopi di test. Copyright (C) 2009 Il progett
     <string name="about_faq_content">"Verifica che il Wi-Fi funzioni normalmente
  1. Verifica che la password del Wi-Fi immessa sia corretta 2. La velocità della rete potrebbe essere lenta 3. I metodi di crittografia WEP ed EAP non sono supportati
  4. Verifica che il router sia connesso ad una rete esterna 5. Impossibile collegare ad una rete Wi-Fi pubblica
- 6. Impossibile connettere ad una rete Wi-FI 5G
-"</string>
+ 6. Impossibile connettere ad una rete Wi-FI 5G"</string>
     <string name="about_lite_click_sound">Suoni tocco delle scorciatorie</string>
     <string name="about_normal">Passa ad una versione stabile</string>
     <string name="about_region">Regione</string>
@@ -206,7 +205,7 @@ Prova selezionandone una differente."</string>
     <string name="button_bind_failed_has_binded">Questo dispositivo é già stato abbinato da altri</string>
     <string name="button_bind_failed_info">Verifica che il dispositivo ed il telefono siano collegati allo stesso router e riprova.</string>
     <string name="button_bind_failed_old_version">Impossibile aggiungere, assicurati che la Mi TV o la Mi Box siano aggiornate</string>
-    <string name="button_bind_mitv">Loggati</string>
+    <string name="button_bind_mitv">Accedi</string>
     <string name="button_bind_success">Connessione riuscita</string>
     <string name="button_bind_tips">Premi qualsiasi pulsante in %d secondo per connettere</string>
     <string name="camera">videocamera</string>
@@ -293,8 +292,7 @@ Prova selezionandone una differente."</string>
     <string name="catalyst_perf_monitor">Mostra Monitor Perf</string>
     <string name="catalyst_perf_monitor_off">Nascondi Monitor Perf</string>
     <string name="catalyst_poke_sampling_profiler">Avvia/Interrompi profilo di campionamento</string>
-    <string name="catalyst_reload_button">"Ricarica 
-(R, R)"</string>
+  <string name="catalyst_reload_button">"Ricarica (R, R)"</string>
     <string name="catalyst_reloadjs">Ricarica</string>
     <string name="catalyst_remotedbg_error">Impossibile connettersi con il debugger remoto</string>
     <string name="catalyst_remotedbg_message">Connessione al debugger remoto</string>
@@ -420,8 +418,8 @@ Prova selezionandone una differente."</string>
     <string name="common_google_play_services_wear_update_text">É necessaria una nuova versione dei servizi di Google Play. Si aggiorneranno a breve.</string>
     <string name="common_hint">Attenzione</string>
     <string name="common_open_on_phone">Apri sul telefono</string>
-    <string name="common_signin_button_text">Loggati</string>
-    <string name="common_signin_button_text_long">Loggati con Google</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
     <string name="common_use_already_added">Già aggiunto ai dispositivi usati di frequente</string>
     <string name="common_used_device_removed">%1$s rimosso dai dispositivi usati di frequente</string>
     <string name="complete">Eseguito</string>
@@ -1126,7 +1124,7 @@ Prova selezionandone una differente."</string>
     <string name="log_week_outoffice_Random">Il momento in cui sei andato via lavoro questa settimana é incoerente</string>
     <string name="log_week_outoffice_normal">Hai finito di lavorare come al solito questa settimana</string>
     <string name="log_week_outoffice_stdest">Hai finito di lavorare in orario questa settimana</string>
-    <string name="loggin_first">Prima loggati</string>
+    <string name="loggin_first">Prima accedi</string>
     <string name="login_account_hint">Email/Telefono/ID Mi Account</string>
     <string name="login_account_login">Accedi</string>
     <string name="login_account_login_title">Accedi</string>
@@ -1158,7 +1156,7 @@ Prova selezionandone una differente."</string>
     <string name="login_verify_code_fail">Immetti codice di verifica</string>
     <string name="login_verify_code_hint">Codice di verifica</string>
     <string name="login_wx">WeChat</string>
-    <string name="loing_helper_title">Prima loggati</string>
+    <string name="loing_helper_title">Prima accedi</string>
     <string name="long_click">Pressione prolungata</string>
     <string name="low_permission">"Oppure fai clic su 'Gestione telefono'->Gestione permessi->%1$s->'Permetti'"</string>
     <string name="m_s">MB/s</string>
@@ -1440,7 +1438,7 @@ Prova selezionandone una differente."</string>
     <string name="passport_auto_generate_pwd">Genera password sicura</string>
     <string name="passport_back">Indietro</string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
-    <string name="passport_barcode_add_account_prompt">"Per connetterti all'account, scansiona nuovamente il codice QR dopo esserti loggato."</string>
+    <string name="passport_barcode_add_account_prompt">"Per connetterti all'account, scansiona nuovamente il codice QR dopo esserti connesso."</string>
     <string name="passport_change_account"><u>Cambia account</u></string>
     <string name="passport_change_phone_number">Cambia numeri</string>
     <string name="passport_checking_account">Controllo password…</string>
@@ -1457,7 +1455,7 @@ Prova selezionandone una differente."</string>
     <string name="passport_email">Indirizzo Email</string>
     <string name="passport_email_or_id_hint_text">Indirizzo Email o ID Mi Account</string>
     <string name="passport_email_reg_success_summary">%1$s é stato associato al tuo account. Puoi utilizzarlo per accedere o per reimpostare la password.</string>
-    <string name="passport_error_auth_fail">Sessione scaduta, loggati nuovamente più tardi</string>
+    <string name="passport_error_auth_fail">Sessione scaduta, accedi nuovamente più tardi</string>
     <string name="passport_error_device_id">"Impossibile ottenere l'ID del dispositivo"</string>
     <string name="passport_error_dup_email">La email che hai inserito é già associata ad un altro account.</string>
     <string name="passport_error_email">"L'indirizzo email che hai inserito non é valido"</string>
@@ -1472,7 +1470,7 @@ Prova selezionandone una differente."</string>
     <string name="passport_error_invalid_phone_num">Numero di telefono non valido</string>
     <string name="passport_error_login">Impossibile accedere</string>
     <string name="passport_error_network">Impossibile connettersi alla rete</string>
-    <string name="passport_error_no_password_user">Non hai impostato ancora una password. Loggati mediante SMS.</string>
+    <string name="passport_error_no_password_user">Non hai impostato ancora una password. Accedi mediante SMS.</string>
     <string name="passport_error_phone_error">Numero di telefono non valido</string>
     <string name="passport_error_server">Errore server</string>
     <string name="passport_error_sim_not_ready">Impossibile trovare scheda SIM</string>
@@ -1904,7 +1902,7 @@ Prova selezionandone una differente."</string>
     <string name="send_log">Invia log Feedback</string>
     <string name="serach_no_device_blue">Il dispositivo é occupato quando la luce blu é fissa. Ripristina il dispositivo (scopri come).</string>
     <string name="server_change_server_failure">Impossibile cambiare</string>
-    <string name="server_change_server_message">Loggati nuovamente dopo che avrai cambiato regione</string>
+    <string name="server_change_server_message">Accedi nuovamente dopo che avrai cambiato regione</string>
     <string name="server_change_server_title">Cambiato in %s</string>
     <string name="server_env_choose_title">Seleziona un ambiente server</string>
     <string name="server_location_incompatible_cancel">Annulla</string>
@@ -1915,7 +1913,7 @@ Prova selezionandone una differente."</string>
     <string name="server_usr_guide_bottom_tip">Impossibile trovare dispositivo abbinato?</string>
     <string name="server_usr_guide_bottom_title">Impossibile trovare dispositivo abbinato?</string>
     <string name="server_usr_guide_detail1">1. Assicurati di aver prima abbinato il dispositivo.</string>
-    <string name="server_usr_guide_detail2">Sei attualmente loggato con il server locale degli Stati Uniti. Assicurati che il tuo dispositivo sia connesso a Stati Uniti (Singapore) quando non puoi rilevarlo.</string>
+    <string name="server_usr_guide_detail2">Sei attualmente connesso sul server locale degli Stati Uniti. Assicurati che il tuo dispositivo sia connesso a Stati Uniti (Singapore) quando non puoi rilevarlo.</string>
     <string name="server_usr_guide_detail3">2. Come tornare a rilavare il dispositivo?</string>
     <string name="server_usr_guide_detail4">Esci e tocca il pulsante in basso per passare a Stati Uniti (Singapore). Accedi con il vecchio server per visualizzare i dispositivi associati.</string>
     <string name="server_usr_guide_detail5">3. Qual é la differenza tra il nuovo ed il vecchio server?</string>
@@ -2516,7 +2514,7 @@ Prova selezionandone una differente."</string>
     <string name="ucashier_handle_loading">In elaborazione…</string>
     <string name="ucashier_trade_price">￥%1$s</string>
     <string name="ucashier_trade_title">Pagamento ordine</string>
-    <string name="unauthoried_tip">Errore account, loggati nuovamente</string>
+    <string name="unauthoried_tip">Errore account, accedi nuovamente</string>
     <string name="undownload_camera_play">Tocca il nome del dispositivo per visualizzare i dettagli</string>
     <string name="unknown">Sconosciuto</string>
     <string name="unselect_all">Deseleziona</string>
@@ -2862,7 +2860,7 @@ Prova selezionandone una differente."</string>
     <string name="wx_errcode_cancel">Annullato</string>
     <string name="wx_errcode_deny">Impossibile loggarsi</string>
     <string name="wx_errcode_failure">Impossibile loggarsi</string>
-    <string name="wx_errcode_success">Loggato</string>
+    <string name="wx_errcode_success">Connesso</string>
     <string name="wx_errcode_unknown">Errore sconosciuto</string>
     <string name="wx_login_cancel">Annullato</string>
     <string name="wx_login_fail">Impossibile accedere</string>
