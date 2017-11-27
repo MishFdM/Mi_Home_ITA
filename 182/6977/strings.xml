@@ -6,7 +6,7 @@
     <string name="know_button">Ho capito</string>
     <string name="ok_button">Determina</string>
     <string name="picker_day">Giorno</string>
-    <string name="picker_hour">H</string>
+    <string name="picker_hour">O</string>
     <string name="picker_minite">M</string>
     <string name="picker_month">Mese</string>
     <string name="picker_year">Anno</string>
@@ -25,7 +25,7 @@
     <string name="alarm_progress">Sto impostando…</string>
     <string name="alarm_repeat">Ripeti</string>
     <string name="alarm_repeat_1">Ogni Lunedì</string>
-    <string name="alarm_repeat_1_5">Giorno festivo</string>
+    <string name="alarm_repeat_1_5">Solo i giorni festivi</string>
     <string name="alarm_repeat_2">Ogni Martedì</string>
     <string name="alarm_repeat_3">Ogni Mercoledì</string>
     <string name="alarm_repeat_4">Ogni Giovedì</string>
@@ -35,7 +35,7 @@
     <string name="alarm_repeat_custom">Personalizza</string>
     <string name="alarm_repeat_everyday">Ogni giorno</string>
     <string name="alarm_repeat_once">Una volta</string>
-    <string name="alarm_repeat_weekday">Giorno festivo</string>
+    <string name="alarm_repeat_weekday">Solo i giorni festivi</string>
     <string name="alarm_repeat_weekend">Fine settimana</string>
     <string name="alarm_set_time">Pianificazioni</string>
     <string name="alarm_switch">Aziona</string>
@@ -234,11 +234,11 @@
     <string name="vtl_limited_text">Ulteriori operazioni non supportatare dal dispositivo virtuale...</string>
     <string name="wake_up_setting_off">Disattiva</string>
     <string name="wake_up_setting_on">Attiva</string>
-    <string name="wake_up_sub_info">"La lampada aumenterà delicatamente la luminosità 30 minuti prima dell'attivazione programmata. Che renderà il tuo corpo pronto ad una piacevole mattinata"</string>
+    <string name="wake_up_sub_info">"La lampada aumenterà delicatamente la luminosità 30 minuti prima dell'attivazione programmata. Questo renderà il tuo corpo pronto ad una piacevole mattinata"</string>
     <string name="wake_up_time">Periodo risveglio %1$s:%2$s</string>
     <string name="wake_up_title">Luce di Risveglio</string>
-    <string name="wake_up_turn_off">Disattiva Luce di Risveglio</string>
-    <string name="wake_up_turn_on">Attiva Luce di Risveglio</string>
+    <string name="wake_up_turn_off">Luce di Risveglio Disattivata</string>
+    <string name="wake_up_turn_on">Luce di Risveglio Attiva</string>
     <string name="wechat_progressing">Sincronizzazione...</string>
     <string name="welcome">Benvenuto</string>
     <string name="xlistview_footer_hint_normal">Carica altro</string>
