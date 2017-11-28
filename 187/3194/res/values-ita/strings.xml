@@ -26,7 +26,7 @@
     <string name="ir_device_dvd">DVD</string>
     <string name="ir_device_box">Box</string>
     <string name="ir_device_iptv">IPTV</string>
-    <string name="ir_device_dvb_s">Satellite</string>
+    <string name="ir_device_dvb_s">Satellitare</string>
     <string name="ir_device_prj">Proiettore</string>
     <string name="ir_device_fan">Ventilatore</string>
     <string name="ir_device_amp">Amplificatore</string>
