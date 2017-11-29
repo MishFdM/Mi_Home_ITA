@@ -121,7 +121,7 @@
     <string name="feedback_new_msg_cancel">Ignora</string>
     <string name="feedback_new_msg_go">Dettagli</string>
     <string name="feedback_no_fbs">Nessuna cronologia feedback</string>
-    <string name="feedback_no_more">Nient'altro!</string>
+    <string name="feedback_no_more">"Nient'altro!"</string>
     <string name="feedback_notice">Ti risponderemo al più presto, potrai controllare la cronologia dei tuoi commenti in basso</string>
     <string name="folder_all">Tutte le immagini</string>
     <string name="group_off">Disattivato</string>
@@ -146,7 +146,7 @@
     <string name="mi_band_bind_bindtext">Abbina a Mi Band</string>
     <string name="mi_band_bind_connect_failed_retry">Abbinamento non riuscito! Riprova</string>
     <string name="mi_band_bind_control_set">Impostazioni</string>
-    <string name="mi_band_bind_dialog_mi2_not_support">La trasmissione di eventi su Mi Band 2 é attualmente disabilitata, supporteremo questa funzionalità non appena la Mi Band 2 la renderà nuovamente disponibile./string>
+    <string name="mi_band_bind_dialog_mi2_not_support">La trasmissione di eventi su Mi Band 2 é attualmente disabilitata, supporteremo questa funzionalità non appena la Mi Band 2 la renderà nuovamente disponibile.</string>
     <string name="mi_band_bind_dialog_mi2_not_support_btn">OK</string>
     <string name="mi_band_bind_dialog_mi2_not_support_title">Mi Band 2 non é ancora supportata</string>
     <string name="mi_band_bind_failed">Connessione non riuscita!</string>
@@ -172,7 +172,7 @@
     <string name="mi_band_single_sub_text">Una Mi Band é stata abbinata al tuo telefono, tocca \"Abbina\" per completare</string>
     <string name="mi_band_single_title">Mi Band rilevata</string>
     <string name="mi_band_updating">Aggiornamento...</string>
-    <string name="msg_amount_limit">Nessun'altra selezione consentita</string>
+    <string name="msg_amount_limit">"Nessun'altra selezione consentita"</string>
     <string name="msg_camera_framework_bug">Errore camera, riavvia il tuo dispositivo.</string>
     <string name="msg_no_camera">Nessuna camera trovata</string>
     <string name="my_pomodoro_statistic">I miei record</string>
@@ -192,12 +192,12 @@
     <string name="pdo_rest_title">Impostazioni</string>
     <string name="pdo_star_info">Ottieni %1$d stelle</string>
     <string name="pdo_star_info_sub">Hai lavorato per %1$dore e %2$dmin.</string>
-    <string name="pdo_star_notice">Ottieni una stella aq ogni ciclo di lavoro. Apri rapidamente la modalità di messa a fuoco e raccogli le tue stelle qui!</string>
+    <string name="pdo_star_notice">Ottieni una stella ad ogni ciclo di lavoro. Apri rapidamente la modalità di messa a fuoco e raccogli le tue stelle qui!</string>
     <string name="pdo_time_info">Lavora per %1$d min, e riposa per %2$d min</string>
     <string name="pdo_time_rest_select_title">Periodo di pausa</string>
     <string name="pdo_time_work_select_title">Periodo di lavoro</string>
     <string name="pdo_title">Pomodoro</string>
-    <string name="pdo_title_sub">La lampada emetterà una sorta di 'effetto respiro' prima del lavoro e durante la pausa</string>
+    <string name="pdo_title_sub">"La lampada emetterà una sorta di 'effetto respiro' prima del lavoro e durante la pausa"</string>
     <string name="pdo_txt_rest">Fai una pausa</string>
     <string name="pdo_txt_work">Vai avanti</string>
     <string name="preview">Anteprima</string>
@@ -226,7 +226,7 @@
     <string name="save_default_current">Imposta stato predefinito</string>
     <string name="save_default_current_info">Premi il pulsante \"Salva\", per salvare lo stato attuale come predefinito, che verrà successivamente applicato quando la lampada verrà accesa una prossima volta.</string>
     <string name="save_default_last">Salva stato automaticamente</string>
-    <string name="save_default_last_info">Lo stato della lampadina verrà automaticamente salvato e non subirà danni all'interruzione dell'alimentazione. Sarà inoltre possibile accendere la lampadina toccando l'interruttore (a muro, 2 secondi acceso, 2 secondi spento) due volte consecutive quando la lampadina verrà spenta dall'app."</string>
+    <string name="save_default_last_info">"Lo stato della lampadina verrà automaticamente salvato e non subirà danni all'interruzione dell'alimentazione. Sarà inoltre possibile accendere la lampadina toccando l'interruttore (a muro, 2 secondi acceso, 2 secondi spento) due volte consecutive quando la lampadina verrà spenta dall'app."</string>
     <string name="save_default_top_info">Le seguenti opzioni verranno utilizzate per gli interruttori</string>
     <string name="scene_apply">Applica</string>
     <string name="scene_apply_success">Applicazione riuscita!</string>
