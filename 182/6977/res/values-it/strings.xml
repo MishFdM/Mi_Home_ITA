@@ -54,7 +54,7 @@
     <string name="ble_connect_success">Connessione riuscita</string>
     <string name="ble_connect_success_info">"Utilizza l'app con il dispositivo Yeelight alimentato"</string>
     <string name="ble_connect_sync_device">Lettura info sullo stato del dispositivo</string>
-    <string name="checking">Controllo…</string>
+    <string name="checking">Controllo in corso…</string>
     <string name="color_flow_add">Aggiungi</string>
     <string name="color_flow_camera">Camera</string>
     <string name="color_flow_delete">Elimina</string>
@@ -77,7 +77,7 @@
     <string name="connection">CONNESSIONE</string>
     <string name="default_device_name">Lampada Yeelight</string>
     <string name="delay_light">Timer di Sospensione</string>
-    <string name="delay_light_introduce">Premere a lungo il pulsante di accensione fino a quando la spia non lampeggerà, per attivare il timer di sospensione</string>
+    <string name="delay_light_introduce">Premi a lungo il pulsante di accensione fino a quando la spia non lampeggerà, per attivare il timer di sospensione</string>
     <string name="delay_light_off">Disattivata</string>
     <string name="delay_light_time">%1$d minuti</string>
     <string name="delay_light_time_cancel">Timer di sospensione annullato</string>
@@ -97,7 +97,7 @@
     <string name="feedback">Feedback</string>
     <string name="feedback_commit">Invia</string>
     <string name="feedback_commit_success">Il tuo feedback é stato inviato</string>
-    <string name="feedback_contact_hint">Info di contatto (opzionali)</string>
+    <string name="feedback_contact_hint">Info di contatto (opzionale)</string>
     <string name="feedback_info_hint">Come possiamo aiutarti?</string>
     <string name="feedback_item_from_me">me</string>
     <string name="feedback_item_from_yeelight">Yeelight</string>
@@ -117,7 +117,7 @@
     <string name="fw_ota_btn_tryagain">Riprova</string>
     <string name="fw_ota_confirm_failure">Il server é occupato, riprova più tardi</string>
     <string name="fw_ota_failure">Aggiornamento Fallito</string>
-    <string name="fw_ota_introduce">"Si prega di non spegnere Bluetooth o rimuovere l'alimentazione durante l'aggiornamento"</string>
+    <string name="fw_ota_introduce">"Non spegnere il Bluetooth o rimuovere l'alimentazione durante l'aggiornamento"</string>
     <string name="fw_ota_progress">Aggiornamento Firmware</string>
     <string name="fw_release_note">Note di Rilascio</string>
     <string name="fw_update">Versione Firmware</string>
@@ -139,11 +139,11 @@
     <string name="help_sw_version">Versione software:</string>
     <string name="light_alarm">Pianificazioni</string>
     <string name="login">Accedi</string>
-    <string name="login_agreement1">Toccando registrati, accetterai il ​​nostro</string>
+    <string name="login_agreement1">"Toccando su 'Registrati', accetterai il ​​nostro"</string>
     <string name="login_agreement2">Termini e Privacy Policy</string>
     <string name="login_inprogress">Accesso in corso…</string>
     <string name="login_jump">Salta</string>
-    <string name="logout">Logout</string>
+    <string name="logout">Disconnettiti</string>
     <string name="logout_confirm">"Cancellare l'utente corrente?"</string>
     <string name="main_screen_color">Arcobaleno</string>
     <string name="main_screen_flow">Flusso</string>
