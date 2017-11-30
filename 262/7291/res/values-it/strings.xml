@@ -5,11 +5,11 @@
     <string name="ignore">Ignora</string>
     <string name="know_button">Ho capito</string>
     <string name="ok_button">Conferma</string>
-    <string name="picker_day">D</string>
-    <string name="picker_hour">H</string>
+    <string name="picker_day">G</string>
+    <string name="picker_hour">O</string>
     <string name="picker_minite">M</string>
     <string name="picker_month">M</string>
-    <string name="picker_year">Y</string>
+    <string name="picker_year">A</string>
     <string name="pull_down_refresh">Tira verso il basso per aggiornare</string>
     <string name="refreshing">Caricamento…</string>
     <string name="refreshing_no_point">Caricamento</string>
