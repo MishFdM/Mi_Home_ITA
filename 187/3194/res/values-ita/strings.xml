@@ -11,11 +11,11 @@
     <string name="ignore">Ignora</string>
     <string name="cancel">Indietro</string>
     <string name="setting_title">Impostazione</string>
-    <string name="picker_hour">H</string>
+    <string name="picker_hour">O</string>
     <string name="picker_minite">M</string>
-    <string name="picker_year">Y</string>
+    <string name="picker_year">A</string>
     <string name="picker_month">M</string>
-    <string name="picker_day">D</string>
+    <string name="picker_day">G</string>
     <string name="progress_dialog_already">Completato</string>
     <string name="confirm">Conferma</string>
     <string name="agree">Accetto</string>
