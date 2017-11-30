@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_select_score_tips">
+        <item>"L'interferenza non influenza la tua velocita' di connessione"</item>
+        <item>"L'interferenza sta influenzando la tua velocita' di connessione"</item>
+        <item>"L'interferenza sta rallentando la tua velocita' di connessione"</item>
+    </string-array>
+</resources>
