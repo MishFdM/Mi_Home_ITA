@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fw_ota_check">
+        <item>Verifica   </item>
+        <item>Verifica.  </item>
+        <item>Verifica.. </item>
+        <item>Verifica...</item>
+    </string-array>
+    <string-array name="fw_ota_prepare">
+        <item>Preparazione   </item>
+        <item>Preparazione.  </item>
+        <item>Preparazione.. </item>
+        <item>Preparazione...</item>
+    </string-array>
+    <string-array name="fw_ota_upgrade">
+        <item>Aggiornamento   </item>
+        <item>Aggiornamento.  </item>
+        <item>Aggiornamento.. </item>
+        <item>Aggiornamento...</item>
+    </string-array>
+    <string-array name="weeks">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+    </string-array>
+</resources>
