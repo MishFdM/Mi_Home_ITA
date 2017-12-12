@@ -13,9 +13,7 @@ Nota: In caso di errore "device temporarily unauthorized", rieseguire il passagg
 
 Passo 4: Avviare l'app Mi Home e configurare i propri dispositivi (questo scaricherà i plugin necessari non tradotti), dopodiché lasciare che la suddetta app rimanga in background.
 
-Passo 5: Collegare il telefono al PC, estrarre il pacchetto .zip "Plugins Tools" ed avviare il file batch "Plugin Injector" in modalità amministratore (tasto destro sul file) all'interno della cartella estratta.
-
-http://www.miui.it/wp-content/uploads/2017/12/Screenshot-3.png
+Passo 5: Collegare il telefono al PC, estrarre il pacchetto .zip "Plugins Tools" ed avviare il file batch "Plugin Injector" all'interno della cartella estratta.
 
 Passo 6: Eseguire la prima opzione per eseguire un backup dell'app, assicurandosi che venga restituita una lista di file (come in foto) prima del termine dell'operazione. In caso contrario riprovare.
 
