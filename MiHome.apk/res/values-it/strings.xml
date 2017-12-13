@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -512,7 +512,7 @@ Prova selezionandone una differente."</string>
     <string name="device_binded_subtitle">"Annulla l'abbinamento del dispositivo per riabbinarlo"</string>
     <string name="device_cold_fan">Ventilatore</string>
     <string name="device_connect_with_band">Dispositivo collegato</string>
-    <string name="device_consumptive">Materiali di consumo</string>
+    <string name="device_consumptive">Materiali</string>
     <string name="device_cooker">Bollitore elettrico per il riso</string>
     <string name="device_desc">Informazioni sul dispositivo</string>
     <string name="device_detail_detail">Visualizza dettagli</string>
@@ -1272,8 +1272,8 @@ Prova selezionandone una differente."</string>
     <string name="miio_bluetooth_gateway_count">%1$d dispositivi disponibili nelle vicinanze</string>
     <string name="miio_device_list_add_device">Aggiungi controlli remoti</string>
     <string name="miio_device_remove">Elimina dispositivo</string>
-    <string name="miio_empty_ble_gateway_list">Al momento non disponi di un dispositivo Bluetooth adeguato per il gateway</string>
-    <string name="miio_find_ble_gateway_in_store">"Vuoi&lt;font color='#527acc'>cercare il dispositivo nel negozio&lt;/font>?"</string>
+    <string name="miio_empty_ble_gateway_list">Nessun dispositivo Bluetooth per gateway rilevato</string>
+    <string name="miio_find_ble_gateway_in_store">"&lt;font color='#527acc'>Cerca un dispositivo nel negozio&lt;/font>"</string>
     <string name="miio_ir_name">Telecomando IR</string>
     <string name="miio_no_message">Nessun messaggio</string>
     <string name="miio_not_bind_device">Conferma prima il dispositivo connesso</string>
@@ -1285,7 +1285,7 @@ Prova selezionandone una differente."</string>
     <string name="miio_setting_my_shop">Il mio store</string>
     <string name="miio_setting_pay_fee">Utilità</string>
     <string name="miio_setting_share">Dispositivi condivisi</string>
-    <string name="miio_setting_share_short">Dispositivi condivisi</string>
+    <string name="miio_setting_share_short">Condivisi</string>
     <string name="miio_setting_upgrade_checking">Controllo…</string>
     <string name="miio_setting_virtual_device">Demo</string>
     <string name="miio_sub_device_remove">Rimuovi dispositivo</string>
