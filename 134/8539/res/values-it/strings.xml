@@ -7,7 +7,7 @@
     <string name="back_to_dock_no_power">In caso di mancata ricarica, verificare il collegamento alla base</string>
     <string name="back_to_dock_success">Ritorno alla base di ricarica riuscito</string>
     <string name="battery_remain">Batteria rimanente</string>
-    <string name="button_confirm">Conferma</string>
+    <string name="button_confirm">Ok</string>
     <string name="button_contact">Contatta il venditore</string>
     <string name="cancel">Indietro</string>
     <string name="charge">In carica</string>
@@ -66,7 +66,7 @@
     <string name="custom_service_weixin">"Segui '%1$s' per comunicare in tempo reale mediante l'app WeChat con il proprio numero"</string>
     <string name="data_loading">Caricamento...</string>
     <string name="day">G</string>
-    <string name="default_desc">(Difetto)</string>
+    <string name="default_desc">(Predefinito)</string>
     <string name="do_time_zone_sync">Orario sincronizzato</string>
     <string name="dock_no_map">Nessuna mappa disponibile al momento, il supporto per la ricarica potrebbe non essere trovato.</string>
     <string name="dustbin_filter">Pulisci il contenitore della polvere ed il filtro</string>
@@ -234,7 +234,7 @@
     <string name="normal_content">Equilibrio rumore, potenza di pulizia e durata della batteria</string>
     <string name="not_in_same_lan_msg">Il robot e il telefono non sono collegati alla stessa rete, si prega di utilizzare il telecomando dopo aver effettuato il collegamento alla stessa rete.</string>
     <string name="offline">Offline</string>
-    <string name="ok">Conferma</string>
+    <string name="ok">Ok</string>
     <string name="ok_button">Conferma</string>
     <string name="on_time">Accendi in tempo</string>
     <string name="participate_user_improve_plan">"Partecipa al programma di miglioramento dell'esperienza utente"</string>
