@@ -101,7 +101,7 @@ Il software é stato rilasciato per scopi di test. Copyright (C) 2009 Il progett
     <string name="air_200">Scarsa</string>
     <string name="air_300">Altamente inquinata</string>
     <string name="air_50">Eccellente</string>
-    <string name="air_desc_detail">"Dati a partire dalle vicinanze di %s"</string>
+    <string name="air_desc_detail">Dati a partire dalle vicinanze di %s</string>
     <string name="air_desc_detail_empty">"Troppi pochi dati per questa posizione. 
 Prova selezionandone una differente."</string>
     <string name="air_desc_title">Mi Air Purifier</string>
@@ -115,6 +115,7 @@ Prova selezionandone una differente."</string>
     <string name="air_x">Pericolosa</string>
     <string name="all_sleep_time">%1$dh %2$dm</string>
     <string name="all_sleep_time_text">A letto per</string>
+    <string name="already_auth_program">"Aggiunto all'applet"</string>
     <string name="and">e</string>
     <string name="app_curr_version">Versione attuale:</string>
     <string name="app_kuwan">Automazione</string>
@@ -134,8 +135,9 @@ Prova selezionandone una differente."</string>
     <string name="area_default_subtitle">Pechino</string>
     <string name="area_info_loading">Ottenimento info…</string>
     <string name="area_location_failed">Impossibile ottenere info posizione</string>
+    <string name="area_location_suc">Posizione localizzata con successo</string>
     <string name="area_not_located">Non localizzata</string>
-    <string name="area_positioning"> - Ottenimento info localizzazione…</string>
+    <string name="area_positioning">- Ottenimento info localizzazione…</string>
     <string name="area_temperature_high_low">Temperatura</string>
     <string name="area_water_quality_purified">Qualità acqua</string>
     <string name="audio_controller">Controllo vocale</string>
@@ -161,13 +163,14 @@ Prova selezionandone una differente."</string>
     <string name="auto_enabled">Auto-Risposta/Vivavoce</string>
     <string name="auto_scene_add_again">Aggiungi</string>
     <string name="auto_scene_invalid">Automazione non valida</string>
+    <string name="available_device">Dispositivi disponibili nelle vicinanze</string>
     <string name="back_launcher">Torna alla Home</string>
     <string name="back_name_less_limit_10">I nomi possono contenere fino a 10 caratteri</string>
     <string name="back_name_less_limit_30">I nomi possono contenere fino a 30 caratteri</string>
     <string name="back_name_less_limit_not_null">Il nome non può essere vuoto</string>
     <string name="background_running">Esegui in background</string>
     <string name="banner_camera_title">La mia fotocamera intelligente</string>
-    <string name="barcode_bind_error">Impossibile abbinare %1$s, riprovare?"</string>
+    <string name="barcode_bind_error">Impossibile abbinare %1$s, riprovare?</string>
     <string name="before_yesterday">2 giorni fà</string>
     <string name="begin_connection">Connetti</string>
     <string name="bind_error">Impossibile eseguire</string>
@@ -189,6 +192,7 @@ Prova selezionandone una differente."</string>
 2. Verifica che il dispositivo sia nelle vicinanze. 
 3. Verifica che il dispositivo sia attivo.
  4. Assicurati che altre persone non stiano utilizzando il dispositivo. Dopo la verifica, aggiorna la lista."</string>
+    <string name="ble_gateway_desc">"Da questo account, sulla lista dei dispositivi Bluetooth nella scheda 'La mia casa', sarà possibile accedere ad Internet ed interagire mediante il telefono con gli attuali dispositivi ed i restanti strumenti di casa"</string>
     <string name="ble_match_list_tips">I dispositivi sono ordinati per potenza del segnale</string>
     <string name="ble_rssi_match_failed_line1">Timeout abbinamento</string>
     <string name="ble_rssi_match_failed_line2">"Verifica che il Bluetooth funzioni, assicurati che il dispositivo sia attivo e nel raggio d'azione e riprova"</string>
@@ -263,7 +267,7 @@ Prova selezionandone una differente."</string>
     <string name="camera_support_5g">La rete wireless 5Ghz é supportata su questo dispositivo</string>
     <string name="camera_use_other_ways">Utilizza altri metodi</string>
     <string name="camera_waiting">Elaborazione…</string>
-    <string name="cancel">Annulla</string>
+    <string name="cancel">Indietro</string>
     <string name="cannot_edit_ios_scene">Non supportato su questo telefono</string>
     <string name="cannot_find_device">Cosa devo fare se non riesco a trovare alcun dispositivo?</string>
     <string name="cannot_find_device_near">Nessun dispositivo trovato nelle vicinanze</string>
@@ -280,7 +284,7 @@ Prova selezionandone una differente."</string>
     <string name="catalyst_copy_button">Copia</string>
     <string name="catalyst_debugjs">Debug Remoto JS</string>
     <string name="catalyst_debugjs_off">Ferma Debug Remoto JS</string>
-    <string name="catalyst_dismiss_button">"Chiudi (ESC)"</string>
+    <string name="catalyst_dismiss_button">Chiudi (ESC)</string>
     <string name="catalyst_element_inspector">Attiva/Disattiva Inspector</string>
     <string name="catalyst_heap_capture">Cattura Heap</string>
     <string name="catalyst_hot_module_replacement">Abilita il riavvio a caldo</string>
@@ -292,7 +296,7 @@ Prova selezionandone una differente."</string>
     <string name="catalyst_perf_monitor">Mostra Monitor Perf</string>
     <string name="catalyst_perf_monitor_off">Nascondi Monitor Perf</string>
     <string name="catalyst_poke_sampling_profiler">Avvia/Interrompi profilo di campionamento</string>
-  <string name="catalyst_reload_button">"Ricarica (R, R)"</string>
+    <string name="catalyst_reload_button">Ricarica (R, R)</string>
     <string name="catalyst_reloadjs">Ricarica</string>
     <string name="catalyst_remotedbg_error">Impossibile connettersi con il debugger remoto</string>
     <string name="catalyst_remotedbg_message">Connessione al debugger remoto</string>
@@ -337,6 +341,7 @@ Prova selezionandone una differente."</string>
     <string name="choose_ir_plugin_duokan">Mi Remote</string>
     <string name="choose_ir_plugin_tianjia">Mi Remote</string>
     <string name="choose_location">Seleziona la posizione del dispositivo</string>
+    <string name="choose_one_tip">Nessun dispositivo controllabile</string>
     <string name="choose_same_ssid_error">Seleziona una diversa rete Wi-Fi</string>
     <string name="choose_to_add_device">Seleziona i dispositivi usati di frequente</string>
     <string name="choose_wifi_count_over">Non é possibile selezionare più di 6 articoli</string>
@@ -367,7 +372,7 @@ Prova selezionandone una differente."</string>
     <string name="com_facebook_like_button_liked">Già piaciuto</string>
     <string name="com_facebook_like_button_not_liked">Mi piace</string>
     <string name="com_facebook_loading">Caricamento…</string>
-    <string name="com_facebook_loginview_cancel_action">Annulla</string>
+    <string name="com_facebook_loginview_cancel_action">Indietro</string>
     <string name="com_facebook_loginview_log_in_button">Accedi</string>
     <string name="com_facebook_loginview_log_in_button_continue">Continua con Facebook</string>
     <string name="com_facebook_loginview_log_in_button_long">Accedi con Facebook</string>
@@ -507,11 +512,12 @@ Prova selezionandone una differente."</string>
     <string name="device_binded_subtitle">"Annulla l'abbinamento del dispositivo per riabbinarlo"</string>
     <string name="device_cold_fan">Ventilatore</string>
     <string name="device_connect_with_band">Dispositivo collegato</string>
-    <string name="device_consumptive">Materiali di consumo</string>
+    <string name="device_consumptive">Materiali</string>
     <string name="device_cooker">Bollitore elettrico per il riso</string>
     <string name="device_desc">Informazioni sul dispositivo</string>
     <string name="device_detail_detail">Visualizza dettagli</string>
     <string name="device_detail_option_rename">Aggiungi commento</string>
+    <string name="device_downloading">É in corso il download di altri plug-in, riprova più tardi</string>
     <string name="device_dvd">DVD</string>
     <string name="device_egg_cooker">Bollitore per uova</string>
     <string name="device_elec_heating">Stufa</string>
@@ -538,14 +544,19 @@ Prova selezionandone una differente."</string>
     <string name="device_loading">Inizializzazione dispositivo…</string>
     <string name="device_microwaveoven">Forno a microonde</string>
     <string name="device_more_activity_about">A proposito di</string>
+    <string name="device_more_activity_bluetooth_gateway">Gateway Bluetooth</string>
+    <string name="device_more_activity_cancel_license_privacy">"Revoca dei Termini di utilizzo e dell'informativa sulla privacy"</string>
     <string name="device_more_activity_common_setting">Impostazioni generali</string>
     <string name="device_more_activity_failed">Impossibile eseguire</string>
     <string name="device_more_activity_feedback">Feedback</string>
     <string name="device_more_activity_firmware_update">Verifica aggiornamenti firmware</string>
     <string name="device_more_activity_help">Tutorial</string>
     <string name="device_more_activity_help_feedback">Aiuto</string>
+    <string name="device_more_activity_license">"Condizioni d'utilizzo"</string>
+    <string name="device_more_activity_license_privacy">Termini di utilizzo ed Informativa sulla privacy</string>
     <string name="device_more_activity_network_info">Info rete</string>
     <string name="device_more_activity_noti_quick_op">Scorciatoia per tonalità di notifica</string>
+    <string name="device_more_activity_privacy">Informativa sulla privacy</string>
     <string name="device_more_activity_rename">Rinomina</string>
     <string name="device_more_activity_reset">Reimposta</string>
     <string name="device_more_activity_scence">Automazione</string>
@@ -589,6 +600,7 @@ Prova selezionandone una differente."</string>
     <string name="device_morsecurity_clear_hint">"Ricorda la tua password. Se l'hai dimenticata, puoi reimpostare il dispositivo e la sua password."</string>
     <string name="device_network_error">Impossibile aggiungere account, saltare?</string>
     <string name="device_network_error_strong">Impossibile aggiungere, verifica la tua connessione di rete</string>
+    <string name="device_no_owner_not_support_automation">"L'automazione non è supportata sui dispositivi condivisi"</string>
     <string name="device_not_support_now">"Il dispositivo non é supportato sulla versione corrente. Aggiorna l'app alla versione più recente."</string>
     <string name="device_offline">Dispositivo offline, si prega di verificare</string>
     <string name="device_offline_check">"1. Assicurati che il dispositivo sia attivo. 2. Assicurati che il router sia in grado di connettersi ad una rete Internet esterna. 3. Scollega il dispositivo e riavvialo. 4. Se hai cambiato la password del router, prova a #start#reset#end# il dispositivo. Dopo aver verificato tutto, aggiorna l'elenco dei dispositivi."</string>
@@ -654,7 +666,7 @@ Prova selezionandone una differente."</string>
     <string name="device_shop_share_success">Condivisione riuscita</string>
     <string name="device_shop_share_weibo_not_support">La versione attuale di Weibo non supporta la condivisione</string>
     <string name="device_shop_toast_no_distict_data">"Impossibile impostare l'indirizzo"</string>
-    <string name="device_shop_tv_addr_tips">"Poiché la maggior parte dei nostri prodotti sono grandi elettrodomestici, la gamma di consegna può essere limitata dalle società di logistica. Nel caso in cui non saremo in grado di consegnare un prodotto, il nostro servizio clienti ti contatterà e provvederà al rimborso."</string>
+    <string name="device_shop_tv_addr_tips">Poiché la maggior parte dei nostri prodotti sono grandi elettrodomestici, la gamma di consegna può essere limitata dalle società di logistica. Nel caso in cui non saremo in grado di consegnare un prodotto, il nostro servizio clienti ti contatterà e provvederà al rimborso.</string>
     <string name="device_socket">Ciabatta</string>
     <string name="device_sound">Altoparlante</string>
     <string name="device_state_close">Disattiva</string>
@@ -678,7 +690,7 @@ Prova selezionandone una differente."</string>
     <string name="dialog_auto_start_title">Consigli di avvio</string>
     <string name="dialog_btn_allow">Vai alle impostazioni</string>
     <string name="dialog_button_create_group">Crea un gruppo</string>
-    <string name="dialog_default">Sipdroid non é attualmente impostato come telefono predefinito. Ti piacerebbe renderlo il telefono predefinito? Se risponderai "No" qui, potrai ancora chiamare con Sipdroid dal sistema aggiungendo "+" dietro un numero nel Compositore, o selezionando "a testo" in Contatti.</string>
+    <string name="dialog_default">Sipdroid non é attualmente impostato come telefono predefinito. Ti piacerebbe renderlo il telefono predefinito? Se risponderai No qui, potrai ancora chiamare con Sipdroid dal sistema aggiungendo + dietro un numero nel Compositore, o selezionando a testo in Contatti.</string>
     <string name="dialog_message">Ti piacerebbe vedere un messaggio di Pascal che introduce Sipdroid 1.5?</string>
     <string name="dialog_option_okay">OK</string>
     <string name="dialog_option_one_more">Ancora uno</string>
@@ -687,7 +699,7 @@ Prova selezionandone una differente."</string>
     <string name="dialog_title_apk_downloaded">Download degli ultimi aggiornamenti. Aggiorna ora?</string>
     <string name="dialog_title_create_yeelight_group">Puoi creare un gruppo per le lampade Yeelight</string>
     <string name="dialog_title_force_update">La versione attuale di Mi Home é troppo vecchia, forse non potrai utilizzare normalmente alcune funzionalità. Aggiorna alla versione più recente per ottenere una maggiore affidabilità.</string>
-    <string name="dialog_title_half_force_update">La versione %s di Mi Home é disponibile, aggiornare ora?"</string>
+    <string name="dialog_title_half_force_update">La versione %s di Mi Home é disponibile, aggiornare ora?</string>
     <string name="dialog_title_more_operation">Più funzionalità</string>
     <string name="dialog_title_one_device_tip">Hai bisogno di più di 1 dispositivo per creare un gruppo</string>
     <string name="dialog_title_phone_ir_settings">Impostazioni telecomando IR</string>
@@ -879,6 +891,7 @@ Prova selezionandone una differente."</string>
     <string name="guide_bubble_3_3"><li>Tocca per visualizzare come impostare le varie condizioni di attivazione e utilizzare i dispositivi in ​​lotti</li></string>
     <string name="handle_error">"Impossibile completare l'operazione"</string>
     <string name="handle_tips">Guida operativa</string>
+    <string name="have_bind_by_other">Il dispositivo è già stato abbinato da altri</string>
     <string name="have_read">Ho letto</string>
     <string name="header_content_home">Sei tornato a casa</string>
     <string name="header_content_office">Sei al lavoro</string>
@@ -893,6 +906,7 @@ Prova selezionandone una differente."</string>
     <string name="hint">Indirizzo della festa chiamato</string>
     <string name="hint2">Numero di telefono</string>
     <string name="home">Casa</string>
+    <string name="home_loc">Posizione familiari</string>
     <string name="home_log_privacy">Il diario di viaggio riceverà la tua posizione e le informazioni Wi-Fi, continuare?</string>
     <string name="home_manage_tite">Gestore casa</string>
     <string name="home_manager">Gestisci camere</string>
@@ -990,6 +1004,7 @@ Prova selezionandone una differente."</string>
     <string name="knows_already">Fatto</string>
     <string name="kuailian_cancel">Disconnetti</string>
     <string name="kuailian_check_reset">Verifica e riavvia</string>
+    <string name="kuailian_conn_error_router">Il router che hai selezionato non é un Mi Router, continuare comunque?</string>
     <string name="kuailian_connectting_cloud">Il router sta tentando di connettersi al cloud</string>
     <string name="kuailian_connectting_router">Il telefono sta cercando di connettersi al router</string>
     <string name="kuailian_contain_unsupport_char">Il nome del router dovrebbe contenere solo caratteri inglesi</string>
@@ -1085,6 +1100,7 @@ Prova selezionandone una differente."</string>
     <string name="lite_scene_no_support_exetime">"Non supportato quando le condizioni sono impostate come 'attivate manualmente'"</string>
     <string name="load_data_error">Impossibile caricare i dati</string>
     <string name="load_done">Eseguito</string>
+    <string name="load_failed">Impossibile caricare</string>
     <string name="loading">Solo un secondo…</string>
     <string name="loading_more_error">Impossibile caricare informazioni, riprova</string>
     <string name="loading_share_info">Ottenimento informazioni…</string>
@@ -1094,6 +1110,7 @@ Prova selezionandone una differente."</string>
     <string name="local_scene_failed">Si é verificato un errore durante la sincronizzazione automatica dei dati, assicurarsi che il gateway (dispositivo principale) sia online e riprovare</string>
     <string name="local_sunset_time">Ora del tramonto locale</string>
     <string name="local_sync_failed">Impossibile sincronizzare, aggiornare i plug-in e riprovare</string>
+    <string name="location_disable_hint">"Si prega di abilitare la funzionalità 'Localizza la mia casa' per scansionare i dispositivi wi-fi nelle vicinanze"</string>
     <string name="location_hint">Tieni acceso il Wi-Fi per assicurarti che i dati siano precisi</string>
     <string name="lock_device_type_ir">Dispositivi IR</string>
     <string name="lock_empty_message_need_login">Tocca per accedere su Mi Home</string>
@@ -1220,7 +1237,9 @@ Prova selezionandone una differente."</string>
     <string name="mi_camera_no_change">Quando le immagini della fotocamera non variano</string>
     <string name="mi_key">Mi Key</string>
     <string name="mi_key_title">Mi Key</string>
+    <string name="mi_router">Mi Router</string>
     <string name="mi_router_connect_device">Il router ha trovato un dispositivo connesso</string>
+    <string name="mi_router_disconnect_device">Mi Router ha rilevato dei dispositivi disconnessi</string>
     <string name="mi_sip_server_environment">Ambiente di servizio Bing Microsoft</string>
     <string name="mi_smart_home_cs">Servizio clienti Mi Home</string>
     <string name="mi_validate_relogin">Accedi nuovamente</string>
@@ -1243,13 +1262,18 @@ Prova selezionandone una differente."</string>
     <string name="micro_tips_2">Abilita le luci</string>
     <string name="micro_tips_3">Disabilita le luci</string>
     <string name="micro_tips_4">"Abilita il purificatore d'aria"</string>
-    <string name="micro_tips_5">"Abilita AC"</string>
+    <string name="micro_tips_5">Abilita AC</string>
     <string name="micro_tips_6">Avvia robot aspirapolvere</string>
     <string name="micro_tips_7">Disattiva prese elettriche</string>
     <string name="micro_xiaobing">Microsoft Xiaoice</string>
     <string name="midea_aircondition">Midea AC</string>
+    <string name="miio_ble_gateway_scan_empty">Nessun dispositivo Bluetooth è stato trovato nelle vicinanze del gateway</string>
+    <string name="miio_bluetooth_gateway">Gateway Bluetooth</string>
+    <string name="miio_bluetooth_gateway_count">%1$d dispositivi disponibili nelle vicinanze</string>
     <string name="miio_device_list_add_device">Aggiungi controlli remoti</string>
     <string name="miio_device_remove">Elimina dispositivo</string>
+    <string name="miio_empty_ble_gateway_list">Nessun dispositivo Bluetooth per gateway rilevato</string>
+    <string name="miio_find_ble_gateway_in_store">"&lt;font color='#527acc'>Cerca un dispositivo nel negozio&lt;/font>"</string>
     <string name="miio_ir_name">Telecomando IR</string>
     <string name="miio_no_message">Nessun messaggio</string>
     <string name="miio_not_bind_device">Conferma prima il dispositivo connesso</string>
@@ -1261,7 +1285,7 @@ Prova selezionandone una differente."</string>
     <string name="miio_setting_my_shop">Il mio store</string>
     <string name="miio_setting_pay_fee">Utilità</string>
     <string name="miio_setting_share">Dispositivi condivisi</string>
-    <string name="miio_setting_share_short">Dispositivi condivisi</string>
+    <string name="miio_setting_share_short">Condivisi</string>
     <string name="miio_setting_upgrade_checking">Controllo…</string>
     <string name="miio_setting_virtual_device">Demo</string>
     <string name="miio_sub_device_remove">Rimuovi dispositivo</string>
@@ -1300,6 +1324,14 @@ Prova selezionandone una differente."</string>
     <string name="milogin_passport_login_waiting">Accesso, attendere prego…</string>
     <string name="milogin_validate_relogin">Per favore accedi nuovamente</string>
     <string name="milogin_wx_not_installed">"Si prega di installare l'app WeChat"</string>
+    <string name="mini_program_cancel">Indietro</string>
+    <string name="mini_program_confirm">Conferma</string>
+    <string name="mini_program_isee">Ho capito</string>
+    <string name="mini_program_send">Invia</string>
+    <string name="mini_program_tip">"Come posso utilizzare l'applet Mi con WeChat?"</string>
+    <string name="mini_program_tips">"Con l'applet sarà possibile condividere il dispositivo con amici o gruppi su WeChat e gli amici potranno controllarlo mediante tale collegamento.
+Solo i link che condividerai direttamente risulteranno validi mentre quelli che i tuoi amici inoltreranno ad altri non lo saranno. Ogni volta che condividerai un piccolo programma, tale condivisione fornità un periodo di validità di 7 giorni che scadrà automaticamente.
+Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica, sarà possibile annullare la condivisione del dispositivo nell'applet, dopodichè verrà effettuato un ritiro di tutti i collegamenti condivisi."</string>
     <string name="minute">"m "</string>
     <string name="miot_store_app_name">Con prodotti</string>
     <string name="miot_store_loaded_failed_view_text">Impossibile caricare</string>
@@ -1347,6 +1379,8 @@ Prova selezionandone una differente."</string>
     <string name="msg_detail">Dettagli messaggio</string>
     <string name="my_home">Profilo</string>
     <string name="my_home_1">La mia casa</string>
+    <string name="my_mini_program">Il mio applet WeChat</string>
+    <string name="my_mini_program_no_data">"Al momento non ci sono dispositivi che supportano l'applet"</string>
     <string name="my_phone_ir_desc_empty">Vuoto</string>
     <string name="my_phone_ir_name">Mi Remote</string>
     <string name="my_phone_name">Log di viaggio</string>
@@ -1354,6 +1388,7 @@ Prova selezionandone una differente."</string>
     <string name="my_scene_no_data">Tocca + per aggiungere scenari</string>
     <string name="name_repeat">Questo nome della stanza é già preso dal sistema, provane un altro</string>
     <string name="nearby_device">Nelle vicinanze</string>
+    <string name="need_unbind_by_other">"Il proprietario dell'attuale dispositivo dovrà disabbinare il dispositivo prima di rieseguire nuovamente l'abbinamento"</string>
     <string name="network_changed">Wi-Fi disconnesso, ha smesso di funzionare</string>
     <string name="network_disable">Impossibile connettersi alla rete</string>
     <string name="network_fake_connected">Impossibile connettersi al server, verifica la connessione di rete o riprova più tardi</string>
@@ -1385,8 +1420,10 @@ Prova selezionandone una differente."</string>
     <string name="no_wifi_found">Nessuna rete disponibile</string>
     <string name="no_zigbee_device">Nessun gateway Zigbee trovato, impossibile aggiungere dispositivi Zigbee</string>
     <string name="normal_kuailian">Connessione comune</string>
+    <string name="not_auth_program">"Non aggiunto all'applet"</string>
     <string name="not_enough_space">Spazio non sufficiente</string>
     <string name="not_found_bracelet_app">"L'app Mi Fit non é installata"</string>
+    <string name="not_found_router_app">"Installa l'app Mi Router"</string>
     <string name="not_oauth">Richiedi permesso per continuare</string>
     <string name="not_save_auth">Annulla</string>
     <string name="not_select_deleted_msg">Seleziona il messaggio da eliminare</string>
@@ -1412,6 +1449,7 @@ Prova selezionandone una differente."</string>
     <string name="open_device_not_found_erro_removed">Dispositivo rimosso</string>
     <string name="open_imediate">Abilita</string>
     <string name="open_location_permission">Permetti a Mi Home di accedere alla tua posizione per cercare reti nelle vicinanze</string>
+    <string name="open_location_permission1">Si prega di abilitare la scansione automatica della località per ottenere le informazioni sulla posizione</string>
     <string name="open_tips">Abilita</string>
     <string name="opening_bluetooth">Abilita Bluetooth…</string>
     <string name="opening_my_order_page_tips">Apri i miei ordini…</string>
@@ -1446,7 +1484,7 @@ Prova selezionandone una differente."</string>
     <string name="passport_click_email_to_valid">Per attivare il tuo account, segui il link che abbiamo inviato alla tua casella di posta</string>
     <string name="passport_completed">Eseguito</string>
     <string name="passport_confirm_recycle_account">Si</string>
-    <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>Sospetto&lt;/font>"L'operatore deve riciclare nuovamente il numero dopo l'acquisto, il numero ha un Account Xiaomi, l'account é il tuo?"</string>
+    <string name="passport_confirm_recycle_account_msg">"%s &lt;font color=Red>Sospetto&lt;/font>L'operatore deve riciclare nuovamente il numero dopo l'acquisto, il numero ha un Account Xiaomi, l'account é il tuo?"</string>
     <string name="passport_continue">Continua</string>
     <string name="passport_copy_message_text_success">Copia riuscita</string>
     <string name="passport_copy_message_vcode">Copia codice</string>
@@ -1542,7 +1580,7 @@ Prova selezionandone una differente."</string>
     <string name="passport_reg_success_summary">%1$s é stato associato al tuo account. Puoi usarlo per accedere o per reimpostare la tua password.</string>
     <string name="passport_reg_type_email">Utilizza indirizzo email</string>
     <string name="passport_reg_using_other_phone"><u>Utilizza numero di telefono alternativo</u></string>
-    <string name="passport_reg_using_other_phone_number_prompt">Crea un nuovo account utilizzando </string>
+    <string name="passport_reg_using_other_phone_number_prompt">Crea un nuovo account utilizzando</string>
     <string name="passport_reg_using_phone_number_prompt">Crea account utilizzando numero di telefono</string>
     <string name="passport_reg_via_sms_alert">Potrebbe essere richiesto un messaggio SMS in uscita per attivare questo servizio. Il tuo operatore potrebbe addebiterti il costo di questo messaggio.</string>
     <string name="passport_reging">Creazione account…</string>
@@ -1618,7 +1656,7 @@ Prova selezionandone una differente."</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="permission">"Spiacenti, le autorizzazioni di %1$s non sono attive e non funzioneranno. Fare clic su "Impostazioni"->Trova 'popon'->Gestisci autorizzazioni -> %2$s->'Consenti' nell'applicazione"</string>
+    <string name="permission">"Spiacenti, le autorizzazioni di %1$s non sono attive e non funzioneranno. Fare clic su Impostazioni->Trova 'popon'->Gestisci autorizzazioni -> %2$s->'Consenti' nell'applicazione"</string>
     <string name="phone">Telefono</string>
     <string name="phone_connect_wifi">Connesso a Wi-Fi</string>
     <string name="phone_disconnect_wifi">Disconnetti da Wi-Fi</string>
@@ -1629,7 +1667,7 @@ Prova selezionandone una differente."</string>
     <string name="picker_month">"m "</string>
     <string name="picker_sec">"s "</string>
     <string name="picker_year">"y "</string>
-    <string name="pin_wei">Gusta</string>
+    <string name="pin_wei">Assapora</string>
     <string name="please_click_connect">Tocca per connetterti</string>
     <string name="please_inpt_account">Immetti ID account</string>
     <string name="please_install_plug_first">Installa prima i plug-in per %s</string>
@@ -1671,7 +1709,7 @@ Prova selezionandone una differente."</string>
     <string name="plugin">" plug-in"</string>
     <string name="plugin_auto_update">Aggiorna plug-in</string>
     <string name="plugin_auto_update_detail">Aggiorna automaticamente quando connesso al Wi-Fi</string>
-    <string name="plugin_before_network_not_avail">Rete non disponibile, impossibile scaricare %s plug-in"</string>
+    <string name="plugin_before_network_not_avail">Rete non disponibile, impossibile scaricare %s plug-in</string>
     <string name="plugin_download_error">Impossibile scaricare plug-in</string>
     <string name="plugin_download_error_tips">Verifica la rete e riprova</string>
     <string name="plugin_download_fail">Impossibile scaricare</string>
@@ -1682,10 +1720,13 @@ Prova selezionandone una differente."</string>
     <string name="plugin_loading_fail">Impossibile caricare dati</string>
     <string name="plugin_scene_push_downloading">Scaricamento plug-in…</string>
     <string name="plugin_update_only_one_desc">Aggiornamento disponibile per %s</string>
+    <string name="popup_select_loc_no_network">Nessuna connessione internet attiva</string>
     <string name="preparing_card">Preparazione scheda SD…</string>
     <string name="press_to_add_device">Gestisci dispositivi utilizzati di frequente</string>
     <string name="press_to_add_device1">Aggiungi dispositivo</string>
     <string name="processing">In lavorazione…</string>
+    <string name="program_share_manage">Gestisci</string>
+    <string name="program_unauth">Non autorizzare</string>
     <string name="property_is_null_tips">Questa scorciatoia può essere attivata nella pagina dei dettagli del dispositivo</string>
     <string name="pstn_name">Chiamata Telefono</string>
     <string name="pull_down_refresh">Tira verso il basso per aggiornare</string>
@@ -1696,6 +1737,11 @@ Prova selezionandone una differente."</string>
     <string name="qr_name">Codice bidimensionale</string>
     <string name="qucode_kuailian">Connessione codice QR</string>
     <string name="quit">Esci</string>
+    <string name="reassure_cancel">Indietro</string>
+    <string name="reassure_dialog_content">"Una volta che l'autorizzazione verrà rimossa, il dispositivo non registrerà l'account al quale si è attualmente connessi e cancellerà i dati memorizzati sul server prima dell'utilizzo del dispositivo. I dati memorizzati nel dispositivo fisico dovranno essere cancellati dopo un ripristino.
+Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e fornire nuovamente l'autorizzazione."</string>
+    <string name="reassure_dialog_title">"Revocare l'autorizzazione?"</string>
+    <string name="reassure_ok">Conferma</string>
     <string name="recommend_not_config">Configurare scenari consigliati?</string>
     <string name="recommend_scene_add_fail">Impossibile avviare, verificare la connessione di rete</string>
     <string name="recommend_scene_add_success">Esecuzione riuscita, visualizza in Automazione > Miei</string>
@@ -1802,12 +1848,14 @@ Prova selezionandone una differente."</string>
     <string name="scene_all_condition_satified">Soddisfa tutte le condizioni</string>
     <string name="scene_all_scene">Tutti gli scenari</string>
     <string name="scene_any_condition_satified">Soddisfa una condizione</string>
+    <string name="scene_choose_scene_mode_dialog_title">Si prega di selezionare più condizioni</string>
     <string name="scene_close">Disabilita</string>
     <string name="scene_condition_miband_awake">"Quando l'utente si é svegliato"</string>
     <string name="scene_condition_miband_sleep">"Quando l'utente si addormenta"</string>
     <string name="scene_condition_phone_call">Se si riceve una chiamata sui telefoni Mi</string>
     <string name="scene_condition_sms">Se si riceve un messaggio sui telefoni Mi</string>
     <string name="scene_confirm_delete">Rimuovere questo scenario?</string>
+    <string name="scene_create_fail_by_change_hand_auto">Conversione scenario da modalità manuale ad automatica temporaneamente non supportata</string>
     <string name="scene_create_new_scene">Crea un nuovo scenario</string>
     <string name="scene_default_keyname_1">Proteggi la tua casa in modo intelligente</string>
     <string name="scene_default_keyname_2">Abilita tutte le prese</string>
@@ -1826,7 +1874,7 @@ Prova selezionandone una differente."</string>
     <string name="scene_error_2">Device is offline</string>
     <string name="scene_error_3">Timeout</string>
     <string name="scene_error_33066">La telecamera é in modalità di sospesione</string>
-    <string name="scene_error_dialog_tips">"1. Scarsa condizione della rete 2. Errore del dispositivo 3. Errore del server"</string>
+    <string name="scene_error_dialog_tips">1. Scarsa condizione della rete 2. Errore del dispositivo 3. Errore del server</string>
     <string name="scene_error_other">Errore anormale</string>
     <string name="scene_exceed_limit">Impossibile creare altri compiti</string>
     <string name="scene_exe_fail_notification_title">Impossibile eseguire, verifica la tua connessione di rete</string>
@@ -1844,7 +1892,7 @@ Prova selezionandone una differente."</string>
     <string name="scene_home_scene_activity_orgnized">Ordina</string>
     <string name="scene_import">Importa</string>
     <string name="scene_import_old">Importa compiti precedenti</string>
-    <string name="scene_import_old_title">"Tocca per eseguire scene aggiunte precedentemente. Aggiungile alla Home page"</string>
+    <string name="scene_import_old_title">Tocca per eseguire scene aggiunte precedentemente. Aggiungile alla Home page</string>
     <string name="scene_import_scene_subtitle">Puoi importare compiti impostati in precedenza</string>
     <string name="scene_import_select_one">Seleziona almeno uno scenario</string>
     <string name="scene_import_success">Importazione riuscita</string>
@@ -1863,6 +1911,7 @@ Prova selezionandone una differente."</string>
     <string name="scene_open">Abilita</string>
     <string name="scene_plugin_title">Automazione</string>
     <string name="scene_pull_to_refresh">Impossibile comunicare, aggiorna e riprova</string>
+    <string name="scene_rec_detail_select_city">Tocca per selezionare la città</string>
     <string name="scene_recommend">Consigliati</string>
     <string name="scene_recommend_title">Scenari consigliati</string>
     <string name="scene_refresh_fail">Impossibile aggiornare, verifica la rete e lo stato di accesso</string>
@@ -1884,7 +1933,7 @@ Prova selezionandone una differente."</string>
     <string name="scene_warrning_text">"Avvertenza: non collegare a dispositivi con potenziali rischi per la sicurezza, poiché l'errore di rete o altri problemi potrebbero causare un errore di automazione."</string>
     <string name="score_page_title">Punti</string>
     <string name="score_raffle_title">Sorteggio fortunato</string>
-    <string name="score_sign_error1">"Impossibile verificare a causa di problemi con il server"</string>
+    <string name="score_sign_error1">Impossibile verificare a causa di problemi con il server</string>
     <string name="score_sign_error2">Impossibile effettuare il check in, verifica la connessione di rete</string>
     <string name="score_sign_got_score_fmt">Hai già controllato oggi</string>
     <string name="score_total_score_fmt">%d punti</string>
@@ -1905,7 +1954,7 @@ Prova selezionandone una differente."</string>
     <string name="server_change_server_message">Accedi nuovamente dopo che avrai cambiato regione</string>
     <string name="server_change_server_title">Cambiato in %s</string>
     <string name="server_env_choose_title">Seleziona un ambiente server</string>
-    <string name="server_location_incompatible_cancel">Annulla</string>
+    <string name="server_location_incompatible_cancel">Indietro</string>
     <string name="server_location_incompatible_confirm">OK</string>
     <string name="server_location_incompatible_content">Cambiare in %s?</string>
     <string name="server_location_incompatible_ignore">Non mostrare nuovamente</string>
@@ -1925,7 +1974,7 @@ Prova selezionandone una differente."</string>
     <string name="server_usr_guide_show_msg2_2">Esci e accedi di nuovo dopo essere passato a Stati Uniti (US);</string>
     <string name="server_usr_guide_show_msg2_3">Abbina nuovamente il dispositivo dopo averlo reimpostato.</string>
     <string name="server_usr_guide_show_title">Aggiornamento disponibile</string>
-    <string name="server_usr_guide_switch_msg">Il server Stati Uniti viene ora reso disponibile per migliorare la velocità di accesso ed offrire un maggior quantitativo di servizi. Non é più possibile accedere con nuovi dispositivi nella posizione corrente. Toccare OK per passare al server Stati Uniti."</string>
+    <string name="server_usr_guide_switch_msg">Il server Stati Uniti viene ora reso disponibile per migliorare la velocità di accesso ed offrire un maggior quantitativo di servizi. Non é più possibile accedere con nuovi dispositivi nella posizione corrente. Toccare OK per passare al server Stati Uniti.</string>
     <string name="server_usr_guide_switch_title">Aggiornamento disponibile</string>
     <string name="set_now">Vai alle impostazioni</string>
     <string name="set_timer_fail_delete">"Impossibile cancellare l'ultimo periodo, riprovare?"</string>
@@ -2057,6 +2106,7 @@ Prova selezionandone una differente."</string>
     <string name="share_device_content_line1">Condividi %s</string>
     <string name="share_device_not_support_settings">Le impostazioni non sono attualmente supportate per i dispositivi condivisi</string>
     <string name="share_device_title">"Condividi i dispositivi con la tua famiglia. Godetevi l'innovazione insieme!"</string>
+    <string name="share_failed">Condivisione non riuscita</string>
     <string name="share_last">Visualizzato recentemente</string>
     <string name="share_manage">Gestisci</string>
     <string name="share_no_device">Nessun dispositivo condiviso</string>
@@ -2089,7 +2139,7 @@ Prova selezionandone una differente."</string>
     <string name="shop_message">Messaggi Store</string>
     <string name="single_click">Click singolo</string>
     <string name="sip_call_failure">Composizione fallita</string>
-    <string name="sip_cancel">Annulla</string>
+    <string name="sip_cancel">Indietro</string>
     <string name="sip_close">Termina</string>
     <string name="sip_confirm">OK</string>
     <string name="sip_main_desc">Hai bisogno di fare qualcosa? Puoi dirmelo direttamente</string>
@@ -2153,7 +2203,7 @@ Prova selezionandone una differente."</string>
     <string name="smart_config_set_ssid_passwd">Imposta info di rete per Kit Mi Wi-Fi</string>
     <string name="smart_config_set_wifi_btn">Imposta Wi-Fi</string>
     <string name="smart_config_show_passwd">Mostra password</string>
-    <string name="smart_config_sub_downloading_plugin">"Assicurati di poter accedere alla rete esterna. Non disabilitare o cambiare la rete durante la connessione."</string>
+    <string name="smart_config_sub_downloading_plugin">Assicurati di poter accedere alla rete esterna. Non disabilitare o cambiare la rete durante la connessione.</string>
     <string name="smart_config_sub_need_confirm">"Si prega di toccare il pulsante del data logger per completare l'autenticazione"</string>
     <string name="smart_config_toast_connect_failed">%s timeout connessione</string>
     <string name="smart_config_toast_connect_success">%s connesso con successo</string>
@@ -2208,7 +2258,7 @@ Prova selezionandone una differente."</string>
     <string name="smartgroup_wp_title">Prima/Dopo purificazione (TDS)</string>
     <string name="smarthome_add_divece_suscess">Aggiunta dispositivo riuscita</string>
     <string name="smarthome_add_share">Aggiungi dispositivo condiviso</string>
-    <string name="smarthome_cancel_timespan">Annulla</string>
+    <string name="smarthome_cancel_timespan">Indietro</string>
     <string name="smarthome_choose_good_dialog_title">Aggiungi i seguenti dispositivi per creare questo scenario</string>
     <string name="smarthome_create_new_auto_scene">Aggiungi un nuovo scenario</string>
     <string name="smarthome_delete_timespan">Elimina timer</string>
@@ -2479,6 +2529,7 @@ Prova selezionandone una differente."</string>
     <string name="timer_today">Oggi</string>
     <string name="timer_yesterday">Ieri</string>
     <string name="tip_home_name_save_failed">Impossibile impostare il nome della casa</string>
+    <string name="tip_unauth">"Dopo che l'autorizzazione verrà rimossa i tuoi amici non potranno più continuare ad utilizzare il dispositivo dall'applet, confermare la rimozione?"</string>
     <string name="tip_wallpaper_set_failed">Impossibile salvare gli sfondi a tema casa</string>
     <string name="title_choose_device">Seleziona dispositivo</string>
     <string name="title_choose_room">Seleziona stanza</string>
@@ -2514,6 +2565,9 @@ Prova selezionandone una differente."</string>
     <string name="ucashier_handle_loading">In elaborazione…</string>
     <string name="ucashier_trade_price">￥%1$s</string>
     <string name="ucashier_trade_title">Pagamento ordine</string>
+    <string name="unauth_failed">Rimozione non riuscita</string>
+    <string name="unauth_success">Rimozione riuscita</string>
+    <string name="unauthing">Rimozione...</string>
     <string name="unauthoried_tip">Errore account, accedi nuovamente</string>
     <string name="undownload_camera_play">Tocca il nome del dispositivo per visualizzare i dettagli</string>
     <string name="unknown">Sconosciuto</string>
@@ -2536,7 +2590,7 @@ Prova selezionandone una differente."</string>
     <string name="update_installing_info">Il processo di installazione potrebbe richiedere del tempo, sii paziente</string>
     <string name="update_installing_short">Installazione</string>
     <string name="update_none_wifi_confirm">Utilizzare i dati mobili per scaricare gli aggiornamenti?</string>
-    <string name="update_none_wifi_confirm_cancel">Annulla</string>
+    <string name="update_none_wifi_confirm_cancel">Indietro</string>
     <string name="update_none_wifi_confirm_ok">Aggiorna</string>
     <string name="update_now">Aggiorna</string>
     <string name="update_software">Aggiorna</string>
@@ -2569,8 +2623,8 @@ Prova selezionandone una differente."</string>
  
  This Agreement is legally binding to product users. You therefore fully agree with the terms and conditions of this Agreement. New users of this product will be deemed as having accepted this Agreement. Please read carefully all the terms and conditions of this Agreement, including the exclusion and limitation clauses relevant to both Xiaomi and the users (minors must be accompanied by a parent or adult guardian while reading the Agreement). If you cannot accept all the terms and conditions of this Agreement, do not start using this product. (If you have already purchased the hardware products, but do not accept all the terms and conditions of this Agreement, go to http://www.mi.com learn about the return policy.)
  
-"<b></b>" 
-"<b></b>" 
+ 
+ 
  The user may use the products without creating an account. If you want to use all the features of the products, you need to create a Mi Account and sign in to it.
  Personal information should be provided while creating the account. You must promise and guarantee that:
  1.1.1 All the registration information you provide is truthful and accurate.
@@ -2766,8 +2820,10 @@ Prova selezionandone una differente."</string>
  Privacy Policy may be revised. Without your express consent, we will not rescind the rights you enjoy according to this privacy policy, unless we send you notice via the email address you provided to us or if we have made a public announcement on our website.
 "</string>
     <string name="user_license_btn_text">Accordo per gli utenti &amp; Privacy Policy</string>
+    <string name="user_license_new">Accordo di licenza utente (in Cinese)</string>
     <string name="user_license_title">Accordo per gli utenti Mi &amp; Privacy Policy</string>
     <string name="user_name_home_suffix">Casa di %s</string>
+    <string name="user_privacy_new">Informativa utente sulla privacy (in Cinese)</string>
     <string name="version_name_string">Versione attuale: %s by Or-Laf miui.it</string>
     <string name="vip_achievement">Obiettivi</string>
     <string name="vip_level">Livello</string>
@@ -2903,50 +2959,4 @@ Prova selezionandone una differente."</string>
     <string name="yunyi_virtual_camera_create_get_location_fail">Impossibile ottenere informazioni sulla posizione</string>
     <string name="yunyi_virtual_camera_create_success">Yi Smart Webcam aggiunta con successo</string>
     <string name="zimi_power_name">ZMI Power Bank</string>
-    <string name="already_auth_program">"Aggiunto all'applet"</string>
-    <string name="area_location_suc">Posizione localizzata con successo</string>
-    <string name="choose_one_tip">Nessun dispositivo controllabile</string>
-    <string name="device_downloading">É in corso il download di altri plug-in, riprova più tardi</string>
-    <string name="device_more_activity_cancel_license_privacy">"Revoca dei Termini di utilizzo e dell'informativa sulla privacy"</string>
-    <string name="device_more_activity_license">"Condizioni d'utilizzo"</string>
-    <string name="device_more_activity_license_privacy">Termini di utilizzo ed Informativa sulla privacy</string>
-    <string name="device_more_activity_privacy">Informativa sulla privacy</string>
-    <string name="device_no_owner_not_support_automation">"L'automazione non è supportata sui dispositivi condivisi"</string>
-    <string name="have_bind_by_other">Il dispositivo è già stato abbinato da altri</string>
-    <string name="home_loc">Posizione familiari</string>
-    <string name="kuailian_conn_error_router">Il router che hai selezionato non é un Mi Router, continuare comunque?</string>
-    <string name="load_failed">Impossibile caricare</string>
-    <string name="mi_router">Mi Router</string>
-    <string name="mi_router_disconnect_device">Mi Router ha rilevato dei dispositivi disconnessi</string>
-    <string name="mini_program_cancel">Annulla</string>
-    <string name="mini_program_confirm">Conferma</string>
-    <string name="mini_program_isee">Ho capito</string>
-    <string name="mini_program_send">Invia</string>
-    <string name="mini_program_tip">"Come posso utilizzare l'applet Mi con WeChat?"</string>
-    <string name="mini_program_tips">"Con l'applet sarà possibile condividere il dispositivo con amici o gruppi su WeChat e gli amici potranno controllarlo mediante tale collegamento.
-Solo i link che condividerai direttamente risulteranno validi mentre quelli che i tuoi amici inoltreranno ad altri non lo saranno. Ogni volta che condividerai un piccolo programma, tale condivisione fornità un periodo di validità di 7 giorni che scadrà automaticamente.
-Dopo aver cliccato su "gestione" nell'angolo in alto a destra in fase di modifica, sarà possibile annullare la condivisione del dispositivo nell'applet, dopodichè verrà effettuato un ritiro di tutti i collegamenti condivisi."</string>
-    <string name="my_mini_program">Il mio applet WeChat</string>
-    <string name="my_mini_program_no_data">"Al momento non ci sono dispositivi che supportano l'applet"</string>
-    <string name="need_unbind_by_other">"Il proprietario dell'attuale dispositivo dovrà disabbinare il dispositivo prima di rieseguire nuovamente l'abbinamento"</string>
-    <string name="not_auth_program">"Non aggiunto all'applet"</string>
-    <string name="not_found_router_app">"Installa l'app Mi Router"</string>
-    <string name="open_location_permission1">Si prega di abilitare la scansione automatica della località per ottenere le informazioni sulla posizione</string>
-    <string name="popup_select_loc_no_network">Nessuna connessione internet attiva</string>
-    <string name="program_share_manage">Gestisci</string>
-    <string name="program_unauth">Non autorizzare</string>
-    <string name="reassure_cancel">Annulla</string>
-    <string name="reassure_dialog_content">"Una volta che l'autorizzazione verrà rimossa, il dispositivo non registrerà l'account al quale si è attualmente connessi e cancellerà i dati memorizzati sul server prima dell'utilizzo del dispositivo. I dati memorizzati nel dispositivo fisico dovranno essere cancellati dopo un ripristino.
-Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e fornire nuovamente l'autorizzazione."</string>
-    <string name="reassure_dialog_title">"Revocare l'autorizzazione?"</string>
-    <string name="reassure_ok">Conferma</string>
-    <string name="scene_create_fail_by_change_hand_auto">Conversione scenario da modalità manuale ad automatica temporaneamente non supportata</string>
-    <string name="scene_rec_detail_select_city">Tocca per selezionare la città</string>
-    <string name="share_failed">Condivisione non riuscita</string>
-    <string name="tip_unauth">"Dopo che l'autorizzazione verrà rimossa i tuoi amici non potranno più continuare ad utilizzare il dispositivo dall'applet, confermare la rimozione?"</string>
-    <string name="unauth_failed">Rimozione non riuscita</string>
-    <string name="unauth_success">Rimozione riuscita</string>
-    <string name="unauthing">Rimozione...</string>
-    <string name="user_license_new">Accordo di licenza utente (in Cinese)</string>
-    <string name="user_privacy_new">Informativa utente sulla privacy (in Cinese)</string>
 </resources>
