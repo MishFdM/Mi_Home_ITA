@@ -1,5 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="ac_device_type">
+        <item>Scaldabagno Normale</item>
+        <item>Presa Standard 16A</item>
+        <item>TV</item>
+        <item>AC</item>
+    </string-array>
     <string-array name="ac_function_Fan">
         <item>Attiva/Disattiva</item>
     </string-array>
@@ -110,6 +116,24 @@
         <item>@string/dialog_rename</item>
         <item>@string/gateway_remove_subdevice</item>
         <item>@string/visible_in_main_device_list</item>
+    </string-array>
+    <string-array name="device_model_list_mieu">
+        <item>lumi.sensor_switch</item>
+        <item>lumi.sensor_magnet</item>
+        <item>lumi.sensor_motion</item>
+    </string-array>
+    <string-array name="device_model_list_mihk">
+        <item>lumi.sensor_switch</item>
+        <item>lumi.sensor_magnet</item>
+        <item>lumi.sensor_motion</item>
+        <item>lumi.sensor_ht</item>
+    </string-array>
+    <string-array name="device_model_list_mitw">
+        <item>lumi.sensor_switch</item>
+        <item>lumi.sensor_magnet</item>
+        <item>lumi.sensor_motion</item>
+        <item>lumi.sensor_ht</item>
+        <item>lumi.plug.mitw</item>
     </string-array>
     <string-array name="sub_device_model_list_v2_below">
         <item>lumi.sensor_switch</item>
