@@ -2086,7 +2086,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="select_all">Seleziona tutto</string>
     <string name="select_from_camera">Fai una foto</string>
     <string name="select_from_gallary">"Seleziona dall'album"</string>
-    <string name="select_local_picture">Selezione dalla galleria</string>
+    <string name="select_local_picture">Seleziona dalla galleria</string>
     <string name="selected_0_cnt_tips">0 selezionati</string>
     <string name="selected_cnt_tips">%1$s selezionati</string>
     <string name="send_log">Invia log Feedback</string>
