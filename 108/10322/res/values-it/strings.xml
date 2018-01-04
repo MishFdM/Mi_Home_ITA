@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Libreria ALog</string>
     <string name="cancel">Indietro</string>
@@ -1317,7 +1317,7 @@
     <string name="scene_is_already_delete">Il tuo scenario é stato eliminato ~</string>
     <string name="scene_log_illumination">"C'é del movimento, l'illuminazione é di %1$s lux"</string>
     <string name="scene_log_timeout">Timeout</string>
-    <string name="scene_share_no_pr">Non si ha giurisdizione</string>
+    <string name="scene_share_no_pr">Non hai giurisdizione</string>
     <string name="search_fail_upload">Invia tipologia di condizionatore</string>
     <string name="search_progressing">%s é risultato come condizionatore corrispondente, attendere prego...</string>
     <string name="search_success">Completato</string>
@@ -1531,4 +1531,25 @@
     <string name="time_zone_title">Scegli un fuso orario</string>
     <string name="ac_device_type_2">TV</string>
     <string name="ac_device_type_5">CONDIZIONATORE</string>
+    <string name="gateway_volume_alarmclock">Tono volume sveglia</string>
+    <string name="gateway_volume_doorbell">Volume campanello porta</string>
+    <string name="gateway_volume_fm">Volume radio Internet</string>
+    <string name="gateway_volume_specialvolume">Volume suoneria</string>
+    <string name="gateway_volume_system">Volume di avviso</string>
+    <string name="gateway_weather">Sensore di temperatura e umidità Aqara</string>
+    <string name="iknow">Fatto</string>
+    <string name="second">Secondo</string>
+    <string name="timer_blank">Nessun timer aggiunto</string>
+    <string name="timersetting_cancel_tips">Annullare le modifiche a questo timer?</string>
+    <string name="timersetting_clean">Pulisci</string>
+    <string name="timersetting_empty">Non impostato</string>
+    <string name="timersetting_minute">Minuto</string>
+    <string name="timersetting_noright">Il dispositivo condiviso non ha permessi</string>
+    <string name="timersetting_off">Periodi di disattivazione</string>
+    <string name="timersetting_period">Periodo di attivazione</string>
+    <string name="timersetting_repeat">Ripeti</string>
+    <string name="timersetting_repeat_once">Una volta</string>
+    <string name="timersetting_title">Imposta timer</string>
+    <string name="today">Oggi</string>
+    <string name="yes">Si</string>
 </resources>
