@@ -2600,7 +2600,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="system_result_title">Risultati di identificazione intelligenti</string>
     <string name="tag_add">Aggiungi</string>
     <string name="tag_add_device_batch">Importa multipli dispositivi</string>
-    <string name="tag_add_title">Aggiungi una stanza</string>
+    <string name="tag_add_title">Aggiungi</string>
     <string name="tag_all_devices">I miei dispositivi</string>
     <string name="tag_brand_title">Marche</string>
     <string name="tag_capability_switch">Interruttore</string>
@@ -3242,4 +3242,5 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="login_verify_code_not_full">Inserisci il codice completo di verifica SMS %1$d</string>
     <string name="login_verify_code_second">%1$d secondi</string>
     <string name="login_verify_code_sending_info">Codice id verifica SMS inviato a %1$s</string>
+    <string name="share_fail_retry">Annullamento non riuscito, riprova!</string>
 </resources>
