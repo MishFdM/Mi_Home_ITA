@@ -1,38 +1,50 @@
 Guida installazione plugin:
 
-Passo 1: Scaricare il pacchetto "Plugins Tools" dalla nostra repository traduzione.
+Passo 1: Scarica il pacchetto "Plugins Tools" dalla nostra "Repository Traduzione".
 
-Passo 2: Attivare le "Opzioni Sviluppatore" toccando più volte su "Versione MIUI", dalle "Informazioni sul dispositivo" nelle impostazioni di sistema.
+Passo 2: Attiva le "Opzioni Sviluppatore" toccando più volte su "Versione MIUI", dalle "Info sul dispositivo" nelle impostazioni di sistema.
 
-Passo 3: Attivare le due opzioni sottostanti dalle "Opzioni Sviluppatore", concedendo i dovuti permessi (se richiesti).
+Passo 3: Dirigiti su "Opzioni Sviluppatore" e spunta le due opzioni sottostanti, concedendo i dovuti permessi (se richiesti).
 
 http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144328.jpg
-http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144431.jpg
+http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144431-e1512333169241.jpg
 
-Passo 4: Avviare l'app Mi Home e configurare i propri dispositivi (questo scaricherà i plugin necessari non tradotti), dopodiché lasciare che la suddetta app rimanga in background.
+NOTA 1: In caso di errore "device temporarily unauthorized", riesegui il passaggio solo da connessione dati cellulare o da connessione Wi-Fi con proxy Cinese (attivabile dalle impostazioni avanzate della connessione - https://www.proxynova.com/proxy-server-list/country-cn/). Nel caso che anche questo tentativo fallisse, usufruite della funzionalità VPN integrata nella MIUI (http://www.vpngate.net/en/).
 
-Passo 5: Collegare il telefono al PC, estrarre il pacchetto .zip "Plugins Tools" ed avviare il file batch "Plugin Injector" all'interno della cartella estratta.
+Passo 4: Avvia l'app Mi Home e configura i dispositivi (questa operazione eseguirà il download dei plugin non tradotti), dopodiché lascia la suddetta app aperta in background.
 
-Passo 6: Eseguire la prima opzione per eseguire un backup dell'app, assicurandosi che venga restituita una lista di file (come in foto) prima del termine dell'operazione. In caso contrario riprovare.
+Passo 5: Collega il telefono al PC, estrai il pacchetto "Plugins Tools.zip" ed avvia il file "Plugin Injector.bat" all'interno della cartella estratta. 
 
-http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144130.jpg
+Passo 6: Esegui la prima opzione per creare un backup dei dati dell'app, assicurandoti che venga restituita una lista di nomi di file (come in foto) prima del termine dell'operazione. In caso contrario riprova.
+
 http://www.miui.it/wp-content/uploads/2017/12/Screenshot-4.png
+http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144130.jpg
 
-Passo 7: Eseguire la seconda opzione, sostituendo ogni file .apk con la relativa versione tradotta nelle apposite cartelle numerate.
+Passo 7: Esegui la seconda opzione, sostituendo ogni plugin sotto foma di file .apk, con la relativa versione tradotta nell'apposita cartella numerata.
 
 http://www.miui.it/wp-content/uploads/2017/12/Screenshot-5.png
 
-Passo 8: Eseguire la terza opzione ed attendere la ricostruzione del backup.
+Passo 8: Esegui la terza opzione e attendi la ricostruzione del backup.
 
 http://www.miui.it/wp-content/uploads/2017/12/Screenshot-6.png
 
-Passo 9: Eseguire la quarta opzione per ripristinare il backup.
+Passo 9: Esegui la quarta opzione per ripristinare il backup.
 
 http://www.miui.it/wp-content/uploads/2017/12/Screenshot-7.png
 http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144043.jpg
 
-Nota: Nel caso si debba sostituire un plugin già tradotto, basterà ripetere la procedura partendo dal Passo 7. In alternativa, ad ogni nuovo plugin aggiunto, vi toccherà rieseguire l'intera guida.
+NOTA 1: Nel caso di sostituzione di un plugin già tradotto, basterà ripetere la procedura partendo dal Passo 7. In alternativa, ad ogni nuovo plugin aggiunto, vi toccherà rieseguire l'intera guida.
 
-Nota 2: Nel caso vogliate proporre la traduzione di un plugin non presente nella lista di quelli tradotti, non vi basterà far altro che postare il link per il download dell'apk originale in questo thread.
+NOTA 2: Nel caso vogliate proporre la traduzione di un plugin non presente nella lista di quelli tradotti, non vi basterà far altro che postare il link per il download dell'apk originale in questo thread.
 
-Nota 3: Per una questione di disponibilità dei pacchetti .apk dei plugin, la disponibilità di nuove versioni avverrà solo su richiesta e seguendo il punto precedente.
+NOTA 3: Per una questione di disponibilità dei plugin, il rilascio di nuove versioni avverrà solo su richiesta e seguendo la NOTA 2.
+
+Guida hack webradio:
+
+Passo 1: Dirigetevi sulla lista delle reti Wi-Fi, scegliete la vostra rete e cliccate sul pulsante laterale.
+
+http://www.miui.it/wp-content/uploads/2017/12/Screenshot_2017-12-19-15-58-50-002_com.android.settings.jpg
+
+Passo 2: Dirigetevi nella sezione "Impostazioni IP" e selezionate "Statico" anziché "DHCP"
+
+Passo 3: Sostituite solo i due "DNS" con "82.146.38.202" e salvate le impostazioni.
