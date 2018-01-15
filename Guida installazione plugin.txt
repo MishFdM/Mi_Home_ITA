@@ -9,8 +9,6 @@ Passo 3: Dirigiti su "Opzioni Sviluppatore" e spunta le due opzioni sottostanti,
 http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144328.jpg
 http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144431-e1512333169241.jpg
 
-NOTA 1: In caso di errore "device temporarily unauthorized", riesegui il passaggio solo da connessione dati cellulare o da connessione Wi-Fi con proxy Cinese (attivabile dalle impostazioni avanzate della connessione - https://www.proxynova.com/proxy-server-list/country-cn/). Nel caso che anche questo tentativo fallisse, usufruite della funzionalità VPN integrata nella MIUI (http://www.vpngate.net/en/).
-
 Passo 4: Avvia l'app Mi Home e configura i dispositivi (questa operazione eseguirà il download dei plugin non tradotti), dopodiché lascia la suddetta app aperta in background.
 
 Passo 5: Collega il telefono al PC, estrai il pacchetto "Plugins Tools.zip" ed avvia il file "Plugin Injector.bat" all'interno della cartella estratta. 
