@@ -663,3 +663,4 @@
     <string name="usb_format_err_content">Si consiglia di scollegare la chiavetta USB e provare a formattarla con altri dispositivi</string>
     <string name="usb_go_format_diaglog_content">Lo U-Disk é stato formattato, il dispositivo rimarrà offline per un pò. Non spegnere o scollegare lo U-Disk.</string>
 </resources>
+
