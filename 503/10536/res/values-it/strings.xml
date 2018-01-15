@@ -78,8 +78,8 @@
     <string name="camera_settings_flip">Inverti schermata</string>
     <string name="camera_settings_flip_text">Inverti schermata videocamera</string>
     <string name="camera_settings_log_save">Log firmware</string>
-    <string name="camera_settings_osd">Stampa OSD</string>
-    <string name="camera_settings_osd_text">Mostra stampa OSD</string>
+    <string name="camera_settings_osd">Mostra OSD</string>
+    <string name="camera_settings_osd_text">Mostra filigrana OSD</string>
     <string name="cancel">Indietro</string>
     <string name="cancel_delete">Annulla</string>
     <string name="cancel_download">Annulla download</string>
@@ -220,10 +220,10 @@
     <string name="go_setting">Imposta</string>
     <string name="guangdian">Radio e TV</string>
     <string name="has_selected">Selezionato</string>
-    <string name="have_no_sdCard">Nessuna scheda SD rilevata</string>
+    <string name="have_no_sdCard">Nessuna unità di archiviazione</string>
     <string name="high">Super</string>
     <string name="high_quality_bt">Qualità elevata</string>
-    <string name="high_resolution">Risoluzione elevata</string>
+    <string name="high_resolution">Alta risoluzione</string>
     <string name="high_setting_ok">Conferma</string>
     <string name="hour_by">Periodo</string>
     <string name="hours">Orario</string>
@@ -281,7 +281,7 @@
     <string name="low_quality_bt">Bassa qualità</string>
     <string name="manual_record">Registrazione manuale</string>
     <string name="memory_format_txt">"Ci vorrà circa 1 minuto per completare la formattazione, non spegnere il dispositivo durante l'operazione"</string>
-    <string name="memory_not_found">Nessuna scheda SD o unità U-Disk rilevata.</string>
+    <string name="memory_not_found">Nessuna unità di archiviazione.</string>
     <string name="memory_switch_dialog_content_to_sd">Assicurati di utilizzare la scheda SD come dispositivo di archiviazione</string>
     <string name="memory_switch_dialog_content_to_usb">"Assicurati di utilizzare l'unità U-Disk come dispositivo di archiviazione"</string>
     <string name="memory_switch_dialog_title">Cambia dispositivi di archiviazione</string>
@@ -316,7 +316,7 @@
     <string name="night_light_on">Attiva</string>
     <string name="night_vision">Visione notturna</string>
     <string name="no_image_to_delete">Non ci sono foto da rimuovere</string>
-    <string name="no_sdcard_udisk">Nessuna scheda SD o unità U-Disk</string>
+    <string name="no_sdcard_udisk">Nessuna unità di archiviazione</string>
     <string name="no_video_record">Non ci sono video salvati</string>
     <string name="no_video_to_delete">Non ci sono video da eliminare</string>
     <string name="no_vidwo_to_start_download">Il video non esiste, inizia il download:</string>
@@ -371,7 +371,7 @@
     <string name="pull_down_refresh">Tira verso il basso per aggiornare</string>
     <string name="pwd_max_length_warning">Si prega di impostare una password di lunghezza inferiore a 16 caratteri</string>
     <string name="pwd_min_length_warning">Si prega di impostare una password più lunga di 8 caratteri</string>
-    <string name="ratio">Selezione flusso video</string>
+    <string name="ratio">Scegli qualità flusso video</string>
     <string name="ratio_low">Velocità</string>
     <string name="ratio_slow">HD</string>
     <string name="reason_failure">Cause di fallimento</string>
@@ -414,7 +414,7 @@
     <string name="samba_ok">Inizia il download</string>
     <string name="samba_password">Si prega di inserire la password</string>
     <string name="save">Salvataggio</string>
-    <string name="save_data">Dati da salvare</string>
+    <string name="save_data">Bassa risoluzione</string>
     <string name="save_path">Destinazione salvataggio</string>
     <string name="save_position">Posizione dati salvati</string>
     <string name="save_setting_word">Quando il contenuto del video scadrà o lo spazio di archiviazione non sarà sufficiente, il contenuto precedente verrà automaticamente eliminato</string>
