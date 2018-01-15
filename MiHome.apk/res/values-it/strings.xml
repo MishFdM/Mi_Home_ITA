@@ -2658,7 +2658,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="tag_transfer_next">Prova ora</string>
     <string name="tag_transfer_welcome">Scopri di più con le stanze di Mi Home</string>
     <string name="target_dialog_confirm_button_text">Ho capito</string>
-    <string name="tds_1000">Non si può bere direttamente</string>
+    <string name="tds_1000">Inquinata</string>
     <string name="tds_50">Potabile</string>
     <string name="temp_0_20">Fredda</string>
     <string name="temp_20_23">Ventilata</string>
