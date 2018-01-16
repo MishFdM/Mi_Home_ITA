@@ -569,7 +569,7 @@ Prova selezionandone una differente."</string>
     <string name="device_more_activity_license">"Condizioni d'utilizzo"</string>
     <string name="device_more_activity_license_privacy">Termini di utilizzo ed Informativa sulla privacy</string>
     <string name="device_more_activity_network_info">Info rete</string>
-    <string name="device_more_activity_noti_quick_op">Scorciatoia per tonalità di notifica</string>
+    <string name="device_more_activity_noti_quick_op">Scorciatoie di notifica</string>
     <string name="device_more_activity_privacy">Informativa sulla privacy</string>
     <string name="device_more_activity_rename">Rinomina</string>
     <string name="device_more_activity_reset">Reimposta</string>
@@ -1302,7 +1302,7 @@ Si prega di verificare l'impronta digitale salvata"</string>
     <string name="menu_video">Invia Video</string>
     <string name="message_center_setting_item_device_push">Notifiche dispositivo</string>
     <string name="message_center_setting_load_err">Impossibile ottenere i dati, verifica la connessione di rete attuale e riprovare</string>
-    <string name="message_center_setting_title">Impostazioni messaggio</string>
+    <string name="message_center_setting_title">Impostazioni notifiche</string>
     <string name="message_ssl_error">"Codice di errore: %1$d
 Il certificato fornito dal server é stato emesso da una fonte non attendibile. Ciò potrebbe indicare che il server ha generato le proprie credenziali di sicurezza e che quindi riteniamo le informazioni sull'identità non inaffidabili, ma potrebbe anche indicare che l'utente malintenzionato sta tentando di intercettare le comunicazioni.
 %2$s
