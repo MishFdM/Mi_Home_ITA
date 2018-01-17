@@ -278,7 +278,7 @@
     <string name="lock_appeal_title">Istruzioni di reso</string>
     <string name="lock_area_can_not_use">Il dispositivo non é disponibile nella tua zona</string>
     <string name="look_back">Guarda indietro</string>
-    <string name="low_quality_bt">Bassa qualità</string>
+    <string name="low_quality_bt">LD</string>
     <string name="manual_record">Registrazione manuale</string>
     <string name="memory_format_txt">"Ci vorrà circa 1 minuto per completare la formattazione, non spegnere il dispositivo durante l'operazione"</string>
     <string name="memory_not_found">Nessuna unità di archiviazione.</string>
@@ -595,7 +595,7 @@
     <string name="video_dialog">Lasciare la pagina iniziare fermerà la registrazione</string>
     <string name="video_dialog_desc">La nuova versione del video é stata modificata per la registrazione da telefono, una risposta più rapida e nessuna scheda, ma abbandonare la pagina attuale fermerà automaticamente la registrazione</string>
     <string name="video_is_over">Il video é terminato</string>
-    <string name="video_network_save">Impostazioni salvataggio video</string>
+    <string name="video_network_save">Salvataggio video</string>
     <string name="video_network_save_style">Scegli un metodo di salvataggio</string>
     <string name="video_network_save_word">Salva il video sul router collegato al dispositivo</string>
     <string name="voice">Chiama</string>
