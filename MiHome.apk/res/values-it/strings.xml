@@ -504,8 +504,8 @@ Prova selezionandone una differente."</string>
     <string name="delete_auth">Limita permessi</string>
     <string name="delete_auth_fail">Impossibile limitare permessi</string>
     <string name="delete_auth_success">Limitazione permessi riuscita</string>
-    <string name="delete_msg">Eliminare %1$s messaggi selezionati?</string>
-    <string name="delete_msg_title">Elimina messaggi</string>
+    <string name="delete_msg">Eliminare %1$s notifiche selezionate?</string>
+    <string name="delete_msg_title">Elimina notifiche</string>
     <string name="delete_old_time_span_tips">Elimina il periodo di tempo precedente e aggiungilo nuovamente</string>
     <string name="delete_scene_fail_title">"Impossibile completare l'azione, assicurarsi che il gateway (dispositivo principale) sia online. Se il gateway é stato abbandonato, eliminalo e riprova."</string>
     <string name="developer_page_mode">Metodo di apertura pagina</string>
@@ -1396,13 +1396,13 @@ Non dovresti proseguire, specialmente se non hai mai visto questo avviso prima d
     <string name="miio_find_ble_device_in_store">Scegli un centro commerciale in cui acquistare</string>
     <string name="miio_find_ble_gateway_in_store">"&lt;font color='#527acc'>Cerca un dispositivo nel negozio&lt;/font>"</string>
     <string name="miio_ir_name">Telecomando IR</string>
-    <string name="miio_no_message">Nessun messaggio</string>
+    <string name="miio_no_message">Nessuna notifica</string>
     <string name="miio_not_bind_device">Conferma prima il dispositivo connesso</string>
     <string name="miio_setting_3d">3D VR</string>
     <string name="miio_setting_feedback">Aiuto &amp; Feedback</string>
     <string name="miio_setting_forum">Forum</string>
     <string name="miio_setting_logout">Disconnettiti</string>
-    <string name="miio_setting_message_center">Messaggistica</string>
+    <string name="miio_setting_message_center">Notifiche</string>
     <string name="miio_setting_my_shop">Il mio store</string>
     <string name="miio_setting_pay_fee">Utilità</string>
     <string name="miio_setting_share">Dispositivi condivisi</string>
@@ -1498,9 +1498,9 @@ Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica,
     <string name="msg_camera_framework_bug">Errore fotocamera, prova a riavviare il dispositivo.</string>
     <string name="msg_center_list_btm_tips_device_share">Visualizza i dettagli del dispositivo condiviso >></string>
     <string name="msg_center_list_btm_tips_family">Guarda la mia famiglia >></string>
-    <string name="msg_center_new_msg_tip">Hai ricevuto %d nuovi messaggi</string>
+    <string name="msg_center_new_msg_tip">Hai ricevuto %d nuove notifiche</string>
     <string name="msg_default_status">"Piazza il codice all'interno della cornice"</string>
-    <string name="msg_detail">Dettagli messaggio</string>
+    <string name="msg_detail">Dettagli notifica</string>
     <string name="my_home">Profilo</string>
     <string name="my_home_1">La mia casa</string>
     <string name="my_mini_program">Il mio applet WeChat</string>
@@ -1551,7 +1551,7 @@ Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica,
     <string name="not_found_router_app">"Installa l'app Mi Router"</string>
     <string name="not_oauth">Richiedi permesso per continuare</string>
     <string name="not_save_auth">Annulla</string>
-    <string name="not_select_deleted_msg">Seleziona il messaggio da eliminare</string>
+    <string name="not_select_deleted_msg">Seleziona la notifica da eliminare</string>
     <string name="not_set">Non impostato</string>
     <string name="not_support_my_order">Non supportato</string>
     <string name="not_support_scene">Non supportato</string>
@@ -1867,7 +1867,7 @@ Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica,
     <string name="pstn_name">Chiamata Telefono</string>
     <string name="pull_down_refresh">Tira verso il basso per aggiornare</string>
     <string name="push_silent_config_title">Non disturbare</string>
-    <string name="push_silent_name">DND per i messaggi</string>
+    <string name="push_silent_name">DND per le notifiche</string>
     <string name="push_silent_time">Periodo DND</string>
     <string name="qr_help_title">Aiuto</string>
     <string name="qr_name">Codice bidimensionale</string>
@@ -1883,7 +1883,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="recommend_scene_add_success">Esecuzione riuscita, visualizza in Automazione > Miei</string>
     <string name="recommend_scene_no_data">Nessun consiglio</string>
     <string name="recommend_scenem_not_update_success">Impossibile aggiornare, verificare la propria connessione di rete e riprovare</string>
-    <string name="recv_message">Ricevi un messaggio. Il contenuto é \"%1$s\"</string>
+    <string name="recv_message">Hai ricevuto una notifica. Il contenuto é \"%1$s\"</string>
     <string name="refresh">Ricarica</string>
     <string name="refresh_captcha_failed">Impossibile aggiornare il codice di verifica, riprova</string>
     <string name="refresh_complete">Aggiornato</string>
@@ -2284,7 +2284,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="share_wx_device_title_3">Dispositivi multipli</string>
     <string name="shared_device_room_name">Dispositivi condivisi</string>
     <string name="shop_click_refresh"><u>Ricarica</u></string>
-    <string name="shop_message">Messaggi Store</string>
+    <string name="shop_message">Notifiche Store</string>
     <string name="show_gesture">Mostra gesture</string>
     <string name="single_click">Click singolo</string>
     <string name="sip_call_failure">Composizione fallita</string>
@@ -3186,7 +3186,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="login_home_pwd">Accedi con password</string>
     <string name="login_home_pwd_ensure">Accedi</string>
     <string name="login_network_not_available">Rete non disponibile</string>
-    <string name="login_phone_get_sms_code">Ottieni codice di verifica</string>
+    <string name="login_phone_get_sms_code">Ottieni</string>
     <string name="login_phone_login_fail">Accesso non riuscito, per favore riprova</string>
     <string name="login_phone_login_fail_format_invalid">Accesso non riuscito, inserire manualmente il numero di telefono per accedere (il formato del numero di cellulare non é corretto)</string>
     <string name="login_phone_newer">Nuovo utente</string>
