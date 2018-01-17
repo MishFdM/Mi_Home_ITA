@@ -46,7 +46,7 @@ Il software é stato rilasciato per scopi di test. Copyright (C) 2009 Il progett
  1. Verifica che la password del Wi-Fi immessa sia corretta 2. La velocità della rete potrebbe essere lenta 3. I metodi di crittografia WEP ed EAP non sono supportati
  4. Verifica che il router sia connesso ad una rete esterna 5. Impossibile collegare ad una rete Wi-Fi pubblica
  6. Impossibile connettere ad una rete Wi-FI 5G"</string>
-    <string name="about_lite_click_sound">Suono scorciatorie</string>
+    <string name="about_lite_click_sound">Suono scorciatoie</string>
     <string name="about_normal">Passa ad una versione stabile</string>
     <string name="about_region">Regione</string>
     <string name="about_region_language">Lingua e regione</string>
