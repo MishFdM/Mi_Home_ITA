@@ -3216,7 +3216,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="login_send_ticket_success">Un SMS di verifica é stato inviato al tuo numero di telefono associato</string>
     <string name="login_set_password_verify_code_sending_info">Un SMS di verifica é stato inviato al numero di telefono abbinato. La nuova password verrà convalidata dopo la verifica</string>
     <string name="login_verify_code_title">Inserisci il codice di verifica ottenuto mediante SMS</string>
-    <string name="no_supported_device_new">Scorciatoie notifiche presente</string>
+    <string name="no_supported_device_new">Nessuna scorciatoia notifiche presente</string>
     <string name="noti_device_expired">Il dispositivo é scaduto</string>
     <string name="noti_device_off">Disattivato</string>
     <string name="noti_device_offline">Il dispositivo é offline</string>
