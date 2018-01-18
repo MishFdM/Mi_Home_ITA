@@ -9,7 +9,7 @@ Passo 3: Dirigiti su "Opzioni Sviluppatore" e spunta le due opzioni sottostanti,
 http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144328.jpg
 http://www.miui.it/wp-content/uploads/2017/12/IMG_20171202_144431-e1512333169241.jpg
 
-Passo 4: Avvia l'app Mi Home e configura i dispositivi (questa operazione eseguirà il download dei plugin non tradotti), dopodiché lascia la suddetta app aperta in background.
+Passo 4: Avvia l'app Mi Home e configura i dispositivi una volta selezionata la regione "Continente Cinese" (questa operazione eseguirà il download dei plugin non tradotti), dopodiché lascia la suddetta app aperta in background.
 
 Passo 5: Collega il telefono al PC, estrai il pacchetto "Plugins Tools.zip" ed avvia il file "Plugin Injector.bat" all'interno della cartella estratta. 
 

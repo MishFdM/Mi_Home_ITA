@@ -46,7 +46,7 @@ Il software é stato rilasciato per scopi di test. Copyright (C) 2009 Il progett
  1. Verifica che la password del Wi-Fi immessa sia corretta 2. La velocità della rete potrebbe essere lenta 3. I metodi di crittografia WEP ed EAP non sono supportati
  4. Verifica che il router sia connesso ad una rete esterna 5. Impossibile collegare ad una rete Wi-Fi pubblica
  6. Impossibile connettere ad una rete Wi-FI 5G"</string>
-    <string name="about_lite_click_sound">Suoni tocco delle scorciatorie</string>
+    <string name="about_lite_click_sound">Suono scorciatoie</string>
     <string name="about_normal">Passa ad una versione stabile</string>
     <string name="about_region">Regione</string>
     <string name="about_region_language">Lingua e regione</string>
@@ -696,7 +696,7 @@ Prova selezionandone una differente."</string>
     <string name="dialog_agreement_title">Termini e condizioni</string>
     <string name="dialog_auto_start_msg1">"L'avvio dell'applicazione Mi Home é vietato e le seguenti funzionalità potrebbero non funzionare:"</string>
     <string name="dialog_auto_start_msg2">" - Rileva automaticamente il nuovo dispositivo"</string>
-    <string name="dialog_auto_start_msg3">" - Scorciatoia per la tonalità di notifica"</string>
+    <string name="dialog_auto_start_msg3">" - Scorciatoie notifiche"</string>
     <string name="dialog_auto_start_msg4">" - Ricevi notifiche in tempo reale"</string>
     <string name="dialog_auto_start_msg5">" - Rileva \"Lascia/torna a casa\" per telefono Wi-Fi"</string>
     <string name="dialog_auto_start_msg6">"Avviare l'app Mi Home quando il dispositivo é acceso?"</string>
@@ -1559,7 +1559,7 @@ Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica,
     <string name="nothing">Vuoto</string>
     <string name="notice_more">Per saperne di più</string>
     <string name="notice_title">Preavviso</string>
-    <string name="notification_quick_op_title">Scorciatoia per tonalità di notifica</string>
+    <string name="notification_quick_op_title">Scorciatoie notifiche</string>
     <string name="notification_title">Preavviso</string>
     <string name="offline_device">Il dispositivo é offline</string>
     <string name="ok_button">OK</string>
@@ -3216,7 +3216,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="login_send_ticket_success">Un SMS di verifica é stato inviato al tuo numero di telefono associato</string>
     <string name="login_set_password_verify_code_sending_info">Un SMS di verifica é stato inviato al numero di telefono abbinato. La nuova password verrà convalidata dopo la verifica</string>
     <string name="login_verify_code_title">Inserisci il codice di verifica ottenuto mediante SMS</string>
-    <string name="no_supported_device_new">Supporto per utilizzo veloce del dispositivo, non presente</string>
+    <string name="no_supported_device_new">Nessuna scorciatoia notifiche presente</string>
     <string name="noti_device_expired">Il dispositivo é scaduto</string>
     <string name="noti_device_off">Disattivato</string>
     <string name="noti_device_offline">Il dispositivo é offline</string>
