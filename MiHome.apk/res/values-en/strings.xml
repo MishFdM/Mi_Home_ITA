@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">Camera</string>
+    <string name="cancel">Indietro</string>
+    <string name="i_know">OK</string>
+    <string name="loading">Caricamento…</string>
+    <string name="low_permission">"
+%1$s"</string>
+    <string name="permission">Consenti a popon di accedere al tuo %1$s dal menú del dispositivo: “Impostazioni” ->popon->“Privacy” ->%2$s</string>
+    <string name="qr_name">Codice QR</string>
+    <string name="setting">Impostazione</string>
+</resources>
