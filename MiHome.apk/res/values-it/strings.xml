@@ -2447,9 +2447,9 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="smarthome_modify_timespan">Modifica timer</string>
     <string name="smarthome_new_scene_auto">Auto</string>
     <string name="smarthome_new_scene_by_hand">Manuale</string>
-    <string name="smarthome_new_scene_log">Salvataggi</string>
+    <string name="smarthome_new_scene_log">Salvati</string>
     <string name="smarthome_new_scene_my">Profili</string>
-    <string name="smarthome_new_scene_recommend">In primo piano</string>
+    <string name="smarthome_new_scene_recommend">In rilievo</string>
     <string name="smarthome_no_device">Ancora nessun dispositivo. Puoi comprarne alcuni ora!</string>
     <string name="smarthome_not_shared">Non condiviso</string>
     <string name="smarthome_scene_add_short_cut_success">Scorciatoria aggiunta</string>
