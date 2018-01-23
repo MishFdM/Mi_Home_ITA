@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Yeelight Plugin</string>
     <string name="cancel">Indietro</string>
@@ -325,4 +325,11 @@
     <string name="setting_title">Impostazione</string>
     <string name="unselect_all">Deseleziona tutto</string>
     <string name="title_activity_privacy">Attività di Privacy</string>
+    <string name="mi_band">Mi Band</string>
+    <string name="mi_band_bind_title_bind">Mi Band</string>
+    <string name="mi_band_bind_unbind_title">Mi Band</string>
+    <string name="mi_band_common_title">Mi Band</string>
+    <string name="mi_band_single_btn_text_bind">Conferma</string>
+    <string name="custom_knob_custom_confrim">Confermi di voler attivare %1$s?</string>
+    <string name="items_y_conditions_and">e</string>
 </resources>
