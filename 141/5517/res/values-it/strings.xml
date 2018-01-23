@@ -257,6 +257,7 @@
     <string name="view_button_container_guard_read">Prenditi cura degli occhi durante la lettura</string>
     <string name="view_button_container_guard_work">Prenditi cura degli occhi durante il lavoro</string>
     <string name="view_button_container_nightlight">Luna</string>
+    
     <string name="view_button_container_pickup_color">Cattura</string>
     <string name="view_button_container_save_scene">Preferiti</string>
     <string name="view_button_container_sunshine">Bianco</string>
@@ -307,4 +308,9 @@
     <string name="unselect_all">Deseleziona tutto</string>
     <string name="main_group_erro">Impossibile ottenere info, verifica lo stato del dispositivo</string>
     <string name="main_group_no_members">Nessun elemento in questo gruppo, imposta nuovamente il gruppo</string>
+    <string name="mi_band">Mi Band</string>
+    <string name="mi_band_bind_title_bind">Mi Band</string>
+    <string name="mi_band_bind_unbind_title">Mi Band</string>
+    <string name="mi_band_common_title">Mi Band</string>
+    <string name="mi_band_single_btn_text_bind">Conferma</string>
 </resources>
