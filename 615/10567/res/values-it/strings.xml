@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="agree_and_continue">Accetta e continua</string>
     <string name="already_in_goto">Il robot si sta dirigendo al punto di destinazione</string>
@@ -538,4 +538,6 @@
     <string name="time_zone_sync_firmware_version">3.3.9_003077</string>
     <string name="timer_clean_mode_firmware_version">3.3.9_003077</string>
     <string name="voice_pkg_firmware_version">3.3.6_003047</string>
+    <string name="robot_volume_adjust_loud">Alto</string>
+    <string name="video_player_exception">Il riproduttore video non funziona correttamente, per favore prova ad utilizzarne un altro</string>
 </resources>
