@@ -614,5 +614,6 @@
     <string name="select_all">Seleziona tutto</string>
     <string name="setting_title">Impostazione</string>
     <string name="unselect_all">Deseleziona tutto</string>
+    <string name="agreement_url_004">http://home.mi.com/faq/detail.html?id=4161</string>
+    <string name="policy_url_004">http://home.mi.com/faq/detail.html?id=4162</string>
 </resources>
-
