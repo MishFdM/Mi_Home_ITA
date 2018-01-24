@@ -1769,4 +1769,7 @@
     <string name="uploading">Invio...</string>
     <string name="yesterday">Ieri</string>
     <string name="zigbee_channel">Canale Zigbee</string>
+    <string name="led_light_hint_info">Luminosità %1$d%% | Temp. Colore %2$d</string>
+    <string name="one_month">Mese</string>
+    <string name="one_week">Settimana</string>
 </resources>
