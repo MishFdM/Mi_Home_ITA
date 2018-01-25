@@ -2271,11 +2271,11 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="settings_keepon">Schermo abilitato</string>
     <string name="settings_keepon2">Richiesto da alcuni dispositivi per Wi-Fi senza problemi</string>
     <string name="settings_language">Lingua</string>
-    <string name="settings_language_default">Predefinita</string>
+    <string name="settings_language_default">Italiano</string>
     <string name="settings_language_es">Español</string>
     <string name="settings_language_ko">한국어</string>
     <string name="settings_language_ru">русский</string>
-    <string name="settings_language_us">Italiano</string>
+    <string name="settings_language_us">English</string>
     <string name="settings_language_zh">中文（简体）</string>
     <string name="settings_language_zh_hk">中文（香港-繁體）</string>
     <string name="settings_language_zh_rtw">中文（繁體）</string>
