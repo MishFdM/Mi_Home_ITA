@@ -2812,7 +2812,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="today_all_steps">Camminata di oggi</string>
     <string name="today_kilometers">%1$.2f km | %2$d Cal</string>
     <string name="top_widget_choose_empty">Nessun dispositivo disponibile</string>
-    <string name="top_widget_choose_family_device_empty">"Nessun dispositivo supporta lo stato di visualizzazione nell'attuale casa"</string>
+    <string name="top_widget_choose_family_device_empty">"Nessun dispositivo può essere gestito nell'attuale casa"</string>
     <string name="top_widget_choose_title">Gestione stato</string>
     <string name="top_widget_humidity">Umidità ambientale</string>
     <string name="top_widget_setting_manage">Gestisci</string>
