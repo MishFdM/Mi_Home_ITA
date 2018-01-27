@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Soocast X3</string>
+    <string name="cancel">Indietro</string>
+    <string name="ignore">Ignora</string>
+    <string name="know_button">Ho capito</string>
+    <string name="ok_button">Conferma</string>
+    <string name="picker_day">G</string>
+    <string name="picker_hour">O</string>
+    <string name="picker_minite">M</string>
+    <string name="picker_month">M</string>
+    <string name="picker_year">A</string>
+    <string name="pull_down_refresh">Tira verso il basso per aggiornare</string>
+    <string name="refreshing">Caricamento…</string>
+    <string name="refreshing_no_point">Caricamento</string>
+    <string name="refreshing_retry">Caricamento non riuscito, riprovare?</string>
+    <string name="release_to_refresh">Rilascia per aggiornare</string>
+    <string name="action_back">Indietro</string>
+    <string name="action_menu">Menú</string>
+    <string name="progress_dialog_already">Completato</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="setting_title">Impostazione</string>
+    <string name="unselect_all">Deseleziona tutto</string>
+    <string name="dfu_action_abort">Annulla</string>
+    <string name="dfu_status_aborted">Annullato</string>
+    <string name="dfu_status_aborted_msg">Invio applicazione annullato.</string>
+    <string name="dfu_status_aborting">Annullamento…</string>
+    <string name="dfu_status_completed">Fatto</string>
+    <string name="dfu_status_completed_msg">"L'applicazione é stata correttamente inviata."</string>
+    <string name="dfu_status_connecting">Connessione…</string>
+    <string name="dfu_status_connecting_msg">Connessione a %s…</string>
+    <string name="dfu_status_disconnecting">Disconnessione…</string>
+    <string name="dfu_status_disconnecting_msg">Disconnessione da %s…</string>
+    <string name="dfu_status_error">Invio non riuscito</string>
+    <string name="dfu_status_error_msg">Errore processo DFU.</string>
+    <string name="dfu_status_initializing">Inizializzazione…</string>
+    <string name="dfu_status_starting">Avvio DFU…</string>
+    <string name="dfu_status_starting_msg">Inizializzazione processo DFU…</string>
+    <string name="dfu_status_switching_to_dfu">Avvio bootloader…</string>
+    <string name="dfu_status_switching_to_dfu_msg">In attesa del bootloader…</string>
+    <string name="dfu_status_uploading">Invio…</string>
+    <string name="dfu_status_uploading_components_msg">Trasmissione componenti a %s…</string>
+    <string name="dfu_status_uploading_msg">Trasmissione applicazione a %s…</string>
+    <string name="dfu_status_uploading_part" formatted="false">Invio parte %d di %d…</string>
+    <string name="dfu_status_validating">Validazione…</string>
+    <string name="dfu_status_validating_msg">Validazione…</string>
+    <string name="dfu_unknown_name">Dispositivo senza nome</string>
+    <string name="model430">soocare.toothbrush.x31</string>
+</resources>
