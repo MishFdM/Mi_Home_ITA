@@ -188,10 +188,10 @@
         <item>Chiedi sempre</item>
     </string-array>
     <string-array name="pref_values">
-        <item>SIPONLY</item>
+        <item>SOLOSIP</item>
         <item>SIP</item>
         <item>PSTN</item>
-        <item>ASK</item>
+        <item>CHIEDI</item>
     </string-array>
     <string-array name="protocol_display_values2">
         <item>UDP (meno standby su 3G)</item>

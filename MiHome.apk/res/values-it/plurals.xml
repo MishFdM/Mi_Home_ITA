@@ -4,6 +4,22 @@
         <item quantity="other">Media dati da %s dispositivi vicini</item>
         <item quantity="one">Media dati da %s dispositivo vicino</item>
     </plurals>
+    <plurals name="automation_day">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+    </plurals>
+    <plurals name="automation_hour">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+    </plurals>
+    <plurals name="automation_minute">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="automation_seconds">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">%d secondo</item>
+    </plurals>
     <plurals name="banner_camera_count">
         <item quantity="other">%d elementi</item>
         <item quantity="one">%d elemento</item>
@@ -19,10 +35,6 @@
     <plurals name="choose_device_device_counts">
         <item quantity="other">%1$d dispositivi</item>
         <item quantity="one">%1$d dispositivo</item>
-    </plurals>
-    <plurals name="day">
-        <item quantity="other">%d giorni</item>
-        <item quantity="one">%d giorno</item>
     </plurals>
     <plurals name="delete_msg">
         <item quantity="other">Eliminare %1$s messaggi selezionati?</item>
@@ -60,10 +72,6 @@
         <item quantity="other">La tua segnalazione può contenere fino a %1$d caratteri</item>
         <item quantity="one">La tua segnalazione può contenere fino a %1$d carattere</item>
     </plurals>
-    <plurals name="hour">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">%d ora</item>
-    </plurals>
     <plurals name="ir_device_count">
         <item quantity="other">%d telecomandi</item>
         <item quantity="one">%d telecomando</item>
@@ -91,10 +99,6 @@
     <plurals name="miio_bluetooth_gateway_count">
         <item quantity="other">%1$d dispositivi disponibili nelle vicinanze</item>
         <item quantity="one">%1$d dispositivo disponibile nelle vicinanze</item>
-    </plurals>
-    <plurals name="minute">
-        <item quantity="other">%d minuti</item>
-        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="miui_online_device_count">
         <item quantity="other">​Dispositivi online: %d</item>
@@ -148,10 +152,6 @@
         <item quantity="other">%d punti</item>
         <item quantity="one">%d punto</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%d secondi</item>
-        <item quantity="one">%d secondo</item>
-    </plurals>
     <plurals name="selected_cnt_tips">
         <item quantity="other">%1$s selezionati</item>
         <item quantity="one">%1$s selezionato</item>
@@ -165,8 +165,8 @@
         <item quantity="one">%1$s (%2$d dispositivo)</item>
     </plurals>
     <plurals name="smartgroup_data_source">
-        <item quantity="other">"Dati medi da %1$s dispositivi nelle vicinanze"</item>
-        <item quantity="one">"Dati medi da %1$s dispositivo nelle vicinanze"</item>
+        <item quantity="other">Dati medi da %1$s dispositivi nelle vicinanze</item>
+        <item quantity="one">Dati medi da %1$s dispositivo nelle vicinanze</item>
     </plurals>
     <plurals name="smarthome_has_shared_to_user_more">
         <item quantity="other">Condiviso con %1$s ed altre (%2$d persone)</item>
