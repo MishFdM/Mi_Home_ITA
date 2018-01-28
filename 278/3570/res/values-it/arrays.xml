@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="delay_close_items">
+        <item>Chiudi</item>
+        <item>Disattiva dopo 1 minuto</item>
+        <item>Disattiva dopo 5 minuti</item>
+        <item>Disattiva dopo 10 minuti</item>
+        <item>Disattiva dopo 20 minuti</item>
+        <item>Disattiva dopo 30 minuti</item>
+        <item>Disattiva dopo 60 minuti</item>
+    </string-array>
+    <integer-array name="read_attention_duration">
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </integer-array>
+</resources>
