@@ -26,7 +26,7 @@
     <string name="cube_ptr_seconds_ago"> secondi fa</string>
     <string name="action_back">Indietro</string>
     <string name="action_menu">Menù</string>
-    <string name="common_empty_hint">La pagina attuale é vuota</string>
+    <string name="common_empty_hint">La pagina attuale è vuota</string>
     <string name="common_error_hint">Caricamento dati non riuscito, verifica la connessione di rete</string>
     <string name="common_error_no_permission">Funzionalità non disponibile per utenti beta pubblici</string>
     <string name="common_error_retry">Ricarica</string>
@@ -37,8 +37,8 @@
     <string name="common_send_success">Invio riuscito</string>
     <string name="consignor_youpin">Consegna del prodotto</string>
     <string name="default_search_tips">Cerca prodotti</string>
-    <string name="limited_time_purchase">Asta</string>
-    <string name="price_min_tag">Puntata minima</string>
+    <string name="limited_time_purchase">Sconto</string>
+    <string name="price_min_tag">Prezzo minimo</string>
     <string name="price_straight_down">Ribasso</string>
     <string name="progress_dialog_already">Completato</string>
     <string name="pull_header_slogan">Acquisti esplosivi sulle merci</string>
