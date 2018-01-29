@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Camera di Sicurezza Mi Home</string>
     <string name="cancel">Indietro</string>
@@ -13,7 +13,7 @@
     <string name="pull_down_refresh">Tira verso il basso per aggiornare</string>
     <string name="refreshing">Caricamento…</string>
     <string name="refreshing_no_point">Caricamento</string>
-    <string name="refreshing_retry">Caricamento non riuscito, riprovare？</string>
+    <string name="refreshing_retry">Caricamento non riuscito, riprovare?</string>
     <string name="release_to_refresh">Rilascia per aggiornare</string>
     <string name="action_fail">"Impossibile completare l'azione"</string>
     <string name="action_success">Fatto</string>
@@ -22,12 +22,12 @@
     <string name="alarm_select_need_chose">"Seleziona l'area da modificare"</string>
     <string name="alarm_select_set_ing">Impostazione informazioni…</string>
     <string name="api_tip">Versione camera</string>
-    <string name="api_tip_title">"La versione attuale è troppo vecchia, aggiorna l'app"</string>
+    <string name="api_tip_title">"La versione attuale é troppo vecchia, aggiorna l'app"</string>
     <string name="band_info_title">Info band</string>
     <string name="band_nearby_auto_close_device_band">Band selezionata</string>
     <string name="band_nearby_auto_close_device_band_hint">Rilevata</string>
     <string name="band_nearby_auto_close_new_band_title">La band può essere selezionata</string>
-    <string name="band_nearby_auto_close_status_title">La funzionalità è attivata</string>
+    <string name="band_nearby_auto_close_status_title">La funzionalità é attivata</string>
     <string name="band_nearby_auto_close_title_1">"1. Attiva la modalità 'Rilevabile' sull'app Mi Fit"</string>
     <string name="band_nearby_auto_close_title_2">2. La modalità di sospensione verrà attivata automaticamente quando la band verrà rilevata dalla camera</string>
     <string name="band_nearby_title">La modalità di sospensione verrà attivata automaticamente quando una band verrà rilevata nelle vicinanze</string>
@@ -119,8 +119,8 @@
     <string name="opear_no_permission">Nessun permesso da gestire</string>
     <string name="opened">Attivata</string>
     <string name="play_back">Visualizza cronologia</string>
-    <string name="power_off">La camera è in modalità di sospensione</string>
-    <string name="power_off_share">La camera è in modalità di sospensione, impossibile condividere contenuto</string>
+    <string name="power_off">La camera é in modalità di sospensione</string>
+    <string name="power_off_share">La camera é in modalità di sospensione, impossibile condividere contenuto</string>
     <string name="push_net_alarm">Utilizzare i dati mobili per guardare video?</string>
     <string name="quality_auto">Auto</string>
     <string name="quality_choice">Qualità video</string>
@@ -135,9 +135,9 @@
     <string name="recording">Registrazione…</string>
     <string name="recording_failed_paused">In pausa, impossibile registrare</string>
     <string name="retrieve_data_fail">Impossibile aggiornare</string>
-    <string name="rtsp_nofity">"Cos'è RTSP?
-RTSP (Protocollo Riproduzione Video in Tempo Reale) (RFC2326), è un protocollo a livello dell'applicazione nel protocollo TCP/IP di sistema"</string>
-    <string name="rtsp_tip">Potrebbero esserci alcuni rischi per la sicurezza quando utilizzerai questa funzionalità. Disabilitala quando non è in uso. Quando questa funzionalità è attiva, potrai guardare video solo con riproduttori o mediante browser che supportino il protocollo.</string>
+    <string name="rtsp_nofity">"Cos'é RTSP?
+RTSP (Protocollo Riproduzione Video in Tempo Reale) (RFC2326), é un protocollo a livello dell'applicazione nel protocollo TCP/IP di sistema"</string>
+    <string name="rtsp_tip">Potrebbero esserci alcuni rischi per la sicurezza quando utilizzerai questa funzionalità. Disabilitala quando non é in uso. Quando questa funzionalità é attiva, potrai guardare video solo con riproduttori o mediante browser che supportino il protocollo.</string>
     <string name="save_already">Salva permanentemente</string>
     <string name="save_failed">Impossibile salvare</string>
     <string name="save_sucess">Salvataggio riuscito</string>
@@ -147,10 +147,10 @@ RTSP (Protocollo Riproduzione Video in Tempo Reale) (RFC2326), è un protocollo 
     <string name="sd_card_status2">Spazio insufficiente</string>
     <string name="sd_card_status3">Errore</string>
     <string name="sd_card_status4">Formattazione</string>
-    <string name="sd_card_status5">La scheda SD è stata espulsa</string>
+    <string name="sd_card_status5">La scheda SD é stata espulsa</string>
     <string name="sdcard_error">Impossibile ottenere info scheda SD</string>
     <string name="sdcard_error_full">Nessuno spazio di archiviazione disponibile Formatta la scheda SD</string>
-    <string name="sdcard_error_out">La scheda SD è stata espulsa Riprova.</string>
+    <string name="sdcard_error_out">La scheda SD é stata espulsa Riprova.</string>
     <string name="sdcard_error_tip">Impossibile ottenere info scheda SD, riprovare?</string>
     <string name="sdcard_error_unkonw">Errore di archiviazione Formatta la scheda SD</string>
     <string name="sdcard_format">Formatta scheda SD</string>
@@ -160,12 +160,12 @@ RTSP (Protocollo Riproduzione Video in Tempo Reale) (RFC2326), è un protocollo 
 Formattare comunque?"</string>
     <string name="sdcard_formating">Formattazione scheda SD</string>
     <string name="sdcard_free">Inattiva</string>
-    <string name="sdcard_no">La scheda SD è stata espulsa</string>
+    <string name="sdcard_no">La scheda SD é stata espulsa</string>
     <string name="sdcard_other">Altro</string>
     <string name="sdcard_out">Smonta scheda SD</string>
-    <string name="sdcard_out_already">La scheda SD è stata smontata</string>
+    <string name="sdcard_out_already">La scheda SD é stata smontata</string>
     <string name="sdcard_out_fail">Impossibile smontare scheda SD</string>
-    <string name="sdcard_out_success">La scheda SD è stata smontata</string>
+    <string name="sdcard_out_success">La scheda SD é stata smontata</string>
     <string name="sdcard_out_tip">Smonta la scheda SD prima di rimuoverla</string>
     <string name="sdcard_out_tips">Non sarai più in grado di registrare video dopo aver smontato la scheda SD. Smontare comunque?</string>
     <string name="sdcard_size">Spazio corrente: %1$s</string>
@@ -246,7 +246,7 @@ Formattare comunque?"</string>
     <string name="setttings_motion_record_subtitle">I video verranno salvati solo in caso venga rilevato un movimento, per risparmiare spazio di archiviazione</string>
     <string name="setttings_motion_record_title">Registra e salva video allarme su scheda SD quando un movimento viene rilevato</string>
     <string name="setttings_only_wifi">Avviso utilizzo dati</string>
-    <string name="setttings_only_wifi_tip">Riproduci video automaticamente solo quando il Wi-Fi è connesso</string>
+    <string name="setttings_only_wifi_tip">Riproduci video automaticamente solo quando il Wi-Fi é connesso</string>
     <string name="setttings_route_backup_subtitle">Il Wi-Fi Mi e le altre reti di archiviazione NAS che supportano il protocollo SMB</string>
     <string name="setttings_route_backup_title">Archiviazione di rete NAS</string>
     <string name="setttings_sdcard_title">Stsyo scheda SD</string>
@@ -256,9 +256,9 @@ Formattare comunque?"</string>
     <string name="simple_date_format_mm_dd">MM/gg</string>
     <string name="simple_date_format_mm_dd_hh_mm">MM/gg OO:mm</string>
     <string name="simple_date_format_yyyy_mm_dd">MM.gg.aaaa</string>
-    <string name="sleep_recode_error">La camera è in modalità di sospensione, impossibile registrare video</string>
-    <string name="sleep_snap_error">La camera è in modalità di sospensione, impossibile catturare schermate</string>
-    <string name="sleep_speak_error">La camera è in modalità di sospensione, impossibile parlare</string>
+    <string name="sleep_recode_error">La camera é in modalità di sospensione, impossibile registrare video</string>
+    <string name="sleep_snap_error">La camera é in modalità di sospensione, impossibile catturare schermate</string>
+    <string name="sleep_speak_error">La camera é in modalità di sospensione, impossibile parlare</string>
     <string name="smb_add_tip">Nome e password non sono richiesti per Mi Wi-Fi o altri dispositivi con directory pubblica</string>
     <string name="smb_add_title">Aggiungi spazio</string>
     <string name="smb_browse_uploaded_video">Visualizza video inviati</string>
@@ -274,14 +274,14 @@ Formattare comunque?"</string>
     <string name="smb_dialog_delete_smb_msg">Eliminare archiviazione di rete?</string>
     <string name="smb_dialog_delete_smb_title">Elimina archiviazione di rete</string>
     <string name="smb_discovery_list_footer_tips1">La memoria di archiviazione dovrebbe connettersi alla stessa rete della telecamera</string>
-    <string name="smb_discovery_list_footer_tips2">"Cos'è l'archiviazione di rete?"</string>
+    <string name="smb_discovery_list_footer_tips2">"Cos'é l'archiviazione di rete?"</string>
     <string name="smb_discovery_list_header_tips">Puoi aggiungere spazio</string>
     <string name="smb_latest_write_time">Ultima registrazione: %s</string>
     <string name="smb_location">Posizione</string>
     <string name="smb_modify_setting">Cambia impostazioni</string>
     <string name="smb_modify_storage_loc">Cambia posizione archiviazione</string>
     <string name="smb_name">Nome archiviazione</string>
-    <string name="smb_no_share_directory">La posizione di archiviazione non è disponibile</string>
+    <string name="smb_no_share_directory">La posizione di archiviazione non é disponibile</string>
     <string name="smb_password">Password</string>
     <string name="smb_pause_storage">Pausa</string>
     <string name="smb_protocol">Protocollo di trasferimento</string>
