@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moreMenu">
+        <item>Impostazioni Dispositivo</item>
+        <item>Automazione</item>
+        <item>Generale</item>
+        <item>Aiuto</item>
+    </string-array>
+    <string-array name="moreMenuNotOwener">
+        <item>Impostazioni Dispositivo</item>
+        <item>Aiuto</item>
+    </string-array>
+    <string-array name="moreMenu_update">
+        <item>Impostazioni Dispositivo</item>
+        <item>Automazione</item>
+        <item>Generale</item>
+        <item>Aiuto &lt;font color=#FF4F00>●&lt;/font></item>
+    </string-array>
+    <string-array name="weeks">
+        <item>Dom.</item>
+        <item>Lun.</item>
+        <item>Mar.</item>
+        <item>Mer.</item>
+        <item>Gio.</item>
+        <item>Ven.</item>
+        <item>Sab.</item>
+    </string-array>
+</resources>
