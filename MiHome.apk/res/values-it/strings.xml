@@ -280,7 +280,6 @@ Prova selezionandone una differente."</string>
     <string name="cannot_edit_ios_scene">Non supportato su questo telefono</string>
     <string name="cannot_find_device">Cosa devo fare se non riesco a trovare alcun dispositivo?</string>
     <string name="cannot_find_device_near">Nessun dispositivo trovato nelle vicinanze</string>
-    <string name="capcha_error">Il codice di verifica non é corretto</string>
     <string name="capture_idcard_tip">Acquisisci ID Scheda</string>
     <string name="card_device_off_line">Il dispositivo é offline</string>
     <string name="card_item_fail">Impossibile ottenere informazioni</string>
@@ -327,13 +326,9 @@ Prova selezionandone una differente."</string>
     <string name="change_lock_pattern">Cambia pattern di protezione</string>
     <string name="change_nick_fail">Impossibile cambiare il soprannome</string>
     <string name="change_nick_success">Soprannome cambiato con successo</string>
-    <string name="change_password_new">Nuova password</string>
     <string name="change_sex_fail">Impossibile cambiare sesso</string>
     <string name="change_sex_success">Genere cambiato con successo</string>
     <string name="changeing_back_name">Solo un secondo...</string>
-    <string name="changing_pwd">Aggiornamento…</string>
-    <string name="changing_pwd_failed">Impossibile reimpostare password</string>
-    <string name="changing_pwd_succeed">Password aggiornata correttamente</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_account_retry">Passa ad uno stesso account di Mi Home per autorizzare</string>
     <string name="check_network_retry">Verifica la rete e riprova</string>
@@ -486,7 +481,6 @@ Prova selezionandone una differente."</string>
     <string name="cube_ptr_refreshing">Aggiornamento...</string>
     <string name="cube_ptr_release_to_refresh">Rilascia per Aggiornare</string>
     <string name="cube_ptr_seconds_ago"> secondi fà</string>
-    <string name="curent_password">Password attuale</string>
     <string name="day">"d "</string>
     <string name="day2">d</string>
     <string name="day_run_calorie_text">Corsa brucia calorie</string>
@@ -756,9 +750,6 @@ Prova selezionandone una differente."</string>
     <string name="enter">Connetti</string>
     <string name="enter_device">Scegli dispositivo</string>
     <string name="enter_scene_edit_mode">Seleziona scenario</string>
-    <string name="err_input_curent_password">Immetti password attuale</string>
-    <string name="err_input_new_password">Immetti nuova password</string>
-    <string name="err_pls_input_pwd">Immetti password</string>
     <string name="error_page_msg">Errore connessione di rete, si prega di verificare e riprovare</string>
     <string name="error_page_msg_no_network">Errore connessione di rete, si prega di verificare e riprovare</string>
     <string name="error_page_msg_server_error">La connessione al server é irregolare. Riprova più tardi</string>
@@ -986,12 +977,9 @@ Si prega di verificare l'impronta digitale salvata"</string>
     <string name="import_scene_exceed_max_size">Dovresti poter importare fino a 60 attività</string>
     <string name="input_account">Immetti ID account</string>
     <string name="input_account_null">"Inserisci entrambe le relazioni e l'ID account"</string>
-    <string name="input_capcha">Immetti codice di verifica:</string>
     <string name="input_contains_emoji">Questo carattere non é supportato</string>
-    <string name="input_curent_password">Immetti password corrente</string>
     <string name="input_hint">Si prega di inserire la password</string>
     <string name="input_home_hint">Inserisci il nome della tua casa</string>
-    <string name="input_new_password">Almeno 8 caratteri</string>
     <string name="input_nick_name">Inserisci un soprannome</string>
     <string name="input_room_hint">Inserisci il nome della stanza</string>
     <string name="input_tag_hint">Inserisci un nome</string>
@@ -1869,7 +1857,6 @@ Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica,
     <string name="passport_wrong_vcode">Il codice immesso non é valido</string>
     <string name="passport_yes">Si</string>
     <string name="password_disable">Nessuna password impostata</string>
-    <string name="password_invalid">Password non corretta</string>
     <string name="password_toggle_content_description">Abilita/Disabilita la visibilità della password</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -3245,6 +3232,19 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="yunyi_virtual_camera_create_get_location_fail">Impossibile ottenere informazioni sulla posizione</string>
     <string name="yunyi_virtual_camera_create_success">Yi Smart Webcam aggiunta con successo</string>
     <string name="zimi_power_name">ZMI Power Bank</string>
+    <string name="capcha_error">Il codice di verifica non é corretto</string>
+    <string name="change_password_new">Nuova password</string>
+    <string name="changing_pwd">Aggiornamento…</string>
+    <string name="changing_pwd_failed">Impossibile reimpostare password</string>
+    <string name="changing_pwd_succeed">Password aggiornata correttamente</string>
+    <string name="curent_password">Password attuale</string>
+    <string name="err_input_curent_password">Immetti password attuale</string>
+    <string name="err_input_new_password">Immetti nuova password</string>
+    <string name="err_pls_input_pwd">Immetti password</string>
+    <string name="input_capcha">Immetti codice di verifica:</string>
+    <string name="input_curent_password">Immetti password corrente</string>
+    <string name="input_new_password">Almeno 8 caratteri</string>
+    <string name="password_invalid">Password non corretta</string>
     <string name="air_desc_detail">Dati a partire dalle vicinanze di %s</string>
     <string name="button_bind_tips">Premi qualsiasi pulsante in %d secondo per connettere</string>
     <string name="choose_device_device_count">%1$d dispositivi</string>
@@ -3295,4 +3295,11 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="init_detector_fail">Inizializzazione sensore non riuscita</string>
     <string name="invalid_detector_type">Tipologia sensore non valida</string>
     <string name="liveness_prepare_overstep_face_allow_area">"Oltre l'area di rilevamento"</string>
+    <string name="auth_finish_dialog_to_mijia_plugin">Utilizza ora</string>
+    <string name="both_on_off_must_be_set">Il timer di attivazione/disattivazione non può essere vuoto</string>
+    <string name="login_phone_operator_hint">"L'autenticazione per il numero di telefono viene fornita dagli operatori locali"</string>
+    <string name="miio_ble_gateway_scan_empty_international">Nessun dispositivo Bluetooth Mi Home é stato rilevato nelle vicinanze del gateway</string>
+    <string name="miio_empty_ble_gateway_list_international">Non hai dispositivi che supportano la funzionalità gateway BLE</string>
+    <string name="smarthome_scene_client_otherhome">"Nessun dispositivo trovato nell'attuale casa"</string>
+    <string name="timer_must_be_set">Si prega di impostare %s</string>
 </resources>
