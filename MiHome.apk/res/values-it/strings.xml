@@ -1439,7 +1439,7 @@ Non dovresti proseguire, specialmente se non hai mai visto questo avviso prima d
     <string name="mifi_web_login_waiting">Attendere prego…</string>
     <string name="miio_ble_gateway_default_subtitle">Gateway predefinito</string>
     <string name="miio_ble_gateway_guide">"Cos'è il Gateway Bluetooth, e come si usa?"</string>
-    <string name="miio_ble_gateway_guide_immediate_experience">Esperienza immediata</string>
+    <string name="miio_ble_gateway_guide_immediate_experience">Sperimenta subito</string>
     <string name="miio_ble_gateway_guide_text_1">Nessuna connessione di rete automatica impostata</string>
     <string name="miio_ble_gateway_guide_text_2">Il Gateway Bluetooth può aiutare ad identificare i dispositivi Bluetooth nelle vicinanze</string>
     <string name="miio_ble_gateway_guide_text_3">Con il collegamento diretto alla rete, non sarà necessario abbinare il telefono</string>
@@ -2799,7 +2799,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="today_all_steps">Camminata di oggi</string>
     <string name="today_kilometers">%1$.2f km | %2$d Cal</string>
     <string name="top_widget_choose_empty">Nessun dispositivo disponibile</string>
-    <string name="top_widget_choose_family_device_empty">"Nessun dispositivo può essere gestito nell'attuale casa"</string>
+    <string name="top_widget_choose_family_device_empty">"Nessun dispositivo da gestire nell'attuale casa"</string>
     <string name="top_widget_choose_title">Gestione stato</string>
     <string name="top_widget_humidity">Umidità ambientale</string>
     <string name="top_widget_setting_manage">Gestisci</string>
