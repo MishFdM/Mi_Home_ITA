@@ -408,8 +408,8 @@
     <string name="ratio_slow">HD</string>
     <string name="reason_failure">Cause di fallimento</string>
     <string name="reconnect_ap_hint">La password é stata impostata correttamente, per favore ricollegati al dispositivo (il cui nome inizia con: isa-camera-isc5_miap) e inserisci la password</string>
-    <string name="reconnect_btn_text">Tocca per riprovare</string>
-    <string name="reconnect_hint">La connessione é scaduta, verifica che la rete sia libera e riprova</string>
+    <string name="reconnect_btn_text">Riprova</string>
+    <string name="reconnect_hint">La connessione é scaduta, verificare che la rete sia libera e riprovare</string>
     <string name="record">Registra</string>
     <string name="record_ing">Registrazione</string>
     <string name="record_interrupt">Registrazione interrotta</string>
