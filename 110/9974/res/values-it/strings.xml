@@ -20,8 +20,8 @@
     <string name="abnormal_data_transmission">Problema trasmissione dati</string>
     <string name="access_memory_error">Scheda di memoria multi-partizione non disponibile</string>
     <string name="air_quality">"Qualità dell'aria"</string>
-    <string name="air_quality_content">"\"Come sará il tempo oggi?\"
-\"Come sará il tempo fuori?\"
+    <string name="air_quality_content">"\"Come sará l'aria oggi?\"
+\"Come sará l'aria fuori?\"
 \"Ci sará foschia oggi?\""</string>
     <string name="all_do_not_choose">Nessun elemento selezionato</string>
     <string name="answer_calls">Rispondi</string>
@@ -252,8 +252,8 @@
     <string name="imi_weixin_unbind_success">Disabbinamento riuscito</string>
     <string name="imi_xiaobai_sleeping">Shhh...Il dispositivo è in fase di sospensione</string>
     <string name="in_the_custom_to_take_care_of">Periodo personalizzato</string>
-    <string name="in_the_custom_to_take_care_of_options_info">%1$d:00-%2$d:00, quando un estraneo irrompe o muove oggetti</string>
-    <string name="in_the_custom_to_take_care_of_options_info1">%1$d:00 ed il giorno dopo alle %2$d:00, quando un estraneo irrompe o muove oggetti</string>
+    <string name="in_the_custom_to_take_care_of_options_info">Dalle %1$d:00 alle %2$d:00, quando un estraneo irrompe o muove oggetti</string>
+    <string name="in_the_custom_to_take_care_of_options_info1">Dalle %1$d:00 alle %2$d:00 del giorno seguente, quando un estraneo irrompe o muove oggetti</string>
     <string name="in_the_custom_to_take_care_of_options_info2">%1$s, quando un estraneo irrompe o muove oggetti</string>
     <string name="in_the_evening_to_take_care_of">Presta attenzione di notte</string>
     <string name="in_the_evening_to_take_care_of_options_info">Dalle 20:00 fino alle 8:00 del giorno seguente, quando un estraneo irrompe o muove oggetti</string>
