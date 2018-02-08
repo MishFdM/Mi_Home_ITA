@@ -364,12 +364,12 @@
     <string name="video_time_is_too_short">Tempo di registrazione troppo breve</string>
     <string name="voice_chatting">Chat vocale</string>
     <string name="voice_control">Controllo vocale</string>
-    <string name="voice_control_content">"\"Atriva condizionatore d'aria\"
+    <string name="voice_control_content">"\"Attiva il condizionatore\"
 \"Condizionatore impostato su raffreddamento\"
-\"Spegni il condizionatore d'aria\"
-\"Attiva il purificatore aria\""</string>
+\"Spegni il condizionatore\"
+\"Attiva il purificatore di aria\""</string>
     <string name="wake_up">Sveglia</string>
-    <string name="wake_up_content">"\"E poi il dispositivo guardó verso l'alto\"
+    <string name="wake_up_content">"\"E poi il dispositivo guardó in alto\"
 \"Entra in modalità conversazione\"
 \"Doppio dispositivo\"
 \"Come accedere alla modalità di controllo del dispositivo\""</string>
