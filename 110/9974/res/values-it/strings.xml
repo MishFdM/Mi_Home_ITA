@@ -97,7 +97,7 @@
     <string name="failed_to_request_file">Richiesta file non riuscita</string>
     <string name="february">Febbraio</string>
     <string name="fetch_insurance">Protezione famigliare</string>
-    <string name="format_day">gg/MM/aaaa</string>
+    <string name="format_day">dd/MM/yyyy</string>
     <string name="format_the_success">Formattazione riuscita</string>
     <string name="formating">Formattazione…</string>
     <string name="formatting_failure">Formattazione non riuscita</string>
