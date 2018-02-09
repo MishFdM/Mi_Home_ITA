@@ -3302,4 +3302,8 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="miio_empty_ble_gateway_list_international">Non hai dispositivi che supportano la funzionalità gateway BLE</string>
     <string name="smarthome_scene_client_otherhome">"Nessun dispositivo trovato nell'attuale casa"</string>
     <string name="timer_must_be_set">Si prega di impostare %s</string>
+    <string name="scene_condition_call">Quando chiami</string>
+    <string name="scene_condition_phone_limit">Solo i Telefoni Mi sono supportati</string>
+    <string name="scene_condition_phone_sms">Quando mandi un SMS</string>
+    <string name="shortcut_switch">Scorciatoia interruttore</string>
 </resources>
