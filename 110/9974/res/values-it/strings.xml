@@ -97,7 +97,7 @@
     <string name="failed_to_request_file">Richiesta file non riuscita</string>
     <string name="february">Febbraio</string>
     <string name="fetch_insurance">Protezione famigliare</string>
-    <string name="format_day">aaaa/MM/gg</string>
+    <string name="format_day">dd/MM/yyyy</string>
     <string name="format_the_success">Formattazione riuscita</string>
     <string name="formating">Formattazione…</string>
     <string name="formatting_failure">Formattazione non riuscita</string>
@@ -364,7 +364,7 @@
     <string name="video_time_is_too_short">Tempo di registrazione troppo breve</string>
     <string name="voice_chatting">Chat vocale</string>
     <string name="voice_control">Controllo vocale</string>
-    <string name="voice_control_content">"\"Attiva il condizionatore\"
+    <string name="voice_control_content">"\"Attiva il condizionatore d'aria\"
 \"Condizionatore impostato su raffreddamento\"
 \"Spegni il condizionatore\"
 \"Attiva il purificatore di aria\""</string>
