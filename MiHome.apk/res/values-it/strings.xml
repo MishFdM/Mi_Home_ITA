@@ -2714,7 +2714,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="tag_recommend_added">Aggiunto</string>
     <string name="tag_recommend_balcony">Balcone</string>
     <string name="tag_recommend_bedroom">Camera da letto</string>
-    <string name="tag_recommend_custom">Personalizzata</string>
+    <string name="tag_recommend_custom">Personalizza</string>
     <string name="tag_recommend_defaultroom">Stanza predefinita</string>
     <string name="tag_recommend_home">Casa</string>
     <string name="tag_recommend_kitchen">Cucina</string>
