@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="agree_and_continue">Accetta e continua</string>
     <string name="already_in_goto">Il robot si sta dirigendo al punto di destinazione</string>
@@ -52,6 +52,11 @@
     <string name="clean_history_summary_time">Avvii</string>
     <string name="clean_history_summary_times_desc">Avvii totali</string>
     <string name="clean_mode_desc">"L'intensità di spazzamento del robot di pulizia può essere personalizzata, la qualità della pulizia aumenterà proporzionalmente al rumore emesso."</string>
+    <string name="clean_mode_mop_dialog_msg">La modalità spazzamento ridurrà notevolmente la capacità di aspirazione, imposta questa modalitá su singola esecuzione</string>
+    <string name="clean_mode_mop_dialog_title">Modalitá spazzamento</string>
+    <string name="clean_mode_mop_prompt_msg">Questa spazzola utilizzata in modalità spazzamento, ridurrá notevolmente la capacitá di carico</string>
+    <string name="clean_mode_mop_subtitle">"Applicabile solo su pavimento pulito, si prega di installare il serbatoio dell'acqua prima dell'uso"</string>
+    <string name="clean_mode_mop_title">Solo spazzamento</string>
     <string name="clean_pause_btn_stop">Fine pulizia</string>
     <string name="clean_pause_dialog_title">Sei sicuro di voler sospendere la pulizia?</string>
     <string name="clean_time">Tempo pulizia</string>
@@ -190,6 +195,7 @@
     <string name="find_me">Trova il mio robot</string>
     <string name="find_me_fail">Messaggio non inviato</string>
     <string name="find_me_success">Il robot sta notificando la sua posizione</string>
+    <string name="firmware_version_clean_mode_mop">Questa funzionalitá necessita della versione firmware %1$s o superiore</string>
     <string name="firmware_version_time_zone_sync">Aggiorna il firmware alla versione %1$s o successiva per utilizzare la sincronizzazione del fuso orario.</string>
     <string name="full_charge">Ricarica terminata</string>
     <string name="full_charge_notify">Il livello di carica verrà mostrato dalla base. La batteria rimarrà in standby per evitare danneggiamenti, non spegnere</string>
@@ -349,8 +355,11 @@
     <string name="product_guide_url_mopping_module">https://cdn.awsbj0.fds.api.mi-img.com/rubys/app/cn/html/guide/rockrobo_guide2_2.html</string>
     <string name="product_guide_url_product_instructions">https://cdn.awsbj0.fds.api.mi-img.com/rubys/app/cn/html/guide/rockrobo_guide1.html</string>
     <string name="product_guide_url_quick_start">https://cdn.awsbj0.fds.api.mi-img.com/rubys/app/cn/html/guide/rockrobo_guide2.html</string>
+    <string name="product_guide_url_quick_start_tw">https://cdn.awsbj0.fds.api.mi-img.com/rubys/app/cn/html/guide/rockrobo_guide2_tw.html</string>
     <string name="product_guide_url_trouble_shooting">https://cdn.awsbj0.fds.api.mi-img.com/rubys/app/cn/html/guide/rockrobo_guide7.html</string>
+    <string name="product_guide_url_trouble_shooting_tw">https://cdn.awsbj0.fds.api.mi-img.com/rubys/app/cn/html/guide/rockrobo_guide7_tw.html</string>
     <string name="product_guide_url_virtual_wall">https://cdn.awsbj0.fds.api.mi-img.com/rubys/app/cn/html/guide/rockrobo_guide5.html</string>
+    <string name="product_guide_url_virtual_wall_tw">https://cdn.awsbj0.fds.api.mi-img.com/rubys/app/cn/html/guide/rockrobo_guide5_tw.html</string>
     <string name="product_guide_user_improve_plan_anchor">"Informazioni sul programma di miglioramento dell'esperienza utente"</string>
     <string name="product_guide_user_improve_plan_desc">Consenti al robot di caricare informazioni operative e statistiche di utilizzo per aiutarci a migliorare i nostri prodotti e servizi.</string>
     <string name="product_guide_video_all_url">http://cdn.awsbj0.fds.api.mi-img.com/app/video/combine.mp4</string>
@@ -477,6 +486,7 @@
     <string name="user_improve_plan_fmt">Unisciti a %1$s per aiutarci a migliorare il nostro prodotto</string>
     <string name="user_improve_plan_name">"Programma di miglioramento dell'esperienza utente"</string>
     <string name="user_improve_plan_url">http://cdn.fds.api.xiaomi.com/miio.files/commonfile_html_0e6df964b22c5fb4b8182598d915f413.html</string>
+    <string name="video_player_exception">Il riproduttore video non funziona correttamente, per favore prova ad utilizzarne un altro</string>
     <string name="virtual_wall">Qual é il muro virtuale?</string>
     <string name="virtual_wall_buy_url">http://home.mi.com/shop/detail?gid=442</string>
     <string name="voice_package">Pacchetto vocale</string>
@@ -508,15 +518,19 @@
     <string name="error_strainer_sub_content"><b>Nota: non lavare il filtro</b></string>
     <string name="action_back">Indietro</string>
     <string name="action_menu">Menù</string>
+    <string name="custom_service_phone_service_tw">Contatta il servizio clienti Mi di Taiwan:</string>
     <string name="product_guide_url_fmt">http://cdn.awsbj0.fds.api.mi-img.com/app/html/guide/rockrobo_guide%1$d.html</string>
     <string name="progress_dialog_already">Completato</string>
+    <string name="robot_volume_adjust_loud">Alto</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="setting_title">Impostazione</string>
     <string name="unselect_all">Deseleziona tutto</string>
     <string name="clean_history_item_area_symbol_tw">Basso</string>
     <string name="clean_history_summary_area_symbol_tw">Basso</string>
+    <string name="clean_mode_mop_firmware_version">3.3.9_001228</string>
     <string name="custom_service_email_foreign">support@roborock.com</string>
     <string name="custom_service_email_prc">service@roborock.com</string>
+    <string name="custom_service_phone_tw">02-21921023</string>
     <string name="empty_item" />
     <string name="oba_bom_title">BOM:</string>
     <string name="oba_firmware_ver_title">Versione firmware:</string>
@@ -538,6 +552,4 @@
     <string name="time_zone_sync_firmware_version">3.3.9_003077</string>
     <string name="timer_clean_mode_firmware_version">3.3.9_003077</string>
     <string name="voice_pkg_firmware_version">3.3.6_003047</string>
-    <string name="robot_volume_adjust_loud">Alto</string>
-    <string name="video_player_exception">Il riproduttore video non funziona correttamente, per favore prova ad utilizzarne un altro</string>
 </resources>
