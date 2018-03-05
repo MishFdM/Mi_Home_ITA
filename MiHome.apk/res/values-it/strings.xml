@@ -3306,4 +3306,5 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="scene_condition_phone_limit">Solo i Telefoni Mi sono supportati</string>
     <string name="scene_condition_phone_sms">Quando mandi un SMS</string>
     <string name="shortcut_switch">Scorciatoia interruttore</string>
+    
 </resources>
