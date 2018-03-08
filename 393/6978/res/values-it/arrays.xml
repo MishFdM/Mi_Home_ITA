@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="plc_encrypt_method_array">
+        <item>WPA2</item>
+        <item>WPA/WPA2</item>
+        <item>Nessuna</item>
+    </string-array>
+</resources>

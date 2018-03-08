@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="custom_minutes">
+        <item>10 Minuti</item>
+        <item>15 Minuti</item>
+        <item>20 Minuti</item>
+        <item>25 Minuti</item>
+        <item>30 Minuti</item>
+        <item>35 Minuti</item>
+        <item>40 Minuti</item>
+        <item>45 Minuti</item>
+        <item>50 Minuti</item>
+        <item>55 Minuti</item>
+        <item>60 Minuti</item>
+    </string-array>
+</resources>
