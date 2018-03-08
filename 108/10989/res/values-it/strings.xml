@@ -1772,4 +1772,16 @@
     <string name="led_light_hint_info">Luminosità %1$d%% | Temp. Colore %2$d</string>
     <string name="one_month">Mese</string>
     <string name="one_week">Settimana</string>
+    <string name="gateway_add_device_led_light_retry_hint">Attiva e disattiva la luce 5 volte finché &lt;br/>&lt;font color = #378ED3>non lampeggerà due volte&lt;/font>.</string>
+    <string name="light_temperature">Temperatura colore</string>
+    <string name="lock_aq_hint_txt">Anomalia promemoria sblocco</string>
+    <string name="lumi_light_aqcn02">LED Light Bulb (Impostabile su Bianco)</string>
+    <string name="lumi_relay_c2acn01">Wireless Relay Controller (2 Canali)</string>
+    <string name="lumi_sensor_cube_aqara">Cubo Aqara</string>
+    <string name="plug_day_text">G</string>
+    <string name="plug_month_unit">M</string>
+    <string name="set_light_bright">Imposta luminosità</string>
+    <string name="set_light_status">Imposta su stato prestabilito</string>
+    <string name="set_light_temperature">Imposta temperatura colore</string>
+    <string name="tempreture_short">Temp.</string>
 </resources>
