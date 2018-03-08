@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">com.xiaomi.plc</string>
+    <string name="cancel">Indietro</string>
+    <string name="ignore">Ignora</string>
+    <string name="know_button">Ho capito</string>
+    <string name="ok_button">Conferma</string>
+    <string name="picker_day">G</string>
+    <string name="picker_hour">O</string>
+    <string name="picker_minite">M</string>
+    <string name="picker_month">M</string>
+    <string name="picker_year">A</string>
+    <string name="pull_down_refresh">Tira verso il basso per aggiornare</string>
+    <string name="refreshing">Caricamento…</string>
+    <string name="refreshing_no_point">Caricamento</string>
+    <string name="refreshing_retry">Caricamento non riuscito, riprovare?</string>
+    <string name="release_to_refresh">Rilascia per aggiornare</string>
+    <string name="action_back">Indietro</string>
+    <string name="action_menu">Menú</string>
+    <string name="progress_dialog_already">Completato</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="setting_title">Impostazione</string>
+    <string name="unselect_all">Deseleziona tutto</string>
+    <string name="about_mi_router"><u>Ulteriori informazioni su Mi Router</u></string>
+    <string name="auto">Automatico</string>
+    <string name="blacklist_device_remark">Si prega di utilizzare il limite di velocitá o la funzionalitá blackout con Mi Router</string>
+    <string name="channel_auto">Automatico （%d）</string>
+    <string name="channel_title">Canale wireless</string>
+    <string name="device_empty_notice">Nessun dispositivo connesso</string>
+    <string name="error_get_devinfo">Impossibile ottenere info sul dispositivo</string>
+    <string name="error_name_empty">Il nome non puó essere vuoto</string>
+    <string name="error_pwd_len_invalid">La password non puó contenere meno di 8 o piú di 63 caratteri</string>
+    <string name="error_set_wifi_failed">Impostazione Wi-Fi non riuscita</string>
+    <string name="get_device_info_failed">Impossibile ottenere info sul dispositivo</string>
+    <string name="help_already_known">Lo so</string>
+    <string name="help_details">"1. Si consiglia di inserire l'Amplificatore di Segnale Wi-Fi Xiaomi direttamente nella presa a muro. 2. Si consiglia di non posizionare l'Amplificatore di Segnale Wi-Fi Xiaomi troppo distante dai dispositivi connessi. 3. Non condividere prese con apparecchi elettrici ad alta potenza. 4. L'invecchiamento del filo potrebbe causare uno scarso rendimento"</string>
+    <string name="help_title">Possibili cause della scarsa velocità di rete</string>
+    <string name="ip_address">Indirizzo IP</string>
+    <string name="mac_address">Indirizzo MAC</string>
+    <string name="plc_confirm">Conferma</string>
+    <string name="plc_connected_devices">Dispositivi wireless</string>
+    <string name="plc_connected_devices_count">Dispositivi online %d</string>
+    <string name="plc_encrypt_method">Imposta tipo di crittografia</string>
+    <string name="plc_help"><u>Aiuto</u></string>
+    <string name="plc_hide_ssid">Rete non trovata</string>
+    <string name="plc_more_info">Maggiori informazioni</string>
+    <string name="plc_name">Nome</string>
+    <string name="plc_password">Password</string>
+    <string name="plc_select_bw">Seleziona larghezza di banda</string>
+    <string name="plc_select_channel">Seleziona canale wireless</string>
+    <string name="plc_signal_normal">Connessione normale</string>
+    <string name="plc_signal_problem">Disconnesso</string>
+    <string name="plc_signal_weak">Connessione con Mi Router debole</string>
+    <string name="plc_wifi_roam">Roaming Wi-Fi</string>
+    <string name="plc_wifi_roam_detail">Il nome impostato combacia con quello del segnale sorgente per abilitare il Roaming Wi-Fi</string>
+    <string name="plc_wifi_setting">Impostazioni Wi-Fi</string>
+    <string name="plc_wifi_setting_detail" formatted="false">Nome rete %s | %s</string>
+    <string name="pwd_digits">"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`-=~!@#$%^&amp;{*()_+[]}|;'\\,./:\"&lt;> ?"</string>
+    <string name="set_wifi_success">Impostazione Wi-Fi riuscita</string>
+    <string name="ssid_empty">Il nome non puó essere vuoto</string>
+    <string name="upload_log">Invia log</string>
+    <string name="upload_log_failed">Errore di rete</string>
+    <string name="upload_log_success">Invio log riuscito</string>
+    <string name="version_info">Info versione</string>
+</resources>
