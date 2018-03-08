@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Cancel">Annulla</string>
     <string name="Friday">Venerdì</string>
@@ -711,4 +711,6 @@
     <string name="tracking">Tracciamento attivato</string>
     <string name="usb_format_err_content">Si consiglia di scollegare la chiavetta USB e provare a formattarla con altri dispositivi</string>
     <string name="usb_go_format_diaglog_content">Lo U-Disk é stato formattato, il dispositivo rimarrà offline per un pò. Non spegnere o scollegare lo U-Disk.</string>
+    <string name="check_notification">Visualizza notifica</string>
+    <string name="check_notification_desc">Invia una notifica agli utenti in condivisione quando sto guardando la camera</string>
 </resources>
