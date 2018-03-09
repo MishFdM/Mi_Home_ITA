@@ -1561,6 +1561,7 @@ Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica,
     <string name="move_multiple_devices_to_room">%1$s é stato spostato in %2$s</string>
     <string name="move_single_device_to_room">%1$s é stato spostato in %2$s</string>
     <string name="msg_camera_framework_bug">Errore fotocamera, prova a riavviare il dispositivo.</string>
+    <string name="msg_camera_framework_bug_new">"Si prega di consentire l'utilizzo della fotocamera in Impostazioni - Applicazioni - %s - Permessi app"</string>
     <string name="msg_center_list_btm_tips_device_share">Visualizza i dettagli del dispositivo condiviso >></string>
     <string name="msg_center_list_btm_tips_family">Guarda la mia famiglia >></string>
     <string name="msg_default_status">"Piazza il codice all'interno della cornice"</string>
@@ -3306,5 +3307,19 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="invalid_detector_type">Tipologia sensore non valida</string>
     <string name="liveness_prepare_overstep_face_allow_area">"Oltre l'area di rilevamento"</string>
     <string name="both_on_off_must_be_set">Il timer di attivazione/disattivazione non può essere vuoto</string>
-    <string name="msg_camera_framework_bug_new">"Si prega di consentire l'utilizzo della fotocamera in Impostazioni - Applicazioni - %s - Permessi app"</string>
+    <string name="inter_sub_domain_ru">Russia</string>
+    <string name="month_apr">Apr</string>
+    <string name="month_aug">Ago</string>
+    <string name="month_dec">Dic</string>
+    <string name="month_feb">Feb</string>
+    <string name="month_jan">Gen</string>
+    <string name="month_jul">Lug</string>
+    <string name="month_jun">Giu</string>
+    <string name="month_mar">Mar</string>
+    <string name="month_may">Mag</string>
+    <string name="month_nov">Nov</string>
+    <string name="month_oct">Ott</string>
+    <string name="month_sep">Sett</string>
+    <string name="no_record_permission">"Per utilizzare il controllo vocale consenti l'utilizzo del microfono dalle impostazioni"</string>
+    <string name="scene_deleted">Scenario rimosso</string>
 </resources>
