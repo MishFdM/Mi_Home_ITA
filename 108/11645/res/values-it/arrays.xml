@@ -50,6 +50,10 @@
         <item>Ventilatore</item>
         <item>Altro</item>
     </string-array>
+    <string-array name="lock_aq2_usr_finger_type_add_menu">
+        <item>Impronta utente</item>
+        <item>Impronta amministratore</item>
+    </string-array>
     <string-array name="lock_aq_fast_name_list">
         <item>Mio</item>
         <item>Padre</item>
@@ -171,6 +175,7 @@
         <item>lumi.light.aqcn02</item>
         <item>lumi.relay.c2acn01</item>
         <item>lumi.sensor_cube.aqgl01</item>
+        <item>lumi.lock.acn02</item>
     </string-array>
     <string-array name="device_model_list_mieu">
         <item>lumi.sensor_switch.v2</item>
