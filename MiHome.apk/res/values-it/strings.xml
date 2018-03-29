@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -1013,6 +1013,7 @@ Si prega di verificare l'impronta digitale salvata"</string>
     <string name="inter_sub_domain_in">India</string>
     <string name="inter_sub_domain_kr">Corea</string>
     <string name="inter_sub_domain_other">Altre</string>
+    <string name="inter_sub_domain_ru">Russia</string>
     <string name="inter_sub_domain_sg">Singapore</string>
     <string name="inter_sub_domain_st">Staging</string>
     <string name="inter_sub_domain_tk">Turchia</string>
@@ -1386,6 +1387,7 @@ Non dovresti proseguire, specialmente se non hai mai visto questo avviso prima d
     <string name="mi_brain_iot_success">Eseguito</string>
     <string name="mi_brain_nlp_not_hear">Non ho capito, per favore parla nuovamente</string>
     <string name="mi_brain_no_connect_net">Impossibile connettere alle reti</string>
+    <string name="mi_brain_no_connect_net_module">Non connesso alla rete. %s</string>
     <string name="mi_brain_not_support">Questo dispositivo non é supportato per ora</string>
     <string name="mi_brain_open">Permetti controllo vocale</string>
     <string name="mi_brain_server_environment">Ambiente di servizio Mi Brain</string>
@@ -1416,6 +1418,7 @@ Non dovresti proseguire, specialmente se non hai mai visto questo avviso prima d
     <string name="miband_remove_warning">"Disabbina la band nell'app Mi Fit"</string>
     <string name="miband_title">Mi Band</string>
     <string name="micro_call_again">Chiama nuovamente</string>
+    <string name="micro_call_again_module">Chiama nuovamente. %s</string>
     <string name="micro_call_now">Chiama ora</string>
     <string name="micro_calling_tv">Chiamata Xiaoice…</string>
     <string name="micro_communication">Comunicazione in corso…</string>
@@ -1510,6 +1513,7 @@ Non dovresti proseguire, specialmente se non hai mai visto questo avviso prima d
     <string name="milogin_fail_token_expired">Accesso fallito, prova ad immettere manualmente la password del Mi Account</string>
     <string name="milogin_passport_login_fail">Accesso al conto Mi non riuscito</string>
     <string name="milogin_passport_login_waiting">Accesso, attendere prego…</string>
+    <string name="milogin_pwd_title">Cambia password</string>
     <string name="milogin_validate_relogin">Per favore accedi nuovamente</string>
     <string name="milogin_wx_not_installed">"Si prega di installare l'app WeChat"</string>
     <string name="mini_program_cancel">Indietro</string>
@@ -1557,6 +1561,18 @@ Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica,
     <string name="monday">Lunedì</string>
     <string name="monday1">Lunedì</string>
     <string name="month">m</string>
+    <string name="month_apr">Apr</string>
+    <string name="month_aug">Ago</string>
+    <string name="month_dec">Dic</string>
+    <string name="month_feb">Feb</string>
+    <string name="month_jan">Gen</string>
+    <string name="month_jul">Lug</string>
+    <string name="month_jun">Giu</string>
+    <string name="month_mar">Mar</string>
+    <string name="month_may">Mag</string>
+    <string name="month_nov">Nov</string>
+    <string name="month_oct">Ott</string>
+    <string name="month_sep">Sett</string>
     <string name="more_message">Di più</string>
     <string name="move_multiple_devices_to_room">%1$s é stato spostato in %2$s</string>
     <string name="move_single_device_to_room">%1$s é stato spostato in %2$s</string>
@@ -1606,6 +1622,8 @@ Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica,
     <string name="no_interactive_device">Nessun dispositivo a cui collegarsi</string>
     <string name="no_invite">Ancora nessun invito</string>
     <string name="no_location_log">Il log di viaggio non é ancora stato impostato</string>
+    <string name="no_record_permission">"Per utilizzare il controllo vocale consenti l'utilizzo del microfono dalle impostazioni"</string>
+    <string name="no_record_permission_module">Consenti la registrazione audio per utilizzare il controllo vocale. %s</string>
     <string name="no_scene_tips">Tocca il + per aggiungere uno scenario</string>
     <string name="no_storage">Spazio non sufficiente</string>
     <string name="no_storage_card">Impossibile trovare scheda SD</string>
@@ -1656,6 +1674,7 @@ Dopo aver cliccato su gestione nell'angolo in alto a destra in fase di modifica,
     <string name="open_location_permission">Permetti a Mi Home di accedere alla tua posizione per cercare reti nelle vicinanze</string>
     <string name="open_location_permission1">Si prega di abilitare la scansione automatica della località per ottenere le informazioni sulla posizione</string>
     <string name="open_tips">Abilita</string>
+    <string name="open_wifi_failed">Apertura Wi-Fi non riuscita, si prega di riprovare</string>
     <string name="opening_bluetooth">Abilita Bluetooth…</string>
     <string name="opening_my_order_page_tips">Apri i miei ordini…</string>
     <string name="operation_open_close">Attiva/Disattiva</string>
@@ -2073,12 +2092,9 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="scene_any_condition_satified">Soddisfa una condizione</string>
     <string name="scene_choose_scene_mode_dialog_title">Si prega di selezionare più condizioni</string>
     <string name="scene_close">Disabilita</string>
-    <string name="scene_condition_call">Quando chiami</string>
     <string name="scene_condition_miband_awake">"Quando l'utente si é svegliato"</string>
     <string name="scene_condition_miband_sleep">"Quando l'utente si addormenta"</string>
     <string name="scene_condition_phone_call">Se si riceve una chiamata sui telefoni Mi</string>
-    <string name="scene_condition_phone_limit">Solo i Telefoni Mi sono supportati</string>
-    <string name="scene_condition_phone_sms">Quando mandi un SMS</string>
     <string name="scene_condition_sms">Se si riceve un messaggio sui telefoni Mi</string>
     <string name="scene_confirm_delete">Rimuovere questo scenario?</string>
     <string name="scene_create_fail_by_change_hand_auto">Conversione scenario da modalità manuale ad automatica temporaneamente non supportata</string>
@@ -2092,6 +2108,7 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="scene_delete">Rimuovi scenario</string>
     <string name="scene_delete_comfirm">Le impostazioni del compito verranno cancellate dopo aver eliminato il compito, cancellare?</string>
     <string name="scene_delete_confirm_title">Rimuovi lo scenario?</string>
+    <string name="scene_deleted">Scenario rimosso</string>
     <string name="scene_edit_no_support">Non supportato</string>
     <string name="scene_enable_to_change">Questo scenario non é valido, rimuovilo e creane uno nuovo</string>
     <string name="scene_enter_or_leave_wifi">Connessione/Disconnessione telefono da Wi-Fi (Beta)</string>
@@ -2268,6 +2285,8 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="settings_language">Lingua</string>
     <string name="settings_language_default">Italiano</string>
     <string name="settings_language_es">Español</string>
+    <string name="settings_language_fr">Français</string>
+    <string name="settings_language_it">Italiano</string>
     <string name="settings_language_ko">한국어</string>
     <string name="settings_language_ru">русский</string>
     <string name="settings_language_us">English</string>
@@ -2600,9 +2619,11 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="smarthome_scene_support_all">Quando soddisfi tutte le condizioni selezionate</string>
     <string name="smarthome_scene_support_any">Quando soddisfi una condizione selezionata</string>
     <string name="smarthome_scene_timer_everyday">Ogni giorno</string>
+    <string name="smarthome_scene_timer_from">Inizio</string>
     <string name="smarthome_scene_timer_once">Una volta</string>
     <string name="smarthome_scene_timer_repeat">Ripeti</string>
     <string name="smarthome_scene_timer_title">Timer</string>
+    <string name="smarthome_scene_timer_to">Fine</string>
     <string name="smarthome_scene_timer_workday">Giorni festivi</string>
     <string name="smarthome_scene_update_fail">Aggiornamento, riprova</string>
     <string name="smarthome_scene_update_failed">Impossibile caricare, riprova</string>
@@ -2766,6 +2787,29 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="temperature_less">Temperatura inferiore a quella specificata</string>
     <string name="temperature_less_format">La temperatura di %1$s é inferiore di %2$d℃</string>
     <string name="terminal_feedback">Dispositivi</string>
+    <string name="third_account_add">Aggiungi un dispositivo di terze parti</string>
+    <string name="third_account_auth_canceled">Autorizzazione annullata</string>
+    <string name="third_account_auth_failed">Impossibile autorizzare, riprova</string>
+    <string name="third_account_bind">Aggiungi account</string>
+    <string name="third_account_bind_at_once">Aggiungi ora</string>
+    <string name="third_account_bind_expire">"Lo stato di autorizzazione dell'account attuale è scaduto.
+%s per completare l'autorizzazione."</string>
+    <string name="third_account_bind_lose_efficacy">"Lo stato di autorizzazione dell'account attuale è scaduto."</string>
+    <string name="third_account_empty">Al momento non hai aggiunto alcun account di terze parti,</string>
+    <string name="third_account_list_title">Piattaforma dispositivo di terze parti</string>
+    <string name="third_account_platform_detail">Dettagli piattaforma</string>
+    <string name="third_account_platform_intro">Introduzione piattaforma</string>
+    <string name="third_account_rebind">"Aggiungi nuovamente l'account"</string>
+    <string name="third_account_state_binded">Aggiunto</string>
+    <string name="third_account_state_to_bind">Aggiungi</string>
+    <string name="third_account_sync_device">Sincr. dispositivo</string>
+    <string name="third_account_sync_device_failed">Impossibile sincronizzare</string>
+    <string name="third_account_sync_device_success">Sincr. dispositivo riuscita</string>
+    <string name="third_account_unbind">Rimuovi account</string>
+    <string name="third_account_unbind_failed">Impossibile rimuovere</string>
+    <string name="third_account_unbind_msg">Non sarai in grado di controllare tutti i dispositivi dopo aver rimosso questo account, procedere comunque?</string>
+    <string name="third_account_unbind_ok">Rimuovi</string>
+    <string name="third_account_unbind_success">Rimozione completata</string>
     <string name="third_login">Altri metodi di accesso</string>
     <string name="thursday">Giovedì</string>
     <string name="thursday1">Giovedì</string>
@@ -3037,6 +3081,9 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="yunyi_virtual_camera_create_get_location_fail">Impossibile ottenere informazioni sulla posizione</string>
     <string name="yunyi_virtual_camera_create_success">Yi Smart Webcam aggiunta con successo</string>
     <string name="zimi_power_name">ZMI Power Bank</string>
+    <string name="scene_condition_call">Quando chiami</string>
+    <string name="scene_condition_phone_limit">Solo i Telefoni Mi sono supportati</string>
+    <string name="scene_condition_phone_sms">Quando mandi un SMS</string>
     <string name="user_license">"
  
  Xiaomi Communication Technology Co., Ltd. (\"Xiaomi\" or \"we\") will always respect and strictly protect the legitimate rights and interests of our users while they are using our products.
@@ -3307,19 +3354,4 @@ Per riutilizzare il dispositivo, sarà necessario rieseguire l'abbinamento e for
     <string name="invalid_detector_type">Tipologia sensore non valida</string>
     <string name="liveness_prepare_overstep_face_allow_area">"Oltre l'area di rilevamento"</string>
     <string name="both_on_off_must_be_set">Il timer di attivazione/disattivazione non può essere vuoto</string>
-    <string name="inter_sub_domain_ru">Russia</string>
-    <string name="month_apr">Apr</string>
-    <string name="month_aug">Ago</string>
-    <string name="month_dec">Dic</string>
-    <string name="month_feb">Feb</string>
-    <string name="month_jan">Gen</string>
-    <string name="month_jul">Lug</string>
-    <string name="month_jun">Giu</string>
-    <string name="month_mar">Mar</string>
-    <string name="month_may">Mag</string>
-    <string name="month_nov">Nov</string>
-    <string name="month_oct">Ott</string>
-    <string name="month_sep">Sett</string>
-    <string name="no_record_permission">"Per utilizzare il controllo vocale consenti l'utilizzo del microfono dalle impostazioni"</string>
-    <string name="scene_deleted">Scenario rimosso</string>
 </resources>
