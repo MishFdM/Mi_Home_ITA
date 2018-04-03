@@ -54,6 +54,10 @@
         <item>Impronta utente</item>
         <item>Impronta amministratore</item>
     </string-array>
+    <string-array name="lock_aq2_usr_psw_type_add_menu">
+        <item>Password utente</item>
+        <item>Password amministratore</item>
+    </string-array>
     <string-array name="lock_aq_fast_name_list">
         <item>Mio</item>
         <item>Padre</item>
