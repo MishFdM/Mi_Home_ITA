@@ -1,2 +1,2 @@
 # Mi_Home_ITA
-Original Mi Home App Italian translation by Or-laf @ MIUI.it
+Original Mi Home Plugins Italian translation by Orlaf @ MIUI.it
