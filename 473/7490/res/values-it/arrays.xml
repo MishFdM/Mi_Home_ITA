@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menus">
+        <item>Interuttore orario</item>
+        <item>Automazione</item>
+        <item>Impostazione generale</item>
+        <item>Aiuto</item>
+    </string-array>
+</resources>
