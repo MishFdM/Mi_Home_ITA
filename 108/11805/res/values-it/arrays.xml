@@ -50,6 +50,10 @@
         <item>Ventilatore</item>
         <item>Altro</item>
     </string-array>
+    <string-array name="lock_aq2_usr_clear_menu">
+        <item>Elimina impronte</item>
+        <item>Elimina password</item>
+    </string-array>
     <string-array name="lock_aq2_usr_finger_type_add_menu">
         <item>Impronta utente</item>
         <item>Impronta amministratore</item>
