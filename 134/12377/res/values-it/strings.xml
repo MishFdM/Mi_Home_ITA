@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="activity_event_title">Cerimonia di premiazione 1° Maggio</string>
     <string name="agree_and_continue">Accetta e continua</string>
     <string name="already_in_goto">Il robot si sta dirigendo al punto indicato</string>
     <string name="already_in_spot">Il robot é in fase di pulizia</string>
@@ -496,6 +497,23 @@
     <string name="select_all">Seleziona tutto</string>
     <string name="setting_title">Impostazione</string>
     <string name="unselect_all">Deseleziona tutto</string>
+    <string name="activity_event_alert">Acquisizione dati non riuscita!</string>
+    <string name="activity_event_company">Sweeping Robot Labor Committee</string>
+    <string name="activity_event_desc_0">Questo certificato è stato emesso per incoraggiare</string>
+    <string name="activity_event_desc_1">Sweeping Robot Labor Committee</string>
+    <string name="activity_event_desc_2">1 Maggio 2018</string>
+    <string name="activity_event_desc_3">Condividi Poster Certificato su Wechat</string>
+    <string name="activity_event_desc_4">Analizza il codice QR del poster, facendo attenzione al numero pubblico di WeChat</string>
+    <string name="activity_event_desc_5">Estrazione al 100%</string>
+    <string name="activity_event_desc_6">"Un'ampia gamma di robot e accessori"</string>
+    <string name="activity_event_desc_7">Altri premi</string>
+    <string name="activity_event_honor_text">Hai ripulito %1$sm², e %2$s è stato valutato:</string>
+    <string name="activity_event_wx_desc">Scansiona codice WeChat, prestando attenzione al numero pubblico</string>
+    <string name="activity_event_wx_desc_1_1">Estrazione</string>
+    <string name="activity_event_wx_desc_1_2">Robot spazzante</string>
+    <string name="activity_event_wx_desc_1_3">, accessori e altri premi</string>
+    <string name="activity_event_wx_desc_2">Tasso vittoria</string>
+    <string name="activity_event_wx_desc_3">100%</string>
     <string name="carpet_mode_firmware_version">xxxxxxxxxx</string>
     <string name="clean_area_info_desc_long_fmt_hk">%1$.1fft x %2$.1fft</string>
     <string name="clean_area_info_desc_short_fmt_hk">%1$.1fFt²</string>
@@ -504,6 +522,17 @@
     <string name="customer_service_phone_number_ce">3001-1888</string>
     <string name="customer_service_web_url">www.mi.com</string>
     <string name="empty_item" />
+    <string name="event51">Premi del 1° Maggio</string>
+    <string name="event51_desc_1">Lavora in orario, senza mai essere pigro</string>
+    <string name="event51_desc_2">Non ti biasimo, gli umani stanno dimenticando come spazzare il pavimento.</string>
+    <string name="event51_desc_3">Visione a quattro direzioni, per non escludere alcuna via</string>
+    <string name="event51_desc_4">Non omettere gli angoli</string>
+    <string name="event51_desc_5">Sentirsi man mano sempre piú nel pulito</string>
+    <string name="event51_desc_6">La serietà del tuo lavoro rispecchia quella del tuo padrone</string>
+    <string name="event51_desc_7">Puoi sempre trovae una piccola sorpresa!</string>
+    <string name="event51_desc_8">Sei il migliore dei robot!</string>
+    <string name="event51_rule">https://awsbj0.fds.api.xiaomi.com/app/common/20180501/policy.html</string>
+    <string name="event_activity_rule_text">Regole attività</string>
     <string name="firmware_version_goto_and_zone_clean">3.3.9_003188</string>
     <string name="oba_bom_title">BOM:</string>
     <string name="oba_firmware_ver_title">Versione firmware:</string>
