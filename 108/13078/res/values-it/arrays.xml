@@ -126,7 +126,9 @@
         <item>lumi.ctrl_neutral1.v1</item>
         <item>lumi.ctrl_neutral2.v1</item>
         <item>lumi.sensor_86sw1.v1</item>
+        <item>lumi.remote.b186acn01</item>
         <item>lumi.sensor_86sw2.v1</item>
+        <item>lumi.remote.b286acn01</item>
         <item>lumi.ctrl_86plug.v1</item>
         <item>lumi.sensor_smoke.v1</item>
         <item>lumi.sensor_natgas.v1</item>
@@ -134,18 +136,21 @@
         <item>lumi.ctrl_ln2.v1</item>
         <item>lumi.curtain.v1</item>
         <item>lumi.sensor_switch.aq2</item>
+        <item>lumi.remote.b1acn01</item>
         <item>lumi.sensor_motion.aq2</item>
         <item>lumi.sensor_magnet.aq2</item>
         <item>lumi.weather.v1</item>
         <item>lumi.sensor_wleak.aq1</item>
         <item>lumi.vibration.aq1</item>
         <item>lumi.sensor_occupy.v1</item>
+        <item>lumi.lock.acn02</item>
     </string-array>
     <string-array name="device_model_list_gateway_v2">
         <item>lumi.sensor_switch.v2</item>
         <item>lumi.sensor_magnet.v2</item>
         <item>lumi.sensor_motion.v2</item>
         <item>lumi.sensor_86sw1.v1</item>
+        <item>lumi.remote.b186acn01</item>
         <item>lumi.sensor_86sw2.v1</item>
         <item>lumi.plug.v1</item>
         <item>lumi.ctrl_neutral1.v1</item>
@@ -164,7 +169,9 @@
         <item>lumi.ctrl_neutral1.v1</item>
         <item>lumi.ctrl_neutral2.v1</item>
         <item>lumi.sensor_86sw1.v1</item>
+        <item>lumi.remote.b186acn01</item>
         <item>lumi.sensor_86sw2.v1</item>
+        <item>lumi.remote.b286acn01</item>
         <item>lumi.ctrl_86plug.v1</item>
         <item>lumi.sensor_smoke.v1</item>
         <item>lumi.sensor_natgas.v1</item>
@@ -172,6 +179,7 @@
         <item>lumi.ctrl_ln2.v1</item>
         <item>lumi.curtain.v1</item>
         <item>lumi.sensor_switch.aq2</item>
+        <item>lumi.remote.b1acn01</item>
         <item>lumi.sensor_motion.aq2</item>
         <item>lumi.sensor_magnet.aq2</item>
         <item>lumi.weather.v1</item>
@@ -181,7 +189,6 @@
         <item>lumi.lock.v1</item>
         <item>lumi.sensor_occupy.v1</item>
         <item>lumi.light.aqcn02</item>
-        <item>lumi.relay.c2acn01</item>
         <item>lumi.sensor_cube.aqgl01</item>
         <item>lumi.lock.acn02</item>
     </string-array>
