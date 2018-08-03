@@ -102,16 +102,20 @@
         <item>Elimina</item>
         <item>Passa a chiave comune</item>
     </string-array>
+    <string-array name="acpartner_learn_key_names">
+        <item>@string/acpartner_learn_recommand1</item>
+        <item>@string/acpartner_learn_recommand2</item>
+        <item>@string/acpartner_learn_recommand3</item>
+        <item>@string/acpartner_learn_recommand4</item>
+        <item>@string/acpartner_learn_recommand5</item>
+        <item>@string/acpartner_learn_recommand6</item>
+    </string-array>
     <integer-array name="corridor_time">
         <item>1</item>
         <item>2</item>
         <item>5</item>
         <item>10</item>
     </integer-array>
-    <string-array name="device_fragment_long_click_menu_invisible">
-        <item>@string/rename</item>
-        <item>@string/actionsheet_delete</item>
-    </string-array>
     <string-array name="device_fragment_long_click_menu_visible">
         <item>@string/rename</item>
         <item>@string/actionsheet_delete</item>
@@ -209,5 +213,78 @@
         <item>lumi.sensor_motion.v2</item>
         <item>lumi.sensor_ht.v1</item>
         <item>lumi.plug.mitw01</item>
+    </string-array>
+    <string-array name="fan_key_names">
+        <item>@string/switching</item>
+    </string-array>
+    <string-array name="other_electric_key_names">
+        <item>@string/switching</item>
+    </string-array>
+    <string-array name="projector_key_names">
+        <item>@string/switching</item>
+        <item>@string/mute</item>
+        <item>@string/auto_focus</item>
+        <item>@string/enlarge</item>
+        <item>@string/narrow</item>
+        <item>@string/lifting_curtain</item>
+    </string-array>
+    <string-array name="rename_delete">
+        <item>@string/rename</item>
+        <item>@string/delete</item>
+    </string-array>
+    <string-array name="selected_electric">
+        <item>@string/water_heater</item>
+        <item>@string/sound_box</item>
+        <item>@string/tv</item>
+        <item>@string/tv_box</item>
+        <item>@string/projector</item>
+        <item>@string/slr</item>
+        <item>@string/electric_fan</item>
+        <item>@string/acpartner_others</item>
+    </string-array>
+    <array name="selected_electric_key_name_res_id">
+        <item>@array/water_heater_key_names</item>
+        <item>@array/voice_box_key_names</item>
+        <item>@array/tv_key_names</item>
+        <item>@array/tv_box_key_names</item>
+        <item>@array/projector_key_names</item>
+        <item>@array/slr_key_names</item>
+        <item>@array/fan_key_names</item>
+        <item>@array/other_electric_key_names</item>
+    </array>
+    <string-array name="slr_key_names">
+        <item>@string/photograph</item>
+    </string-array>
+    <string-array name="tv_box_key_names">
+        <item>@string/switching</item>
+        <item>@string/mute</item>
+        <item>@string/the_next_set</item>
+        <item>@string/the_last_set</item>
+        <item>@string/volume_plus</item>
+        <item>@string/volume_reduction</item>
+    </string-array>
+    <string-array name="tv_key_names">
+        <item>@string/switching</item>
+        <item>@string/mute</item>
+        <item>@string/the_next_set</item>
+        <item>@string/the_last_set</item>
+        <item>@string/volume_plus</item>
+        <item>@string/volume_reduction</item>
+    </string-array>
+    <string-array name="voice_box_key_names">
+        <item>@string/switching</item>
+        <item>@string/mute</item>
+        <item>@string/next_one</item>
+        <item>@string/previous_one</item>
+        <item>@string/volume_plus</item>
+        <item>@string/volume_reduction</item>
+    </string-array>
+    <string-array name="water_heater_key_names">
+        <item>@string/switching</item>
+        <item>@string/pattern</item>
+    </string-array>
+    <string-array name="device_fragment_long_click_menu_invisible">
+        <item>@string/rename</item>
+        <item>@string/actionsheet_delete</item>
     </string-array>
 </resources>
