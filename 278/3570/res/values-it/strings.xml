@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_timer">Aggiungi timer</string>
     <string name="add_to_favorite">Aggiungi ai preferiti</string>
@@ -77,6 +77,8 @@
     <string name="power_delay_close">Posticipazione Disattivata</string>
     <string name="power_off_str">Disattiva</string>
     <string name="power_switch">Attiva/Disattiva</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy_content">privacypolicy.html</string>
     <string name="progress_updating">Aggiornamento</string>
     <string name="pull_down_refresh">Tira verso il basso per aggiornare</string>
     <string name="read_attention">Riposo lettura</string>
@@ -104,8 +106,15 @@
     <string name="tip_title">Non hai selezionato alcuno scenario di protezione occhi</string>
     <string name="tire_reminder">Promemoria Vista Affaticata</string>
     <string name="unselect_eye_care">La protezione occhi non é stata impostata</string>
+    <string name="use_must_notice">"Istruzioni per l'uso"</string>
+    <string name="user_aggrement">Accordo utente</string>
+    <string name="user_aggrement_content">accordoutente.html</string>
     <string name="wait_adjust">In attesa di calibrazione</string>
     <string name="weak_amb">Bassa</string>
+    <string name="action_back">Indietro</string>
+    <string name="action_menu">Menú</string>
     <string name="progress_dialog_already">Completato</string>
-    <string name="setting_title">Impostazione</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="setting_title">Impostazione generale</string>
+    <string name="unselect_all">Deseleziona tutto</string>
 </resources>
