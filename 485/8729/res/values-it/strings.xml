@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">com.huami.watchdemo</string>
     <string name="cancel">Indietro</string>
@@ -15,12 +15,6 @@
     <string name="refreshing_no_point">Caricamento</string>
     <string name="refreshing_retry">Caricamento non riuscito, riprovare?</string>
     <string name="release_to_refresh">Rilascia per aggiornare</string>
-    <string name="action_back">Indietro</string>
-    <string name="action_menu">Menù</string>
-    <string name="progress_dialog_already">Completato</string>
-    <string name="select_all">Seleziona tutto</string>
-    <string name="setting_title">Impostazione</string>
-    <string name="unselect_all">Deseleziona tutto</string>
     <string name="add_control_device">Aggiungi un dispositivo da gestire</string>
     <string name="add_display_device">Aggiungi dispositivo di visualizzazione informazioni</string>
     <string name="add_my_scene">Aggiungi scenario</string>
@@ -45,9 +39,24 @@
     <string name="empty_list_tint">"Aggiungi una misurazione, questa potrà essere gestita attraverso la sezione 'Misurazioni' di Mi Home"</string>
     <string name="first_page_tint">Ordinamento schede</string>
     <string name="help_introduction">Utilizza aiuto</string>
+    <string name="hmpace_watch_v3_hint_a1">"Dopo aver avuto accesso a questa interfaccia, assicurati che l'app sia correttamente connessa all'orologio, in modo che l'app Mi Home appena configurata possa sincronizzarsi all'orologio."</string>
+    <string name="hmpace_watch_v3_hint_a2">"Mi Home Watch può controllare il dispositivo intelligente in prossimità dell'orologio. È possibile attivare le operazioni corrispondenti cliccando sulle operazioni nell'app orologio di Mi Home."</string>
+    <string name="hmpace_watch_v3_hint_a3">"Il funzionamento manuale nell'app orologio di Mi Home si riferisce all'operazione che avrà effetto cliccando manualmente. L'operazione condizionata si riferisce all'operazione che avrà effetto automaticamente dopo che le condizioni saranno soddisfatte. Come l'esecuzione della tempistica e l'esecuzione del conto alla rovescia."</string>
+    <string name="hmpace_watch_v3_hint_q1">"I. Come sincronizzare le impostazioni di operatività dell'orologio su Mi Home.."</string>
+    <string name="hmpace_watch_v3_hint_q2">"II. Come vengono controllati i dispositivi intelligenti dall'orologio su Mi Home?"</string>
+    <string name="hmpace_watch_v3_hint_q3">III. Quale tipo di operazione intelligente è presente su Mi Home?</string>
+    <string name="hmpace_watch_v3_hint_title">Aiuto introduttivo:</string>
+    <string name="loading_tip_connecting">Connessione...</string>
+    <string name="loading_tip_sync">Sincronizzazione...</string>
     <string name="not_added_scene">Nessuno scenario aggiunto</string>
     <string name="not_connect_state">Non connesso</string>
     <string name="reply_parent">Feedback</string>
     <string name="sync_to_watch">"Sincronizza con l'orologio"</string>
     <string name="title_name">Orologio Amazfit</string>
+    <string name="action_back">Indietro</string>
+    <string name="action_menu">Menù</string>
+    <string name="progress_dialog_already">Completato</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="setting_title">Impostazione</string>
+    <string name="unselect_all">Deseleziona tutto</string>
 </resources>
