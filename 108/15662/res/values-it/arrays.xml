@@ -50,58 +50,6 @@
         <item>Ventilatore</item>
         <item>Altro</item>
     </string-array>
-    <string-array name="lock_aq2_usr_clear_menu">
-        <item>Elimina impronte</item>
-        <item>Elimina password</item>
-    </string-array>
-    <string-array name="lock_aq2_usr_finger_type_add_menu">
-        <item>Impronta utente</item>
-        <item>Impronta amministratore</item>
-    </string-array>
-    <string-array name="lock_aq2_usr_psw_type_add_menu">
-        <item>Password utente</item>
-        <item>Password amministratore</item>
-    </string-array>
-    <string-array name="lock_aq_fast_name_list">
-        <item>Mio</item>
-        <item>Padre</item>
-        <item>Madre</item>
-        <item>Moglie</item>
-        <item>Marito</item>
-        <item>Nonno</item>
-        <item>Nonna</item>
-        <item>Nonno materno</item>
-        <item>Nonna materna</item>
-    </string-array>
-    <string-array name="lock_aq_fast_name_list_psw">
-        <item>Comune</item>
-        <item>Famiglia</item>
-        <item>Amico</item>
-    </string-array>
-    <string-array name="lock_aq_setting_lang_list">
-        <item>Cinese</item>
-        <item>Inglese</item>
-    </string-array>
-    <string-array name="lock_aq_setting_vol_list">
-        <item>Altro</item>
-        <item>Medio</item>
-        <item>Basso</item>
-        <item>Silenzia</item>
-    </string-array>
-    <string-array name="lock_aq_usr_type_long_click_menu">
-        <item>Rinomina</item>
-        <item>Elimina</item>
-    </string-array>
-    <string-array name="lock_key_normal_menu">
-        <item>Rinomina</item>
-        <item>Elimina</item>
-        <item>Passa a chiave temporanea</item>
-    </string-array>
-    <string-array name="lock_key_temp_menu">
-        <item>Rinomina</item>
-        <item>Elimina</item>
-        <item>Passa a chiave comune</item>
-    </string-array>
     <string-array name="acpartner_learn_key_names">
         <item>@string/acpartner_learn_recommand1</item>
         <item>@string/acpartner_learn_recommand2</item>
@@ -149,6 +97,33 @@
         <item>lumi.sensor_occupy.v1</item>
         <item>lumi.lock.acn02</item>
     </string-array>
+    <string-array name="device_model_list_aqhm">
+        <item>lumi.sensor_switch.v2</item>
+        <item>lumi.sensor_motion.v2</item>
+        <item>lumi.sensor_magnet.v2</item>
+        <item>lumi.sensor_ht.v1</item>
+        <item>lumi.plug.v1</item>
+        <item>lumi.sensor_cube.v1</item>
+        <item>lumi.ctrl_neutral1.v1</item>
+        <item>lumi.ctrl_neutral2.v1</item>
+        <item>lumi.sensor_86sw1.v1</item>
+        <item>lumi.sensor_86sw2.v1</item>
+        <item>lumi.ctrl_86plug.v1</item>
+        <item>lumi.sensor_smoke.v1</item>
+        <item>lumi.sensor_natgas.v1</item>
+        <item>lumi.ctrl_ln1.v1</item>
+        <item>lumi.ctrl_ln2.v1</item>
+        <item>lumi.curtain.v1</item>
+        <item>lumi.sensor_switch.aq2</item>
+        <item>lumi.sensor_motion.aq2</item>
+        <item>lumi.sensor_magnet.aq2</item>
+        <item>lumi.weather.v1</item>
+        <item>lumi.sensor_wleak.aq1</item>
+        <item>lumi.vibration.aq1</item>
+        <item>lumi.light.aqcn02</item>
+        <item>lumi.sensor_cube.aqgl01</item>
+        <item>lumi.relay.c2acn01</item>
+    </string-array>
     <string-array name="device_model_list_gateway_v2">
         <item>lumi.sensor_switch.v2</item>
         <item>lumi.sensor_magnet.v2</item>
@@ -195,6 +170,13 @@
         <item>lumi.light.aqcn02</item>
         <item>lumi.sensor_cube.aqgl01</item>
         <item>lumi.lock.acn02</item>
+        <item>lumi.relay.c2acn01</item>
+    </string-array>
+    <string-array name="device_model_list_lmuk">
+        <item>lumi.sensor_switch.v2</item>
+        <item>lumi.sensor_magnet.v2</item>
+        <item>lumi.sensor_motion.v2</item>
+        <item>lumi.sensor_ht.v1</item>
     </string-array>
     <string-array name="device_model_list_mieu">
         <item>lumi.sensor_switch.v2</item>
@@ -216,6 +198,54 @@
     </string-array>
     <string-array name="fan_key_names">
         <item>@string/switching</item>
+    </string-array>
+    <string-array name="lock_aq2_usr_clear_menu">
+        <item>@string/lock_aq2_clear_finger</item>
+        <item>@string/lock_aq2_clear_pwd</item>
+    </string-array>
+    <string-array name="lock_aq2_usr_finger_type_add_menu">
+        <item>@string/lock_aq2_normal_finger</item>
+        <item>@string/lock_aq2_admin_finger</item>
+    </string-array>
+    <string-array name="lock_aq2_usr_psw_type_add_menu">
+        <item>@string/lock_aq2_normal_pwd</item>
+        <item>@string/lock_aq2_admin_pwd</item>
+    </string-array>
+    <string-array name="lock_aq_fast_name_list">
+        <item>@string/lock_aq_fast_name_list1</item>
+        <item>@string/lock_aq_fast_name_list2</item>
+        <item>@string/lock_aq_fast_name_list3</item>
+        <item>@string/lock_aq_fast_name_list4</item>
+        <item>@string/lock_aq_fast_name_list5</item>
+        <item>@string/lock_aq_fast_name_list6</item>
+        <item>@string/lock_aq_fast_name_list7</item>
+        <item>@string/lock_aq_fast_name_list8</item>
+        <item>@string/lock_aq_fast_name_list9</item>
+    </string-array>
+    <string-array name="lock_aq_fast_name_list_psw">
+        <item>@string/lock_aq_fast_name_list_psw1</item>
+        <item>@string/lock_aq_fast_name_list_psw2</item>
+        <item>@string/lock_aq_fast_name_list_psw3</item>
+    </string-array>
+    <string-array name="lock_aq_setting_lang_list">
+        <item>@string/lock_aq_setting_lang_list1</item>
+        <item>@string/lock_aq_setting_lang_list2</item>
+    </string-array>
+    <string-array name="lock_aq_setting_vol_list">
+        <item>@string/vibration_sensitivity_high</item>
+        <item>@string/vibration_sensitivity_middle</item>
+        <item>@string/vibration_sensitivity_low</item>
+        <item>@string/gateway_alarm_alarming_duration_mute</item>
+    </string-array>
+    <string-array name="lock_key_normal_menu">
+        <item>@string/rename</item>
+        <item>@string/delete</item>
+        <item>@string/lock_switch_temp_key</item>
+    </string-array>
+    <string-array name="lock_key_temp_menu">
+        <item>@string/rename</item>
+        <item>@string/delete</item>
+        <item>@string/lock_switch_nomarl_key</item>
     </string-array>
     <string-array name="other_electric_key_names">
         <item>@string/switching</item>
