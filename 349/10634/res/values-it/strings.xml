@@ -5,11 +5,13 @@
     <string name="Monday">Lunedì</string>
     <string name="OK">Conferma</string>
     <string name="P1080_SLOW">Alta</string>
+    <string name="R_verification_failed">Verifica del dispositivo non riuscita, riprova</string>
     <string name="Saturday">Sabato</string>
     <string name="Sunday">Domenica</string>
     <string name="Thursday">Giovedì</string>
     <string name="Tuesday">Martedì</string>
     <string name="Wednesday">Mercoledì</string>
+    <string name="ai_alarm">Notificami solo quando qualcuno apparirà sullo schermo</string>
     <string name="alarm_automation">Attivazione scenario intelligente</string>
     <string name="alarm_co">Co-Allarme</string>
     <string name="alarm_external">Allarme esterno</string>
@@ -17,6 +19,7 @@
     <string name="alarm_infra_red_motion">Allarme di rilevamento a infrarossi</string>
     <string name="alarm_motion">Allarme rilevamento</string>
     <string name="alarm_other">Altri scenari</string>
+    <string name="alarm_people">Qualcuno è apparso in foto</string>
     <string name="alarm_record">Registro allarme</string>
     <string name="alarm_record_empty">Nessun problema riscontrato</string>
     <string name="alarm_recordpage">"Sei in condivisione con altri utenti, non puoi eliminare le registrazioni, per favore contatta l'utente principale"</string>
@@ -28,6 +31,7 @@
     <string name="alarm_setting_record_detection_info">Inizia la registrazione nel caso la videocamera rilevi movimenti</string>
     <string name="alarm_setting_record_time_slot">Tempo registrazione</string>
     <string name="alarm_setting_sound_detection">Rilevamento sonoro intelligente</string>
+    <string name="alarm_setting_time_frequency">Frequenza allarme</string>
     <string name="alarm_setting_time_interval">Impostazione temporale allarme</string>
     <string name="alarm_settings">Impostazioni allarme</string>
     <string name="alarm_smoke">Allarme fumo</string>
@@ -50,6 +54,9 @@
     <string name="answer_two_2">(2) Il nome utente e la password sono credenziali di accesso disponibili per i soli gruppi di lavoro privati, la visione e la modifica del video saranno quindi disponibili solo per gli utenti a conoscenza di tali credenziali</string>
     <string name="ap">Torna alle connessioni di rete</string>
     <string name="ap_continue">Continua</string>
+    <string name="ap_direct_image_desc">Camera non collegata in modalità diretta, desideri eseguire una connessione?</string>
+    <string name="ap_direct_image_title">Modalità di connessione diretta</string>
+    <string name="ap_display_image">Mostra immagini in modalità di connessione diretta</string>
     <string name="ap_guide_to_set">Connettiti alla rete Wi-Fi, dirigiti alla pagina [I miei dispositivi] e aggiungi il nuovo dispositivo</string>
     <string name="ap_set_password">Non hai inserito alcuna password</string>
     <string name="ap_set_password_dsc">La mancata impostazione di una password potrebbe avere un impatto sulla privacy</string>
@@ -89,6 +96,8 @@
     <string name="changcheng">Grande Muraglia</string>
     <string name="change">Cambia</string>
     <string name="changes_video_recording">Registra solo dopo il cambiamento della schermata</string>
+    <string name="check_notification">Visualizza notifiche</string>
+    <string name="check_notification_desc">Notifica la visualizzazione della camera ad altri utenti in condivisione</string>
     <string name="city_select">Seleziona città</string>
     <string name="click_to_choose">Clicca per selezionare</string>
     <string name="close">Chiudi</string>
@@ -115,6 +124,7 @@
     <string name="create_timelapse">Crea time-lapse</string>
     <string name="create_timelapse_delete_fail">Eliminazione non riuscita</string>
     <string name="create_timelapse_stop_and_save_fail">Salvataggio non riuscito</string>
+    <string name="current_network_connected">Attualmente non connessa alla rete</string>
     <string name="dafang_smart_camera">"Condizioni d'uso e informativa sulla privacy della videocamera"</string>
     <string name="dafang_smart_camera_privacy_agree">Informativa sulla privacy</string>
     <string name="dafang_smart_camera_user_agree">"Condizioni d'uso"</string>
@@ -166,6 +176,7 @@
     <string name="download_failure">Download non riuscito</string>
     <string name="download_speed">Velocità di download</string>
     <string name="download_states">Stato download</string>
+    <string name="download_timeout">Timeout download, prego&lt;font color=#1FA889>riprova&lt;/font></string>
     <string name="download_title">Dopo il download potrai cominciare a condividere</string>
     <string name="dynamic_video_recording">Video dinamico</string>
     <string name="dynamic_video_recording_desc">Registra solo al variare della schermata, in modo da risparmiare spazio su disco</string>
@@ -190,14 +201,18 @@
     <string name="firm_log_q2">2. In che luogo si trova la videocamera?</string>
     <string name="firmware_log_thianks">Vi ringraziamo per la vostra fiducia ed il vostro sostegno, per offrirvi un servizio migliore provate a rispondere esattamente alle seguenti domande. Ancora grazie</string>
     <string name="firmware_not_support">Il firmware attuale non é supportato, si prega di aggiornare</string>
+    <string name="five_minute">5 minuti</string>
+    <string name="floating_window">Schermata flottante</string>
     <string name="framerate_text">Framerate</string>
     <string name="framerate_unit">fps</string>
     <string name="fullscreen">Schermo intero</string>
     <string name="function_not_support">La modalità diretta non supporta operazione di attivazione o disattivazione</string>
+    <string name="function_not_support_floatwindow">La modalità di connessione diretta non supporta le finestre flottanti</string>
     <string name="gallary_empty_snapshot">Ancora nessuna foto</string>
     <string name="gallary_empty_timelapse">Ancora nessun video</string>
     <string name="getCameraTimeToRecordFailure">Impossibile ottenere informazioni timer</string>
     <string name="getTimeToRecordIsOpenFailure">Interruzione timer non riuscita</string>
+    <string name="get_exception">Eccezione</string>
     <string name="go_setting">Imposta</string>
     <string name="guangdian">Radio e TV</string>
     <string name="has_selected">Selezionato</string>
@@ -228,6 +243,7 @@
     <string name="lock_appeal_title">Istruzioni di reso</string>
     <string name="lock_area_1_content">Si prega di fornire i registri di acquisto MI.com, JD, MI Tmall o altri negozi ufficiali</string>
     <string name="lock_area_1_title">1.Immagine della registraziobe del tuo acquisto</string>
+    <string name="lock_area_2_content">Prego fornisci i registri di acquisto su MI.com, JD, MI Tmall o di altri negozi ufficiali</string>
     <string name="lock_area_2_title">2.Immagine codice a barre:</string>
     <string name="lock_area_Chinese">Utilizza solo nel continente Cinese</string>
     <string name="lock_area_English">Questo dispositivo può essere utilizzato solo nel continente Cinese</string>
@@ -248,6 +264,7 @@
     <string name="minute_by">Da</string>
     <string name="minutes">Minuti</string>
     <string name="month">Mese</string>
+    <string name="more">Altro</string>
     <string name="more_replay">Guarda indietro</string>
     <string name="need_connect">Questa funzionalità potrà essere utilizzata dopo il corretto collegamento della videocamera</string>
     <string name="net_break_mp4_too_short">Registrazione in pausa, impossibile salvare a causa del video troppo breve</string>
@@ -269,11 +286,13 @@
     <string name="no_video_to_delete">Non ci sono video da eliminare</string>
     <string name="no_vidwo_to_start_download">Il video non esiste, inizia il download:</string>
     <string name="not_chinese">Non é temporaneamente possibile selezionare la cartella cinese</string>
+    <string name="not_connected_network">Impossibile connettersi alla rete, prego&lt;font color=#1FA889>riprova&lt;/font></string>
     <string name="not_downloaded">Non scaricato</string>
     <string name="not_find_samba">Nessun dispositivo compatibile con il servizio SMB, trovato in prossimità del dispositivo di memorizzazione</string>
     <string name="not_in_same_wifi">Se non riesci a trovare il dispositivo di archiviazione, assicurati che il telefono ed il dispositivo siano connessi allo stesso router</string>
     <string name="not_setting">Non impostato</string>
     <string name="ok_button">Conferma</string>
+    <string name="one_minute">1 minuto</string>
     <string name="only_support_mirouter">supporta solo Mi Router)</string>
     <string name="open_floating_windows">Prego concedi permessi per finestre flottanti</string>
     <string name="open_off_time_to_dynamic_video_record_failure">Cambio video da statico a dinamico non riuscito</string>
@@ -309,6 +328,7 @@
     <string name="play">Broadcast</string>
     <string name="play_now">Guarda più recente</string>
     <string name="playback_not_video">Registrazione in pausa</string>
+    <string name="please_enter_direct_password">Prego immetti una password diretta</string>
     <string name="please_samba_wifi">Si prega di collegare il telefono ed il dispositivo allo stesso router</string>
     <string name="please_speak">Prego parla</string>
     <string name="please_update_firmware">Prsgo aggiorna la versione del firmware</string>
@@ -406,6 +426,7 @@
     <string name="select_all_item">Seleziona tutto</string>
     <string name="select_city_name">Si prega di selezionare una città</string>
     <string name="select_image">Scegli una foto</string>
+    <string name="select_one_day">Seleziona almeno un giorno</string>
     <string name="select_operator_name">Si prega di selezionare un corriere</string>
     <string name="select_samba">Scegli un dispositivo di archiviazione</string>
     <string name="select_samba_dir">Scegli una posizione di archiviazione</string>
@@ -441,6 +462,8 @@
     <string name="skip">Salta</string>
     <string name="smb_file_create_warning">Non puoi creare cartelle nella directory principale</string>
     <string name="snapshot">Istantanea</string>
+    <string name="socket_client">Si è verificato un problema con il servizio socket, prego riprova</string>
+    <string name="socket_client_timeout">Timeout servizio socket, prego riprova</string>
     <string name="space_not_enough">Spazio insufficiente</string>
     <string name="space_not_enough_display">Prego elimina qualche video, o questa registrazione non potrà essere salvata</string>
     <string name="speak_busy">Un altro utente sta attualmente parlando, prego riprova più tardi</string>
@@ -449,13 +472,16 @@
     <string name="start_time">Periodo Temporale Iniziale</string>
     <string name="start_timelapse">Inizio</string>
     <string name="start_too_big">Il periodo di tempo iniziale deve essere inferiore a quello finale</string>
+    <string name="status_acquisition_failed">Acquisizione stato non riuscita</string>
     <string name="stop_samba_save">Ferma il download</string>
     <string name="storage_space_decline">Spazio Insufficiente</string>
     <string name="submit">Invia</string>
     <string name="success">Riuscito</string>
     <string name="switch_auto">Auto</string>
     <string name="switch_off">Disattiva</string>
+    <string name="ten_minute">10 minuti</string>
     <string name="thirty_days">Video salvato nel router e cancellato dopo 30 giorni</string>
+    <string name="thirty_minute">30 minuti</string>
     <string name="tietong">Railcom</string>
     <string name="time_logic_error">La durata é più breve della durata di cattura</string>
     <string name="time_logic_error2">Il tempo iniziale é già trascorso</string>
@@ -506,6 +532,11 @@
     <string name="timelapse_create_warning_cannot_be_null">Prego inserisci</string>
     <string name="timelapse_create_will_create_about">Genererà in base alle dimensioni</string>
     <string name="timelapse_create_xf_will_be">Il dispositivo sarà</string>
+    <string name="timelapse_disable_notice">Download time-lapse video disabilitato</string>
+    <string name="timelapse_disable_notice_desc">"Per aumentare temporaneamente il livello di sicurezza del firmware, disabilita questa funzionalità: prima del rilascio di un nuovo firmware utilizza la scheda 'Esporta', per esportare video time-lapse."</string>
+    <string name="timelapse_downfaile">Download non riuscito, prego riprova</string>
+    <string name="timelapse_duration_hint">Registra 30 secondi per 1 secondo di time-lapse fotografico</string>
+    <string name="timelapse_hint">Clicca per scattare</string>
     <string name="timelapse_interval_type1">3 Secondi (cielo ventoso)</string>
     <string name="timelapse_interval_type2">6 Secondi (alba e tramondo)</string>
     <string name="timelapse_interval_type3">9 Secondi (cielo non ventoso)</string>
@@ -524,10 +555,12 @@
     <string name="tv_conform">Concordo</string>
     <string name="tv_no_dir">"Nessun'altra cartella"</string>
     <string name="tv_off_word">Camera Disattivata</string>
+    <string name="tv_setting_distortion_correction">Correzione di distorsione</string>
     <string name="tv_setting_indicator_light">Luce indicatore di stato</string>
     <string name="tv_setting_night_vision">Visione Notturna</string>
     <string name="two_key_one_title_item">Determina la disattivazione del download video?</string>
     <string name="unknown">Sconosciuto</string>
+    <string name="update_firmware_version">Questa funzionalità richiede un aggiornamento firmware.</string>
     <string name="use_after_connected">Questa funzionalità potrà essere utilizzata dopo che il collegamento della videocamera sarà riuscito</string>
     <string name="use_sd_format">Prova a formattare</string>
     <string name="user_license_dialog_title">Termini di utilizzo e privacy policy</string>
@@ -671,7 +704,6 @@
     <string name="setting_page_memory">Gestione spazio</string>
     <string name="startup">Il dispositivo é in stato di sospensione</string>
     <string name="thumbnail_gallery">"Salvato nell'album"</string>
-    <string name="tv_setting_distortion_correction">Correzione di distorsione</string>
     <string name="usb_default">U-Disk</string>
     <string name="usb_format_ing_content">Prego non rimuovere lo U-Disk o la presa elettrica</string>
     <string name="usb_format_longtime_content">"Se la formattazione non verrà completata dopo alcuni minuti, prendi in considerazione l'estrazione della chiavetta USB per eseguire la formattazione con altro dispositivo."</string>
