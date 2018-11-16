@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Chuangmi Camera Demo</string>
     <string name="cancel">Indietro</string>
@@ -19,6 +19,9 @@
     <string name="TF_card_into_device_is_restarting">Scheda TF collegata, riavvio dispositivo in corso...</string>
     <string name="abnormal_data_transmission">Problema trasmissione dati</string>
     <string name="access_memory_error">Scheda di memoria multi-partizione non disponibile</string>
+    <string name="acquired_skills">Sette abilità sono state apprese</string>
+    <string name="action_back">Indietro</string>
+    <string name="action_menu">Menù</string>
     <string name="air_quality">"Qualità dell'aria"</string>
     <string name="air_quality_content">"\"Come sará l'aria oggi?\"
 \"Come sará l'aria fuori?\"
@@ -26,6 +29,7 @@
     <string name="all_do_not_choose">Nessun elemento selezionato</string>
     <string name="answer_calls">Rispondi</string>
     <string name="april">Aprile</string>
+    <string name="audio_permission_denied">Nessuna autorizzazione di registrazione audio</string>
     <string name="audio_record_permission_denied">Si prega di concedere il permesso per utilizzare il microfono</string>
     <string name="august">Agosto</string>
     <string name="available_samba_dev">Dispositivi disponibili</string>
@@ -35,10 +39,9 @@
     <string name="call_is_already_occupied">Funzionalità già in uso</string>
     <string name="camera">Camera</string>
     <string name="camera_cancel">Indietro</string>
-    <string name="camera_cancle">Indietro</string>
+    <string name="camera_dormancy">Sospensione…</string>
     <string name="camera_dormant">Sospensione camera</string>
     <string name="camera_dormant_prompt_message">"Durante la fase di sospensione della camera, l'area di monitoraggio non potrà essere visualizzata in tempo reale, le funzionalità come la chiamata, la registrazione, la ripresa di foto e la gestione intelligente saranno sospese."</string>
-    <string name="camera_dromanting">In sospensione…</string>
     <string name="camera_er_device_exceed_max_session">Hai eseguito troppe sessioni, riprova più tardi</string>
     <string name="camera_history_get_list_timeout">Timeout recupero cronologia</string>
     <string name="camera_is_dormant">Sospensione…</string>
@@ -66,6 +69,7 @@
     <string name="close_anti_theft_failure_mode">Problema di rete, disattivazione non riuscita</string>
     <string name="close_anti_theft_mode_successfully">Disattivazione riuscita</string>
     <string name="closed">Disattivato</string>
+    <string name="configure_storage_device">Configura dispositivo di archiviazione</string>
     <string name="connection_timeout">Connessione scaduta</string>
     <string name="currently_there_is_no_video">Non ci sono video</string>
     <string name="day">G</string>
@@ -95,11 +99,12 @@
     <string name="equipment_has_been_hung_up">Dispositivo riconnesso</string>
     <string name="equipment_side_hang_up">Il dispositivo necessita di riconnessione</string>
     <string name="failed_to_request_file">Richiesta file non riuscita</string>
+    <string name="favorite_location">Posizione preferita</string>
     <string name="february">Febbraio</string>
     <string name="fetch_insurance">Protezione famigliare</string>
     <string name="format_day">dd/MM/yyyy</string>
     <string name="format_the_success">Formattazione riuscita</string>
-    <string name="formating">Formattazione…</string>
+    <string name="formatting">Formattazione…</string>
     <string name="formatting_failure">Formattazione non riuscita</string>
     <string name="future_generations">Seleziona tutto</string>
     <string name="get_failure">Impossibile ottenere</string>
@@ -111,8 +116,6 @@
     <string name="help_center">Assistenza</string>
     <string name="high_sensitivity">Alta sensibilità</string>
     <string name="history_setting">Impostazioni cronologia</string>
-    <string name="history_video_restorage">Archiviazione di rete</string>
-    <string name="history_video_restorage_setting">Configura archiviazione</string>
     <string name="housekeeping">Assistente pulizia</string>
     <string name="housekeeping_assistant_add">Aggiungi</string>
     <string name="housekeeping_assistant_add_ok">Conferma</string>
@@ -131,16 +134,16 @@
     <string name="imi_camera_correct_pos">Calibrazione camera</string>
     <string name="imi_cf_fling_lr_remind">Rotazione oscillante orizzontale (verso destra o sinistra)</string>
     <string name="imi_change_smb_storage_dir">Cambia punto di archiviazione</string>
-    <string name="imi_check_xiaobai_updatev">Rilevata nuova versione firmware %1$s</string>
+    <string name="imi_check_xiaobai_update">Aggiornamento firmware (%1$s) disponibile</string>
     <string name="imi_clear_history_video">Cancella cronologia video</string>
     <string name="imi_click_retry">Riprova</string>
-    <string name="imi_click_to_dwon_event1">"Visualizza l'evento"</string>
-    <string name="imi_click_to_dwon_event2">Scarica nella memoria del telefono</string>
-    <string name="imi_click_to_loadmore">Carica altro</string>
+    <string name="imi_click_to_down_event1">Tocca per visualizzare un evento</string>
+    <string name="imi_click_to_down_event2">Salva nella Galleria</string>
+    <string name="imi_click_to_load_more">Tocca per caricare altro</string>
     <string name="imi_click_to_store_pos">Salva visuale attuale</string>
     <string name="imi_conform_delete_num">"Sei sicuro di voler eliminare l'elemento %1$d?"</string>
-    <string name="imi_customed_hk">Visuale perzonalizzata</string>
-    <string name="imi_date_fromat">MM/gg</string>
+    <string name="imi_custom_hk">DIY</string>
+    <string name="imi_date_format">MM/dd</string>
     <string name="imi_day_night_mode">Visione notturna ad infrarossi</string>
     <string name="imi_debug_title">Camera Intelligente</string>
     <string name="imi_deleted_num">Elimina %1$d</string>
@@ -149,6 +152,7 @@
     <string name="imi_enjoy_it">Inizia</string>
     <string name="imi_firm_upgrade_remind">Il firmware é stato aggiornato alla versione 2.8.0</string>
     <string name="imi_flip">Capovolgi immagine</string>
+    <string name="imi_flip_prompt">È necessario riavviare la rotazione dello schermo del dispositivo, determinare il periodo di riavvio del dispositivo?</string>
     <string name="imi_flip_subtitle">Attiva questa opzione quando la fotocamera é girata</string>
     <string name="imi_format_t_card">Formatta scheda di memoria</string>
     <string name="imi_from_xiaobai_video_invitation">Sei stato invitato ad una conversazione video</string>
@@ -173,7 +177,7 @@
     <string name="imi_load_qrcode_fail">Impossibile ottenere codice QR</string>
     <string name="imi_low_sens_explain">"Adatto per un'alta attenzione allo stato della casa, le informazioni verranno riportate sullo schermo durante l'acquisizione video"</string>
     <string name="imi_move_to_stored_pos">Imposta su visuale salvata</string>
-    <string name="imi_msdcard_formating_rmd">Il multi-partizionamento della scheda di memoria sarà disponibile dopo la formattazione</string>
+    <string name="imi_msdcard_formatting_rmd">Impossibile utilizzare una scheda SD con molteplici partizionamenti. Formatta la tua scheda SD.</string>
     <string name="imi_multi_xiaobai_view_remind">Supportate fino a 6 visuali durante la navigazione</string>
     <string name="imi_no_network_remind">Nessuna connessione Internet, verifica la rete e riprova (100-2009)</string>
     <string name="imi_no_sdcard_plugin">Nessuna scheda di memoria rilevata</string>
@@ -196,7 +200,7 @@
     <string name="imi_public_id">Crea un account</string>
     <string name="imi_recv_alarm_push_msg">Ricevi notifiche in caso di allarme</string>
     <string name="imi_recv_alarm_push_msg_by_wechat">Utilizza WeChat per ricevere messaggi di allarme</string>
-    <string name="imi_remove_binded_dev_rmd">Sei sicuro di voler eliminare il dispositivo di archiviazione associato?</string>
+    <string name="imi_remove_bind_dev_rmd">Rimuovere dispositivo di archiviazione abbinato?</string>
     <string name="imi_remove_smb_dev">Rimuovi dispositivo di archiviazione</string>
     <string name="imi_remove_videos_rmd">Sei sicuro di voler eliminare tutti i video?</string>
     <string name="imi_removing_msdcard_restart">La scheda multi-partizione verrà eliminata, ed il dispositivo riavviato</string>
@@ -214,21 +218,21 @@
     <string name="imi_smb_dev_name">Nome dispositivo di archiviazione</string>
     <string name="imi_smb_last_op_time">Ultimo periodo di scrittura %1$s</string>
     <string name="imi_smb_limit_remind">"Inserisci la scheda di memoria adibita all'archiviazione LAN SMB"</string>
+    <string name="imi_smb_storage_dir">Posizione</string>
     <string name="imi_smb_storage_exception">Errore trasmissione</string>
     <string name="imi_smb_storage_ok">Trasmissione normale</string>
-    <string name="imi_smb_stroage_dir">Posizione salvataggio</string>
     <string name="imi_smb_transfer_proto">Protocollo di comunicazione</string>
+    <string name="imi_smb_user_pwd">Password</string>
     <string name="imi_smb_username">Nome utente</string>
-    <string name="imi_smb_userpswd">Password</string>
     <string name="imi_smb_wkgrp">Gruppo di lavoro</string>
     <string name="imi_storage_exception">Eccezione archiviazione</string>
+    <string name="imi_storage_occupy_capacity">Il video di sorveglianza occuperà 240GB di spazio su Mi Router</string>
+    <string name="imi_storage_out_of_space_remind">La camera avvierà un nuovo ciclo quando lo spazio di archiviazione disponibile sarà esaurito</string>
     <string name="imi_storage_setting">Salva impostazioni</string>
-    <string name="imi_stroage_occupy_capacity">La memoria video occuperà 240GB di spazio sul disco fisso del Mi Router</string>
-    <string name="imi_stroage_strategy1">Registrazione continua per 30 giorni</string>
-    <string name="imi_stroage_strategy2">Spazio di archiviazione illimitato</string>
-    <string name="imi_stroage_strategy2_explain">Questo occuperà tutto lo spazio disponibile del router</string>
-    <string name="imi_strore_out_of_space_remind">Padrone, effettuerò delle registrazioni automatiche quando ci sarà poco spazio</string>
-    <string name="imi_strore_to_dcim_remind">Il video attuale è stato salvato nel telefono</string>
+    <string name="imi_storage_strategy1">Ciclo di registrazione 30 giorni</string>
+    <string name="imi_storage_strategy2">Archiviazione illimitata</string>
+    <string name="imi_storage_strategy2_explain">Lo spazio disponibile sul Router sta per terminare</string>
+    <string name="imi_storage_to_dcim_remind">Il video è stato salvato sulla Galleria</string>
     <string name="imi_sure_to_del_item">Sei sicuro di volerlo eliminare?</string>
     <string name="imi_switch_fail">Variazione non riuscita</string>
     <string name="imi_switched_success">"Qualità dell'immagine correttamente variata"</string>
@@ -244,12 +248,12 @@
     <string name="imi_unknown_error">Errore sconosciuto</string>
     <string name="imi_upgrade_new_remind">Nuovo aggiornamento disponibile</string>
     <string name="imi_vc_remind">Supporto vocale fino a 10 metri</string>
-    <string name="imi_video_store_to_dcard">Registrazione video su scheda SD</string>
+    <string name="imi_video_store_to_sdcard">Il video è stato salvato sulla scheda SD</string>
     <string name="imi_wechat_bind_on">Abbinato</string>
-    <string name="imi_weixin_unbind">Disabbina</string>
-    <string name="imi_weixin_unbind_fail">Disabbinamento non riuscito</string>
-    <string name="imi_weixin_unbind_msg">Disabbinando non potrai piú utilizzare il tuo numero per ricevere messaggi di allarme</string>
-    <string name="imi_weixin_unbind_success">Disabbinamento riuscito</string>
+    <string name="imi_wechat_unbind">Rimuovi</string>
+    <string name="imi_wechat_unbind_fail">Impossibile rimuovere</string>
+    <string name="imi_wechat_unbind_msg">Non seguire e non ricevere avvisi con questo account</string>
+    <string name="imi_wechat_unbind_success">Rimozione riuscita</string>
     <string name="imi_xiaobai_sleeping">Shhh...Il dispositivo è in fase di sospensione</string>
     <string name="in_the_custom_to_take_care_of">Periodo personalizzato</string>
     <string name="in_the_custom_to_take_care_of_options_info">Dalle %1$d:00 alle %2$d:00, quando un estraneo irrompe o muove oggetti</string>
@@ -289,6 +293,7 @@
     <string name="moments">Momenti meravigliosi</string>
     <string name="monitor_storage_setting">Cronologia impostazioni salvataggio video su router</string>
     <string name="mute">Muta</string>
+    <string name="network_storage">Archiviazione di rete</string>
     <string name="next">Prossimo</string>
     <string name="not_support_router">Backup non supportato, assicurati che la fotocamera ed il Mi Router siano collegati al medesimo account Smart Home</string>
     <string name="november">Novembre</string>
@@ -303,6 +308,7 @@
     <string name="please_close_the_video_can_only_be_switching_resolution">Disattiva la videata prima di cambiare la risoluzione</string>
     <string name="please_connect_to_the_internet">Prego connettiti ad Internet</string>
     <string name="please_select_a_project">Prego seleziona elemento</string>
+    <string name="progress_dialog_already">Completato</string>
     <string name="prompt">Notifica</string>
     <string name="quality_in_the_switch_please_later">Cambio qualità immagine, attendere prego…</string>
     <string name="reclose_camera_dormant">Disattivazione camera non riuscita，riprovare?</string>
@@ -319,7 +325,9 @@
     <string name="reread_the_camera_configuration">Impossibile caricare la configurazione della telecamera, caricare nuovamente?</string>
     <string name="restorage_dev">Dispositivi abbinabili</string>
     <string name="router">Router</string>
+    <string name="said_to_xiaobai">Puoi dirlo a Xiaobai:</string>
     <string name="see_the_history">Visualizza cronologia</string>
+    <string name="select_all">Seleziona tutto</string>
     <string name="september">Settembre</string>
     <string name="session_timeout">Sessione scaduta (-1)</string>
     <string name="set_custom_time_to_take_care_of">Orario personalizzato</string>
@@ -328,6 +336,7 @@
     <string name="set_house_keeping_msg1">"Quando qualcuno irromperà o si muoverà all'interno dell'area controllata durante l'orario specificato, la videocamera registrerà immediatamente il video di allarme e ti invierà una notifica"</string>
     <string name="set_house_keeping_msg2">"Il video di allarme registrato verrà crittografato e caricato sul cloud per 7 giorni, da cui potrai ripristinare l'intero evento"</string>
     <string name="setting">Imposta</string>
+    <string name="setting_title">Impostazione</string>
     <string name="settings_flip_status_flip">Invertita</string>
     <string name="settings_flip_status_normal">Normale</string>
     <string name="smooth">Fluido</string>
@@ -338,6 +347,7 @@
     <string name="storage_space">Spazio di archiviazione</string>
     <string name="storage_space_is_insufficient">Lo spazio di archiviazione sta per terminare</string>
     <string name="super_clear">Super-Pulizia</string>
+    <string name="switch_to_voice_call">La qualità della rete è scarsa, ti suggeriamo di passare alla chiamata vocale</string>
     <string name="switched_to_the_smooth">Passa ad LD</string>
     <string name="switched_to_the_standard">Passa ad HD</string>
     <string name="temporarily_unable_to_open">Temporaneamente non funzionante. In sospensione…</string>
@@ -357,6 +367,7 @@
     <string name="to_switch_the_voice">Cambia voce</string>
     <string name="today">Oggi</string>
     <string name="turn_not_move">Impossibile spostare!</string>
+    <string name="unselect_all">Deseleziona tutto</string>
     <string name="video_file_download_fail_check">Scaricamento non riuscito, verifica la rete</string>
     <string name="video_file_exist">Video salvato</string>
     <string name="video_file_store_fail">Salvataggio video non riuscito</string>
@@ -388,13 +399,33 @@
 \"Cosa faccio se sono raffreddato?\"
 \"Come affronto le ustioni?\""</string>
     <string name="xiaobai">Xiaobai</string>
+    <string name="xiaobai_skill">Apprendimento Xiaobai</string>
     <string name="yesterday">Ieri</string>
-    <string name="action_back">Indietro</string>
-    <string name="action_menu">Menù</string>
-    <string name="progress_dialog_already">Completato</string>
-    <string name="select_all">Seleziona tutto</string>
-    <string name="setting_title">Impostazione</string>
-    <string name="unselect_all">Deseleziona tutto</string>
-    <string name="favorite_location">Posizione preferita</string>
     <string name="floating_window_permission_denied">Nessuna autorizzazione per finestre flottanti</string>
+    <string name="camera_cancle">Indietro</string>
+    <string name="camera_dromanting">In sospensione…</string>
+    <string name="formating">Formattazione…</string>
+    <string name="history_video_restorage">Archiviazione di rete</string>
+    <string name="history_video_restorage_setting">Configura archiviazione</string>
+    <string name="imi_check_xiaobai_updatev">Rilevata nuova versione firmware %1$s</string>
+    <string name="imi_click_to_dwon_event1">"Visualizza l'evento"</string>
+    <string name="imi_click_to_dwon_event2">Scarica nella memoria del telefono</string>
+    <string name="imi_click_to_loadmore">Carica altro</string>
+    <string name="imi_customed_hk">Visuale perzonalizzata</string>
+    <string name="imi_date_fromat">MM/gg</string>
+    <string name="imi_msdcard_formating_rmd">Il multi-partizionamento della scheda di memoria sarà disponibile dopo la formattazione</string>
+    <string name="imi_remove_binded_dev_rmd">Sei sicuro di voler eliminare il dispositivo di archiviazione associato?</string>
+    <string name="imi_smb_stroage_dir">Posizione salvataggio</string>
+    <string name="imi_smb_userpswd">Password</string>
+    <string name="imi_stroage_occupy_capacity">La memoria video occuperà 240GB di spazio sul disco fisso del Mi Router</string>
+    <string name="imi_stroage_strategy1">Registrazione continua per 30 giorni</string>
+    <string name="imi_stroage_strategy2">Spazio di archiviazione illimitato</string>
+    <string name="imi_stroage_strategy2_explain">Questo occuperà tutto lo spazio disponibile del router</string>
+    <string name="imi_strore_out_of_space_remind">Padrone, effettuerò delle registrazioni automatiche quando ci sarà poco spazio</string>
+    <string name="imi_strore_to_dcim_remind">Il video attuale è stato salvato nel telefono</string>
+    <string name="imi_video_store_to_dcard">Registrazione video su scheda SD</string>
+    <string name="imi_weixin_unbind">Disabbina</string>
+    <string name="imi_weixin_unbind_fail">Disabbinamento non riuscito</string>
+    <string name="imi_weixin_unbind_msg">Disabbinando non potrai piú utilizzare il tuo numero per ricevere messaggi di allarme</string>
+    <string name="imi_weixin_unbind_success">Disabbinamento riuscito</string>
 </resources>
